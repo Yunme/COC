@@ -1,0 +1,70 @@
+{
+  "id": "flame-flinger",
+  "name": "Flame Flinger",
+  "nameCn": "攻城烈焰车",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 124,
+      "damagePerHit": 675,
+      "熔岩的最大伤害<sup>④<Sup>": 80,
+      "最大存活时间<sup>⑤<Sup>": 100,
+      "hp": 1700,
+      "requiredLabLevel": 1,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "dps": 137,
+      "damagePerHit": 750,
+      "熔岩的最大伤害<sup>④<Sup>": 95,
+      "最大存活时间<sup>⑤<Sup>": 105.88,
+      "hp": 1800,
+      "upgradeCost": 5500000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "dps": 151,
+      "damagePerHit": 825,
+      "熔岩的最大伤害<sup>④<Sup>": 105,
+      "最大存活时间<sup>⑤<Sup>": 111.76,
+      "hp": 1900,
+      "upgradeCost": 8000000,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 165,
+      "damagePerHit": 900,
+      "熔岩的最大伤害<sup>④<Sup>": 120,
+      "最大存活时间<sup>⑤<Sup>": 117.64,
+      "hp": 2000,
+      "upgradeCost": 10000000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "dps": 179,
+      "damagePerHit": 975,
+      "熔岩的最大伤害<sup>④<Sup>": 130,
+      "最大存活时间<sup>⑤<Sup>": 123.52,
+      "hp": 2100,
+      "upgradeCost": 18000000,
+      "upgradeTime": "12d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0245",
+  "imgSrc": "Flame_Flinger.png"
+}

@@ -1,0 +1,191 @@
+{
+  "id": "archer-puppet",
+  "name": "Archer Puppet",
+  "nameCn": "弓箭手木偶",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "召唤的弓箭手数量": 5,
+      "英雄每秒伤害增加": 28,
+      "开启技能后生命值恢复加成": 176,
+      "隐身持续时间": 3.5,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "召唤的弓箭手数量": 5,
+      "英雄每秒伤害增加": 37,
+      "开启技能后生命值恢复加成": 193,
+      "隐身持续时间": 3.5,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "召唤的弓箭手数量": 10,
+      "英雄每秒伤害增加": 46,
+      "开启技能后生命值恢复加成": 209,
+      "隐身持续时间": 4,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "召唤的弓箭手数量": 10,
+      "英雄每秒伤害增加": 54,
+      "开启技能后生命值恢复加成": 226,
+      "隐身持续时间": 4,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "召唤的弓箭手数量": 10,
+      "英雄每秒伤害增加": 61,
+      "开启技能后生命值恢复加成": 242,
+      "隐身持续时间": 4,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "召唤的弓箭手数量": 15,
+      "英雄每秒伤害增加": 68,
+      "开启技能后生命值恢复加成": 259,
+      "隐身持续时间": 4.5,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "召唤的弓箭手数量": 15,
+      "英雄每秒伤害增加": 78,
+      "开启技能后生命值恢复加成": 275,
+      "隐身持续时间": 4.5,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 8,
+      "召唤的弓箭手数量": 15,
+      "英雄每秒伤害增加": 88,
+      "开启技能后生命值恢复加成": 292,
+      "隐身持续时间": 4.5,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 9,
+      "召唤的弓箭手数量": 20,
+      "英雄每秒伤害增加": 99,
+      "开启技能后生命值恢复加成": 308,
+      "隐身持续时间": 5,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 10,
+      "召唤的弓箭手数量": 20,
+      "英雄每秒伤害增加": 110,
+      "开启技能后生命值恢复加成": 323,
+      "隐身持续时间": 5,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 11,
+      "召唤的弓箭手数量": 20,
+      "英雄每秒伤害增加": 120,
+      "开启技能后生命值恢复加成": 341,
+      "隐身持续时间": 5,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 12,
+      "召唤的弓箭手数量": 25,
+      "英雄每秒伤害增加": 127,
+      "开启技能后生命值恢复加成": 358,
+      "隐身持续时间": 5.5,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 13,
+      "召唤的弓箭手数量": 25,
+      "英雄每秒伤害增加": 134,
+      "开启技能后生命值恢复加成": 374,
+      "隐身持续时间": 5.5,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 14,
+      "召唤的弓箭手数量": 25,
+      "英雄每秒伤害增加": 140,
+      "开启技能后生命值恢复加成": 396,
+      "隐身持续时间": 5.5,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 15,
+      "召唤的弓箭手数量": 30,
+      "英雄每秒伤害增加": 145,
+      "开启技能后生命值恢复加成": 418,
+      "隐身持续时间": 6,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 16,
+      "召唤的弓箭手数量": 30,
+      "英雄每秒伤害增加": 150,
+      "开启技能后生命值恢复加成": 440,
+      "隐身持续时间": 6,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "召唤的弓箭手数量": 30,
+      "英雄每秒伤害增加": 154,
+      "开启技能后生命值恢复加成": 462,
+      "隐身持续时间": 6,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "召唤的弓箭手数量": 35,
+      "英雄每秒伤害增加": 159,
+      "开启技能后生命值恢复加成": 484,
+      "隐身持续时间": 6.5,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/0740",
+  "imgSrc": "Archer_Puppet_info.png"
+}

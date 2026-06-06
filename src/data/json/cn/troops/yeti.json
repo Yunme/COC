@@ -1,0 +1,73 @@
+{
+  "id": "yeti",
+  "name": "Yeti",
+  "nameCn": "大雪怪",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 230,
+      "damagePerHit": 230,
+      "hp": 2900,
+      "townHallLevel": 12
+    },
+    {
+      "level": 2,
+      "dps": 250,
+      "damagePerHit": 250,
+      "hp": 3200,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "dps": 270,
+      "damagePerHit": 270,
+      "hp": 3500,
+      "upgradeCost": 7000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 4,
+      "dps": 290,
+      "damagePerHit": 290,
+      "hp": 3700,
+      "upgradeCost": 10000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "dps": 310,
+      "damagePerHit": 310,
+      "hp": 3900,
+      "upgradeCost": 14000000,
+      "upgradeTime": "10d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "dps": 330,
+      "damagePerHit": 330,
+      "hp": 4100,
+      "upgradeCost": 16800000,
+      "upgradeTime": "12d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 7,
+      "dps": 350,
+      "damagePerHit": 350,
+      "hp": 4300,
+      "upgradeCost": 22500000,
+      "upgradeTime": "15d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/000d",
+  "imgSrc": "Yeti_info.png"
+}

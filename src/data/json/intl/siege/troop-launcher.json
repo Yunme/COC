@@ -1,0 +1,70 @@
+{
+  "id": "troop-launcher",
+  "name": "Troop Launcher",
+  "nameCn": "部队发射器",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "最长存活时间": 80,
+      "桶的数量": 5,
+      "野蛮人数量": 2,
+      "弓箭手数量": 3,
+      "巨人数量": 1,
+      "炸弹人数量": 1,
+      "部队等级": 9,
+      "hp": 2000,
+      "requiredLabLevel": 1,
+      "townHallLevel": 16
+    },
+    {
+      "level": 2,
+      "最长存活时间": 88,
+      "桶的数量": 5,
+      "野蛮人数量": 2,
+      "弓箭手数量": 3,
+      "巨人数量": 1,
+      "炸弹人数量": 2,
+      "部队等级": 10,
+      "hp": 2200,
+      "upgradeCost": 8500000,
+      "upgradeTime": "6d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 3,
+      "最长存活时间": 96,
+      "桶的数量": 6,
+      "野蛮人数量": 2,
+      "弓箭手数量": 4,
+      "巨人数量": 1,
+      "炸弹人数量": 2,
+      "部队等级": 11,
+      "hp": 2400,
+      "upgradeCost": 10000000,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 4,
+      "最长存活时间": 104,
+      "桶的数量": 7,
+      "野蛮人数量": 2,
+      "弓箭手数量": 4,
+      "巨人数量": 1,
+      "炸弹人数量": 2,
+      "部队等级": 12,
+      "hp": 2600,
+      "upgradeCost": 17000000,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0247",
+  "imgSrc": "Troop_Launcher_info.png"
+}

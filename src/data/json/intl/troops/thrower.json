@@ -1,0 +1,50 @@
+{
+  "id": "thrower",
+  "name": "Thrower",
+  "nameCn": "巨矛投手",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 190,
+      "damagePerHit": 475,
+      "hp": 2200,
+      "requiredLabLevel": 1,
+      "townHallLevel": 16
+    },
+    {
+      "level": 2,
+      "dps": 210,
+      "damagePerHit": 525,
+      "hp": 2350,
+      "upgradeCost": 16000000,
+      "upgradeTime": "9d12h",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 3,
+      "dps": 230,
+      "damagePerHit": 575,
+      "hp": 2600,
+      "upgradeCost": 18000000,
+      "upgradeTime": "10d12h",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "dps": 240,
+      "damagePerHit": 600,
+      "hp": 2800,
+      "upgradeCost": 27000000,
+      "upgradeTime": "15d",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0011",
+  "imgSrc": "Thrower_info.png"
+}

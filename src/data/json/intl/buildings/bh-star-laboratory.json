@@ -1,0 +1,81 @@
+{
+  "id": "bh-star-laboratory",
+  "name": "Star Laboratory",
+  "nameCn": "星空实验室",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 650,
+      "upgradeCost": 1000,
+      "所需夜世界大本营等级": 2
+    },
+    {
+      "level": 2,
+      "hp": 800,
+      "upgradeCost": 15000,
+      "upgradeTime": "10m",
+      "所需夜世界大本营等级": 2
+    },
+    {
+      "level": 3,
+      "hp": 975,
+      "upgradeCost": 50000,
+      "upgradeTime": "30m",
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 4,
+      "hp": 1150,
+      "upgradeCost": 300000,
+      "upgradeTime": "8h",
+      "所需夜世界大本营等级": 4
+    },
+    {
+      "level": 5,
+      "hp": 1350,
+      "upgradeCost": 700000,
+      "upgradeTime": "12h",
+      "所需夜世界大本营等级": 5
+    },
+    {
+      "level": 6,
+      "hp": 1600,
+      "upgradeCost": 1000000,
+      "upgradeTime": "2d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 7,
+      "hp": 1850,
+      "upgradeCost": 2000000,
+      "upgradeTime": "4d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 8,
+      "hp": 2150,
+      "upgradeCost": 3000000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 9,
+      "hp": 2450,
+      "upgradeCost": 4000000,
+      "upgradeTime": "8d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 10,
+      "hp": 2750,
+      "upgradeCost": 5000000,
+      "upgradeTime": "10d",
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1282",
+  "imgSrc": "Star_Laboratory10.png"
+}

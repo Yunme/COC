@@ -1,0 +1,60 @@
+{
+  "id": "scattershot",
+  "name": "Scattershot",
+  "nameCn": "投石炮",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 125,
+      "hp": 3600,
+      "upgradeCost": 8000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "dps": 150,
+      "hp": 4200,
+      "upgradeCost": 9000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "dps": 170,
+      "hp": 4800,
+      "upgradeCost": 11000000,
+      "upgradeTime": "7d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 175,
+      "hp": 5100,
+      "upgradeCost": 11500000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 5,
+      "dps": 180,
+      "hp": 5410,
+      "upgradeCost": 12000000,
+      "upgradeTime": "8d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 6,
+      "dps": 185,
+      "hp": 5600,
+      "upgradeCost": 16500000,
+      "upgradeTime": "9d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_buildings/030e",
+  "imgSrc": "Scattershot6_hd.png"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "electro-fangs",
+  "name": "Electro Fangs",
+  "nameCn": "雷电獠牙",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "damagePerHit": 330,
+      "townHallLevel": 17
+    },
+    {
+      "level": 2,
+      "damagePerHit": 330,
+      "upgradeCost": 120,
+      "townHallLevel": 17
+    },
+    {
+      "level": 3,
+      "damagePerHit": 340,
+      "upgradeCost": 240,
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "damagePerHit": 340,
+      "upgradeCost": 400,
+      "townHallLevel": 17
+    },
+    {
+      "level": 5,
+      "damagePerHit": 340,
+      "upgradeCost": 600,
+      "townHallLevel": 17
+    },
+    {
+      "level": 6,
+      "damagePerHit": 350,
+      "upgradeCost": 840,
+      "townHallLevel": 17
+    },
+    {
+      "level": 7,
+      "damagePerHit": 350,
+      "upgradeCost": 1120,
+      "townHallLevel": 17
+    },
+    {
+      "level": 8,
+      "damagePerHit": 350,
+      "upgradeCost": 1440,
+      "townHallLevel": 17
+    },
+    {
+      "level": 9,
+      "damagePerHit": 360,
+      "upgradeCost": 1800,
+      "townHallLevel": 17
+    },
+    {
+      "level": 10,
+      "damagePerHit": 360,
+      "upgradeCost": 1900,
+      "townHallLevel": 17
+    },
+    {
+      "level": 11,
+      "damagePerHit": 360,
+      "upgradeCost": 2000,
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "damagePerHit": 370,
+      "upgradeCost": 2100,
+      "townHallLevel": 17
+    },
+    {
+      "level": 13,
+      "damagePerHit": 370,
+      "upgradeCost": 2200,
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "damagePerHit": 370,
+      "upgradeCost": 2300,
+      "townHallLevel": 17
+    },
+    {
+      "level": 15,
+      "damagePerHit": 380,
+      "upgradeCost": 2400,
+      "townHallLevel": 17
+    },
+    {
+      "level": 16,
+      "damagePerHit": 380,
+      "upgradeCost": 2500,
+      "townHallLevel": 17
+    },
+    {
+      "level": 17,
+      "damagePerHit": 380,
+      "upgradeCost": 2600,
+      "townHallLevel": 17
+    },
+    {
+      "level": 18,
+      "damagePerHit": 400,
+      "upgradeCost": 2700,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_heroes/07e4",
+  "imgSrc": "Electro_Fangs_info.png"
+}

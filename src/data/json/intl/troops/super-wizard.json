@@ -1,0 +1,60 @@
+{
+  "id": "super-wizard",
+  "name": "Super Wizard",
+  "nameCn": "超级法师",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 9,
+      "dps": 220,
+      "直接伤害": 440,
+      "连锁伤害": 176,
+      "hp": 545,
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 240,
+      "直接伤害": 480,
+      "连锁伤害": 192,
+      "hp": 705,
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "dps": 265,
+      "直接伤害": 530,
+      "连锁伤害": 212,
+      "hp": 760,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 285,
+      "直接伤害": 570,
+      "连锁伤害": 228,
+      "hp": 815,
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "dps": 305,
+      "直接伤害": 610,
+      "连锁伤害": 244,
+      "hp": 870,
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "dps": 335,
+      "直接伤害": 670,
+      "连锁伤害": 268,
+      "hp": 925,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0609",
+  "imgSrc": "Super_Wizard_info.png"
+}

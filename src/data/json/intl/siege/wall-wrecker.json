@@ -1,0 +1,70 @@
+{
+  "id": "wall-wrecker",
+  "name": "Wall Wrecker",
+  "nameCn": "攻城战车",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 250,
+      "damagePerHit": 325,
+      "hp": 5500,
+      "requiredLabLevel": 1,
+      "townHallLevel": 12
+    },
+    {
+      "level": 2,
+      "dps": 300,
+      "damagePerHit": 390,
+      "hp": 6000,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "dps": 350,
+      "damagePerHit": 455,
+      "hp": 6500,
+      "upgradeCost": 3500000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 4,
+      "dps": 400,
+      "damagePerHit": 520,
+      "hp": 7000,
+      "upgradeCost": 6500000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "dps": 580,
+      "damagePerHit": 754,
+      "hp": 8500,
+      "upgradeCost": 10000000,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "dps": 670,
+      "damagePerHit": 871,
+      "hp": 10000,
+      "upgradeCost": 26000000,
+      "upgradeTime": "13d12h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0240",
+  "imgSrc": "Wall_Wrecker_info.png"
+}

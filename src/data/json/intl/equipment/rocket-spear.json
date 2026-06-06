@@ -1,0 +1,281 @@
+{
+  "id": "rocket-spear",
+  "name": "Rocket Spear",
+  "nameCn": "火箭飞矛",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 27,
+  "levels": [
+    {
+      "level": 1,
+      "技能状态下每次伤害增加": 350,
+      "技能攻击次数": 7,
+      "英雄秒伤增加": 35,
+      "英雄生命值增加": 50,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "技能状态下每次伤害增加": 350,
+      "技能攻击次数": 7,
+      "英雄秒伤增加": 40,
+      "英雄生命值增加": 75,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "技能状态下每次伤害增加": 420,
+      "技能攻击次数": 7,
+      "英雄秒伤增加": 45,
+      "英雄生命值增加": 100,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 4,
+      "技能状态下每次伤害增加": 420,
+      "技能攻击次数": 7,
+      "英雄秒伤增加": 50,
+      "英雄生命值增加": 125,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "技能状态下每次伤害增加": 420,
+      "技能攻击次数": 7,
+      "英雄秒伤增加": 55,
+      "英雄生命值增加": 150,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 6,
+      "技能状态下每次伤害增加": 490,
+      "技能攻击次数": 7,
+      "英雄秒伤增加": 60,
+      "英雄生命值增加": 175,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "技能状态下每次伤害增加": 490,
+      "技能攻击次数": 7,
+      "英雄秒伤增加": 66,
+      "英雄生命值增加": 200,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "技能状态下每次伤害增加": 490,
+      "技能攻击次数": 7,
+      "英雄秒伤增加": 72,
+      "英雄生命值增加": 225,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "技能状态下每次伤害增加": 560,
+      "技能攻击次数": 8,
+      "英雄秒伤增加": 78,
+      "英雄生命值增加": 250,
+      "upgradeCost": 10,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "技能状态下每次伤害增加": 560,
+      "技能攻击次数": 8,
+      "英雄秒伤增加": 85,
+      "英雄生命值增加": 275,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "技能状态下每次伤害增加": 560,
+      "技能攻击次数": 8,
+      "英雄秒伤增加": 92,
+      "英雄生命值增加": 300,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 12,
+      "技能状态下每次伤害增加": 630,
+      "技能攻击次数": 8,
+      "英雄秒伤增加": 99,
+      "英雄生命值增加": 325,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 13,
+      "技能状态下每次伤害增加": 630,
+      "技能攻击次数": 8,
+      "英雄秒伤增加": 105,
+      "英雄生命值增加": 350,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 14,
+      "技能状态下每次伤害增加": 630,
+      "技能攻击次数": 8,
+      "英雄秒伤增加": 111,
+      "英雄生命值增加": 375,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 15,
+      "技能状态下每次伤害增加": 700,
+      "技能攻击次数": 8,
+      "英雄秒伤增加": 117,
+      "英雄生命值增加": 400,
+      "upgradeCost": 30,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 16,
+      "技能状态下每次伤害增加": 700,
+      "技能攻击次数": 8,
+      "英雄秒伤增加": 122,
+      "英雄生命值增加": 425,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 17,
+      "技能状态下每次伤害增加": 700,
+      "技能攻击次数": 8,
+      "英雄秒伤增加": 127,
+      "英雄生命值增加": 450,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 18,
+      "技能状态下每次伤害增加": 770,
+      "技能攻击次数": 9,
+      "英雄秒伤增加": 132,
+      "英雄生命值增加": 475,
+      "upgradeCost": 50,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 19,
+      "技能状态下每次伤害增加": 770,
+      "技能攻击次数": 9,
+      "英雄秒伤增加": 136,
+      "英雄生命值增加": 500,
+      "upgradeCost": 2800,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 20,
+      "技能状态下每次伤害增加": 770,
+      "技能攻击次数": 9,
+      "英雄秒伤增加": 140,
+      "英雄生命值增加": 525,
+      "upgradeCost": 2900,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 21,
+      "技能状态下每次伤害增加": 840,
+      "技能攻击次数": 9,
+      "英雄秒伤增加": 144,
+      "英雄生命值增加": 550,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 22,
+      "技能状态下每次伤害增加": 840,
+      "技能攻击次数": 9,
+      "英雄秒伤增加": 148,
+      "英雄生命值增加": 575,
+      "upgradeCost": 3100,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 23,
+      "技能状态下每次伤害增加": 840,
+      "技能攻击次数": 9,
+      "英雄秒伤增加": 152,
+      "英雄生命值增加": 600,
+      "upgradeCost": 3200,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 24,
+      "技能状态下每次伤害增加": 910,
+      "技能攻击次数": 9,
+      "英雄秒伤增加": 156,
+      "英雄生命值增加": 625,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 25,
+      "技能状态下每次伤害增加": 910,
+      "技能攻击次数": 9,
+      "英雄秒伤增加": 160,
+      "英雄生命值增加": 650,
+      "upgradeCost": 3400,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 26,
+      "技能状态下每次伤害增加": 910,
+      "技能攻击次数": 9,
+      "英雄秒伤增加": 164,
+      "英雄生命值增加": 675,
+      "upgradeCost": 3500,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 27,
+      "技能状态下每次伤害增加": 980,
+      "技能攻击次数": 10,
+      "英雄秒伤增加": 168,
+      "英雄生命值增加": 700,
+      "upgradeCost": 150,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/07c4",
+  "imgSrc": "Rocket_Spear_info.png"
+}

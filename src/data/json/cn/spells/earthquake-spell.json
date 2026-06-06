@@ -1,0 +1,58 @@
+{
+  "id": "earthquake-spell",
+  "name": "Earthquake Spell",
+  "nameCn": "地震法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "upgradeCost": 6000,
+      "upgradeTime": "12h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "upgradeCost": 12000,
+      "upgradeTime": "1d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "upgradeCost": 25500,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "upgradeCost": 42000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "upgradeCost": 120000,
+      "upgradeTime": "8d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "upgradeCost": 200000,
+      "upgradeTime": "9d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "upgradeCost": 330000,
+      "upgradeTime": "13d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0181",
+  "imgSrc": "Earthquake_Spell.png"
+}

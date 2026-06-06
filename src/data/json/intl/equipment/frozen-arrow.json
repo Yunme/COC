@@ -1,0 +1,254 @@
+{
+  "id": "frozen-arrow",
+  "name": "Frozen Arrow",
+  "nameCn": "冰封箭矢",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 27,
+  "levels": [
+    {
+      "level": 1,
+      "减速比例<sup>#<Sup>": 25,
+      "减速持续时间": 0.75,
+      "每秒伤害增加": 35,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "减速比例<sup>#<Sup>": 25,
+      "减速持续时间": 1,
+      "每秒伤害增加": 40,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "减速比例<sup>#<Sup>": 30,
+      "减速持续时间": 1,
+      "每秒伤害增加": 45,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "减速比例<sup>#<Sup>": 30,
+      "减速持续时间": 1,
+      "每秒伤害增加": 50,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "减速比例<sup>#<Sup>": 30,
+      "减速持续时间": 1.25,
+      "每秒伤害增加": 55,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "减速比例<sup>#<Sup>": 35,
+      "减速持续时间": 1.25,
+      "每秒伤害增加": 60,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "减速比例<sup>#<Sup>": 35,
+      "减速持续时间": 1.25,
+      "每秒伤害增加": 66,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 8,
+      "减速比例<sup>#<Sup>": 35,
+      "减速持续时间": 1.5,
+      "每秒伤害增加": 72,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 9,
+      "减速比例<sup>#<Sup>": 37,
+      "减速持续时间": 1.5,
+      "每秒伤害增加": 78,
+      "upgradeCost": 10,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 10,
+      "减速比例<sup>#<Sup>": 37,
+      "减速持续时间": 1.5,
+      "每秒伤害增加": 85,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 11,
+      "减速比例<sup>#<Sup>": 37,
+      "减速持续时间": 1.75,
+      "每秒伤害增加": 92,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 12,
+      "减速比例<sup>#<Sup>": 40,
+      "减速持续时间": 1.75,
+      "每秒伤害增加": 99,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 13,
+      "减速比例<sup>#<Sup>": 40,
+      "减速持续时间": 1.75,
+      "每秒伤害增加": 105,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 14,
+      "减速比例<sup>#<Sup>": 40,
+      "减速持续时间": 2,
+      "每秒伤害增加": 111,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 15,
+      "减速比例<sup>#<Sup>": 45,
+      "减速持续时间": 2,
+      "每秒伤害增加": 117,
+      "upgradeCost": 30,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 16,
+      "减速比例<sup>#<Sup>": 45,
+      "减速持续时间": 2,
+      "每秒伤害增加": 122,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 17,
+      "减速比例<sup>#<Sup>": 45,
+      "减速持续时间": 2.25,
+      "每秒伤害增加": 127,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 18,
+      "减速比例<sup>#<Sup>": 50,
+      "减速持续时间": 2.25,
+      "每秒伤害增加": 132,
+      "upgradeCost": 50,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 19,
+      "减速比例<sup>#<Sup>": 50,
+      "减速持续时间": 2.25,
+      "每秒伤害增加": 136,
+      "upgradeCost": 2800,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 20,
+      "减速比例<sup>#<Sup>": 50,
+      "减速持续时间": 2.5,
+      "每秒伤害增加": 140,
+      "upgradeCost": 2900,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 21,
+      "减速比例<sup>#<Sup>": 55,
+      "减速持续时间": 2.5,
+      "每秒伤害增加": 144,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 22,
+      "减速比例<sup>#<Sup>": 55,
+      "减速持续时间": 2.5,
+      "每秒伤害增加": 148,
+      "upgradeCost": 3100,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 23,
+      "减速比例<sup>#<Sup>": 55,
+      "减速持续时间": 2.75,
+      "每秒伤害增加": 152,
+      "upgradeCost": 3200,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 24,
+      "减速比例<sup>#<Sup>": 60,
+      "减速持续时间": 2.75,
+      "每秒伤害增加": 156,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 25,
+      "减速比例<sup>#<Sup>": 60,
+      "减速持续时间": 2.75,
+      "每秒伤害增加": 160,
+      "upgradeCost": 3400,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 26,
+      "减速比例<sup>#<Sup>": 60,
+      "减速持续时间": 3,
+      "每秒伤害增加": 164,
+      "upgradeCost": 3500,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 27,
+      "减速比例<sup>#<Sup>": 65,
+      "减速持续时间": 3,
+      "每秒伤害增加": 168,
+      "upgradeCost": 150,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/0744",
+  "imgSrc": "Frozen_Arrow_info.png"
+}

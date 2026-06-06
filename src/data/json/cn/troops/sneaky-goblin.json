@@ -1,0 +1,30 @@
+{
+  "id": "sneaky-goblin",
+  "name": "Sneaky Goblin",
+  "nameCn": "隐秘哥布林",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 9,
+  "levels": [
+    {
+      "level": 7,
+      "dps": 155,
+      "damagePerHit": 155,
+      "hp": 270
+    },
+    {
+      "level": 8,
+      "dps": 170,
+      "damagePerHit": 170,
+      "hp": 320
+    },
+    {
+      "level": 9,
+      "dps": 180,
+      "damagePerHit": 180,
+      "hp": 350
+    }
+  ],
+  "imgFolder": "home_tech/0601",
+  "imgSrc": "Sneaky_Goblin_info.png"
+}

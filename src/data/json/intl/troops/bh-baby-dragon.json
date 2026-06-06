@@ -1,0 +1,186 @@
+{
+  "id": "bh-baby-dragon",
+  "name": "Baby Dragon",
+  "nameCn": "飞龙宝宝",
+  "category": "troops",
+  "village": "builder",
+  "maxLevel": 16,
+  "levels": [
+    {
+      "level": 5,
+      "dps": 62,
+      "damagePerHit": 62,
+      "落单时的额外伤害": 60,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 80,
+      "hp": 1331,
+      "所需实验室和大本营等级": 4
+    },
+    {
+      "level": 6,
+      "dps": 62,
+      "damagePerHit": 62,
+      "落单时的额外伤害": 70,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 80,
+      "hp": 1331,
+      "upgradeCost": 360000,
+      "upgradeTime": "16h",
+      "所需实验室和大本营等级": 4
+    },
+    {
+      "level": 7,
+      "dps": 68,
+      "damagePerHit": 68,
+      "落单时的额外伤害": 70,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 80,
+      "hp": 1464,
+      "upgradeCost": 380000,
+      "upgradeTime": "20h",
+      "所需实验室和大本营等级": 4
+    },
+    {
+      "level": 8,
+      "dps": 68,
+      "damagePerHit": 68,
+      "落单时的额外伤害": 70,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 128,
+      "hp": 1464,
+      "upgradeCost": 400000,
+      "upgradeTime": "1d",
+      "所需实验室和大本营等级": 4
+    },
+    {
+      "level": 9,
+      "dps": 75,
+      "damagePerHit": 75,
+      "落单时的额外伤害": 70,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 128,
+      "hp": 1611,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d12h",
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 10,
+      "dps": 75,
+      "damagePerHit": 75,
+      "落单时的额外伤害": 80,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 128,
+      "hp": 1611,
+      "upgradeCost": 1200000,
+      "upgradeTime": "2d",
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 11,
+      "dps": 83,
+      "damagePerHit": 83,
+      "落单时的额外伤害": 80,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 128,
+      "hp": 1772,
+      "upgradeCost": 1400000,
+      "upgradeTime": "2d",
+      "所需实验室和大本营等级": 6
+    },
+    {
+      "level": 12,
+      "dps": 83,
+      "damagePerHit": 83,
+      "落单时的额外伤害": 80,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 220,
+      "hp": 1772,
+      "upgradeCost": 1600000,
+      "upgradeTime": "2d12h",
+      "所需实验室和大本营等级": 6
+    },
+    {
+      "level": 13,
+      "dps": 91,
+      "damagePerHit": 91,
+      "落单时的额外伤害": 80,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 220,
+      "hp": 1949,
+      "upgradeCost": 2400000,
+      "upgradeTime": "3d12h",
+      "所需实验室和大本营等级": 7
+    },
+    {
+      "level": 14,
+      "dps": 91,
+      "damagePerHit": 91,
+      "落单时的额外伤害": 90,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 220,
+      "hp": 1949,
+      "upgradeCost": 2600000,
+      "upgradeTime": "4d12h",
+      "所需实验室和大本营等级": 7
+    },
+    {
+      "level": 15,
+      "dps": 100,
+      "damagePerHit": 100,
+      "落单时的额外伤害": 90,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 220,
+      "hp": 2144,
+      "upgradeCost": 3400000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 16,
+      "dps": 100,
+      "damagePerHit": 100,
+      "落单时的额外伤害": 90,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 320,
+      "hp": 2144,
+      "upgradeCost": 3600000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 17,
+      "dps": 110,
+      "damagePerHit": 110,
+      "落单时的额外伤害": 90,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 320,
+      "hp": 2358,
+      "upgradeCost": 4100000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 18,
+      "dps": 110,
+      "damagePerHit": 110,
+      "落单时的额外伤害": 100,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 320,
+      "hp": 2358,
+      "upgradeCost": 4300000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 19,
+      "dps": 120,
+      "damagePerHit": 120,
+      "落单时的额外伤害": 100,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 320,
+      "hp": 2358,
+      "upgradeCost": 5100000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    },
+    {
+      "level": 20,
+      "dps": 120,
+      "damagePerHit": 120,
+      "落单时的额外伤害": 100,
+      "烈焰喷嚏的额外伤害<sup>③<Sup>": 440,
+      "hp": 2358,
+      "upgradeCost": 5500000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_tech/1005",
+  "imgSrc": "Baby_Dragon_info.png"
+}

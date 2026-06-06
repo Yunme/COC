@@ -1,0 +1,100 @@
+{
+  "id": "spirit-fox",
+  "name": "Spirit Fox",
+  "nameCn": "灵狐",
+  "category": "pets",
+  "village": "home",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 108,
+      "damagePerHit": 172.8,
+      "hp": 1900,
+      "townHallLevel": 16
+    },
+    {
+      "level": 2,
+      "dps": 116,
+      "damagePerHit": 185.6,
+      "hp": 2000,
+      "upgradeCost": 168750,
+      "upgradeTime": "3d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 3,
+      "dps": 124,
+      "damagePerHit": 198.4,
+      "hp": 2100,
+      "upgradeCost": 176250,
+      "upgradeTime": "4d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 4,
+      "dps": 132,
+      "damagePerHit": 211.2,
+      "hp": 2200,
+      "upgradeCost": 183750,
+      "upgradeTime": "5d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 5,
+      "dps": 140,
+      "damagePerHit": 224,
+      "hp": 2300,
+      "upgradeCost": 191250,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 6,
+      "dps": 148,
+      "damagePerHit": 236.8,
+      "hp": 2400,
+      "upgradeCost": 198750,
+      "upgradeTime": "6d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 7,
+      "dps": 156,
+      "damagePerHit": 249.6,
+      "hp": 2500,
+      "upgradeCost": 206250,
+      "upgradeTime": "6d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "dps": 164,
+      "damagePerHit": 262.4,
+      "hp": 2600,
+      "upgradeCost": 213750,
+      "upgradeTime": "7d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 9,
+      "dps": 172,
+      "damagePerHit": 275.6,
+      "hp": 2700,
+      "upgradeCost": 221250,
+      "upgradeTime": "7d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 10,
+      "dps": 180,
+      "damagePerHit": 288,
+      "hp": 2800,
+      "upgradeCost": 236250,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/0288",
+  "imgSrc": "Spirit_Fox_info.png"
+}

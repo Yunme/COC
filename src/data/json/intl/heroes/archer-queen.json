@@ -1,0 +1,1061 @@
+{
+  "id": "archer-queen",
+  "name": "Archer Queen",
+  "nameCn": "弓箭女皇",
+  "category": "heroes",
+  "village": "home",
+  "maxLevel": 105,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 136,
+      "damagePerHit": 102,
+      "hp": 580,
+      "upgradeCost": 0,
+      "requiredHeroHallLevel": 2,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "dps": 139,
+      "damagePerHit": 104.25,
+      "hp": 592,
+      "upgradeCost": 5000,
+      "upgradeTime": "2h",
+      "requiredHeroHallLevel": 2,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "dps": 143,
+      "damagePerHit": 107.25,
+      "hp": 604,
+      "upgradeCost": 5500,
+      "upgradeTime": "4h",
+      "requiredHeroHallLevel": 2,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "dps": 146,
+      "damagePerHit": 109.5,
+      "hp": 617,
+      "upgradeCost": 6000,
+      "upgradeTime": "8h",
+      "requiredHeroHallLevel": 2,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "dps": 150,
+      "damagePerHit": 112.5,
+      "hp": 630,
+      "upgradeCost": 6500,
+      "upgradeTime": "10h",
+      "requiredHeroHallLevel": 2,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 154,
+      "damagePerHit": 115.5,
+      "hp": 643,
+      "upgradeCost": 7000,
+      "upgradeTime": "12h",
+      "requiredHeroHallLevel": 2,
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "dps": 157,
+      "damagePerHit": 117.75,
+      "hp": 657,
+      "upgradeCost": 7500,
+      "upgradeTime": "14h",
+      "requiredHeroHallLevel": 2,
+      "townHallLevel": 8
+    },
+    {
+      "level": 8,
+      "dps": 162,
+      "damagePerHit": 121.5,
+      "hp": 670,
+      "upgradeCost": 8000,
+      "upgradeTime": "16h",
+      "requiredHeroHallLevel": 2,
+      "townHallLevel": 8
+    },
+    {
+      "level": 9,
+      "dps": 165,
+      "damagePerHit": 123.75,
+      "hp": 685,
+      "upgradeCost": 8500,
+      "upgradeTime": "18h",
+      "requiredHeroHallLevel": 2,
+      "townHallLevel": 8
+    },
+    {
+      "level": 10,
+      "dps": 169,
+      "damagePerHit": 126.75,
+      "hp": 699,
+      "upgradeCost": 10000,
+      "upgradeTime": "20h",
+      "requiredHeroHallLevel": 2,
+      "townHallLevel": 8
+    },
+    {
+      "level": 11,
+      "dps": 173,
+      "damagePerHit": 129.75,
+      "hp": 714,
+      "upgradeCost": 10500,
+      "upgradeTime": "22h",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 12,
+      "dps": 178,
+      "damagePerHit": 133.5,
+      "hp": 729,
+      "upgradeCost": 11000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 13,
+      "dps": 183,
+      "damagePerHit": 137.25,
+      "hp": 744,
+      "upgradeCost": 11500,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 14,
+      "dps": 187,
+      "damagePerHit": 140.25,
+      "hp": 759,
+      "upgradeCost": 12000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 15,
+      "dps": 192,
+      "damagePerHit": 144,
+      "hp": 775,
+      "upgradeCost": 12500,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 16,
+      "dps": 196,
+      "damagePerHit": 147,
+      "hp": 792,
+      "upgradeCost": 13000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 17,
+      "dps": 201,
+      "damagePerHit": 150.75,
+      "hp": 808,
+      "upgradeCost": 13500,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 18,
+      "dps": 207,
+      "damagePerHit": 155.25,
+      "hp": 826,
+      "upgradeCost": 14000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 19,
+      "dps": 212,
+      "damagePerHit": 159,
+      "hp": 842,
+      "upgradeCost": 14500,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 20,
+      "dps": 217,
+      "damagePerHit": 162.75,
+      "hp": 861,
+      "upgradeCost": 15000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 21,
+      "dps": 223,
+      "damagePerHit": 167.25,
+      "hp": 878,
+      "upgradeCost": 17000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 22,
+      "dps": 228,
+      "damagePerHit": 171,
+      "hp": 897,
+      "upgradeCost": 19000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 23,
+      "dps": 234,
+      "damagePerHit": 175.5,
+      "hp": 916,
+      "upgradeCost": 21000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 24,
+      "dps": 240,
+      "damagePerHit": 180,
+      "hp": 935,
+      "upgradeCost": 23000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 25,
+      "dps": 246,
+      "damagePerHit": 184.5,
+      "hp": 954,
+      "upgradeCost": 25000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 26,
+      "dps": 252,
+      "damagePerHit": 189,
+      "hp": 974,
+      "upgradeCost": 27000,
+      "upgradeTime": "2d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 27,
+      "dps": 258,
+      "damagePerHit": 193.5,
+      "hp": 995,
+      "upgradeCost": 29000,
+      "upgradeTime": "2d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 28,
+      "dps": 264,
+      "damagePerHit": 198,
+      "hp": 1016,
+      "upgradeCost": 31000,
+      "upgradeTime": "2d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 29,
+      "dps": 271,
+      "damagePerHit": 203.25,
+      "hp": 1038,
+      "upgradeCost": 33000,
+      "upgradeTime": "2d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 30,
+      "dps": 278,
+      "damagePerHit": 208.5,
+      "hp": 1059,
+      "upgradeCost": 35000,
+      "upgradeTime": "2d",
+      "requiredHeroHallLevel": 3,
+      "townHallLevel": 9
+    },
+    {
+      "level": 31,
+      "dps": 285,
+      "damagePerHit": 213.75,
+      "hp": 1082,
+      "upgradeCost": 37000,
+      "upgradeTime": "2d6h",
+      "requiredHeroHallLevel": 4,
+      "townHallLevel": 10
+    },
+    {
+      "level": 32,
+      "dps": 292,
+      "damagePerHit": 219,
+      "hp": 1104,
+      "upgradeCost": 39000,
+      "upgradeTime": "2d6h",
+      "requiredHeroHallLevel": 4,
+      "townHallLevel": 10
+    },
+    {
+      "level": 33,
+      "dps": 299,
+      "damagePerHit": 224.25,
+      "hp": 1127,
+      "upgradeCost": 41000,
+      "upgradeTime": "2d6h",
+      "requiredHeroHallLevel": 4,
+      "townHallLevel": 10
+    },
+    {
+      "level": 34,
+      "dps": 307,
+      "damagePerHit": 230.25,
+      "hp": 1151,
+      "upgradeCost": 43000,
+      "upgradeTime": "2d6h",
+      "requiredHeroHallLevel": 4,
+      "townHallLevel": 10
+    },
+    {
+      "level": 35,
+      "dps": 315,
+      "damagePerHit": 236.25,
+      "hp": 1175,
+      "upgradeCost": 45000,
+      "upgradeTime": "2d6h",
+      "requiredHeroHallLevel": 4,
+      "townHallLevel": 10
+    },
+    {
+      "level": 36,
+      "dps": 322,
+      "damagePerHit": 241.5,
+      "hp": 1200,
+      "upgradeCost": 47000,
+      "upgradeTime": "2d12h",
+      "requiredHeroHallLevel": 4,
+      "townHallLevel": 10
+    },
+    {
+      "level": 37,
+      "dps": 331,
+      "damagePerHit": 248.25,
+      "hp": 1226,
+      "upgradeCost": 49000,
+      "upgradeTime": "2d12h",
+      "requiredHeroHallLevel": 4,
+      "townHallLevel": 10
+    },
+    {
+      "level": 38,
+      "dps": 338,
+      "damagePerHit": 253.5,
+      "hp": 1251,
+      "upgradeCost": 51000,
+      "upgradeTime": "2d12h",
+      "requiredHeroHallLevel": 4,
+      "townHallLevel": 10
+    },
+    {
+      "level": 39,
+      "dps": 347,
+      "damagePerHit": 260.25,
+      "hp": 1278,
+      "upgradeCost": 53000,
+      "upgradeTime": "2d12h",
+      "requiredHeroHallLevel": 4,
+      "townHallLevel": 10
+    },
+    {
+      "level": 40,
+      "dps": 356,
+      "damagePerHit": 267,
+      "hp": 1304,
+      "upgradeCost": 55000,
+      "upgradeTime": "2d12h",
+      "requiredHeroHallLevel": 4,
+      "townHallLevel": 10
+    },
+    {
+      "level": 41,
+      "dps": 365,
+      "damagePerHit": 273.75,
+      "hp": 1331,
+      "upgradeCost": 58000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 5,
+      "townHallLevel": 11
+    },
+    {
+      "level": 42,
+      "dps": 374,
+      "damagePerHit": 280.5,
+      "hp": 1359,
+      "upgradeCost": 61000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 5,
+      "townHallLevel": 11
+    },
+    {
+      "level": 43,
+      "dps": 383,
+      "damagePerHit": 287.25,
+      "hp": 1388,
+      "upgradeCost": 64000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 5,
+      "townHallLevel": 11
+    },
+    {
+      "level": 44,
+      "dps": 393,
+      "damagePerHit": 294.75,
+      "hp": 1417,
+      "upgradeCost": 67000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 5,
+      "townHallLevel": 11
+    },
+    {
+      "level": 45,
+      "dps": 403,
+      "damagePerHit": 302.25,
+      "hp": 1447,
+      "upgradeCost": 70000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 5,
+      "townHallLevel": 11
+    },
+    {
+      "level": 46,
+      "dps": 413,
+      "damagePerHit": 309.75,
+      "hp": 1478,
+      "upgradeCost": 73000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 5,
+      "townHallLevel": 11
+    },
+    {
+      "level": 47,
+      "dps": 423,
+      "damagePerHit": 317.25,
+      "hp": 1508,
+      "upgradeCost": 76000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 5,
+      "townHallLevel": 11
+    },
+    {
+      "level": 48,
+      "dps": 434,
+      "damagePerHit": 325.5,
+      "hp": 1540,
+      "upgradeCost": 79000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 5,
+      "townHallLevel": 11
+    },
+    {
+      "level": 49,
+      "dps": 445,
+      "damagePerHit": 333.75,
+      "hp": 1572,
+      "upgradeCost": 82000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 5,
+      "townHallLevel": 11
+    },
+    {
+      "level": 50,
+      "dps": 456,
+      "damagePerHit": 342,
+      "hp": 1606,
+      "upgradeCost": 85000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 5,
+      "townHallLevel": 11
+    },
+    {
+      "level": 51,
+      "dps": 465,
+      "damagePerHit": 348.75,
+      "hp": 1646,
+      "upgradeCost": 86000,
+      "upgradeTime": "3d12h",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 52,
+      "dps": 474,
+      "damagePerHit": 355.5,
+      "hp": 1688,
+      "upgradeCost": 87000,
+      "upgradeTime": "3d12h",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 53,
+      "dps": 485,
+      "damagePerHit": 363.75,
+      "hp": 1730,
+      "upgradeCost": 88000,
+      "upgradeTime": "3d12h",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 54,
+      "dps": 495,
+      "damagePerHit": 371.25,
+      "hp": 1774,
+      "upgradeCost": 89000,
+      "upgradeTime": "3d12h",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 55,
+      "dps": 505,
+      "damagePerHit": 378.75,
+      "hp": 1819,
+      "upgradeCost": 90000,
+      "upgradeTime": "3d12h",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 56,
+      "dps": 515,
+      "damagePerHit": 386.25,
+      "hp": 1865,
+      "upgradeCost": 93000,
+      "upgradeTime": "3d12h",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 57,
+      "dps": 526,
+      "damagePerHit": 394.5,
+      "hp": 1912,
+      "upgradeCost": 96000,
+      "upgradeTime": "3d12h",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 58,
+      "dps": 537,
+      "damagePerHit": 402.75,
+      "hp": 1960,
+      "upgradeCost": 99000,
+      "upgradeTime": "3d12h",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 59,
+      "dps": 548,
+      "damagePerHit": 411,
+      "hp": 2010,
+      "upgradeCost": 102000,
+      "upgradeTime": "3d12h",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 60,
+      "dps": 559,
+      "damagePerHit": 419.25,
+      "hp": 2060,
+      "upgradeCost": 105000,
+      "upgradeTime": "3d12h",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 61,
+      "dps": 570,
+      "damagePerHit": 427.5,
+      "hp": 2111,
+      "upgradeCost": 107000,
+      "upgradeTime": "4d",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 62,
+      "dps": 581,
+      "damagePerHit": 435.75,
+      "hp": 2164,
+      "upgradeCost": 109000,
+      "upgradeTime": "4d",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 63,
+      "dps": 593,
+      "damagePerHit": 444.75,
+      "hp": 2218,
+      "upgradeCost": 111000,
+      "upgradeTime": "4d",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 64,
+      "dps": 605,
+      "damagePerHit": 453.75,
+      "hp": 2274,
+      "upgradeCost": 113000,
+      "upgradeTime": "4d",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 65,
+      "dps": 617,
+      "damagePerHit": 462.75,
+      "hp": 2330,
+      "upgradeCost": 115000,
+      "upgradeTime": "4d",
+      "requiredHeroHallLevel": 6,
+      "townHallLevel": 12
+    },
+    {
+      "level": 66,
+      "dps": 628,
+      "damagePerHit": 471,
+      "hp": 2384,
+      "upgradeCost": 117000,
+      "upgradeTime": "4d",
+      "requiredHeroHallLevel": 7,
+      "townHallLevel": 13
+    },
+    {
+      "level": 67,
+      "dps": 638,
+      "damagePerHit": 478.5,
+      "hp": 2432,
+      "upgradeCost": 119000,
+      "upgradeTime": "4d",
+      "requiredHeroHallLevel": 7,
+      "townHallLevel": 13
+    },
+    {
+      "level": 68,
+      "dps": 648,
+      "damagePerHit": 486,
+      "hp": 2476,
+      "upgradeCost": 121000,
+      "upgradeTime": "4d",
+      "requiredHeroHallLevel": 7,
+      "townHallLevel": 13
+    },
+    {
+      "level": 69,
+      "dps": 656,
+      "damagePerHit": 492,
+      "hp": 2516,
+      "upgradeCost": 123000,
+      "upgradeTime": "4d",
+      "requiredHeroHallLevel": 7,
+      "townHallLevel": 13
+    },
+    {
+      "level": 70,
+      "dps": 664,
+      "damagePerHit": 498,
+      "hp": 2552,
+      "upgradeCost": 125000,
+      "upgradeTime": "4d",
+      "requiredHeroHallLevel": 7,
+      "townHallLevel": 13
+    },
+    {
+      "level": 71,
+      "dps": 671,
+      "damagePerHit": 503.25,
+      "hp": 2584,
+      "upgradeCost": 130000,
+      "upgradeTime": "4d12h",
+      "requiredHeroHallLevel": 7,
+      "townHallLevel": 13
+    },
+    {
+      "level": 72,
+      "dps": 677,
+      "damagePerHit": 507.75,
+      "hp": 2616,
+      "upgradeCost": 135000,
+      "upgradeTime": "4d12h",
+      "requiredHeroHallLevel": 7,
+      "townHallLevel": 13
+    },
+    {
+      "level": 73,
+      "dps": 682,
+      "damagePerHit": 511.5,
+      "hp": 2648,
+      "upgradeCost": 140000,
+      "upgradeTime": "4d12h",
+      "requiredHeroHallLevel": 7,
+      "townHallLevel": 13
+    },
+    {
+      "level": 74,
+      "dps": 687,
+      "damagePerHit": 515.25,
+      "hp": 2680,
+      "upgradeCost": 145000,
+      "upgradeTime": "4d12h",
+      "requiredHeroHallLevel": 7,
+      "townHallLevel": 13
+    },
+    {
+      "level": 75,
+      "dps": 692,
+      "damagePerHit": 519,
+      "hp": 2712,
+      "upgradeCost": 150000,
+      "upgradeTime": "4d12h",
+      "requiredHeroHallLevel": 7,
+      "townHallLevel": 13
+    },
+    {
+      "level": 76,
+      "dps": 697,
+      "damagePerHit": 522.75,
+      "hp": 2740,
+      "upgradeCost": 155000,
+      "upgradeTime": "5d",
+      "requiredHeroHallLevel": 8,
+      "townHallLevel": 14
+    },
+    {
+      "level": 77,
+      "dps": 701,
+      "damagePerHit": 525.75,
+      "hp": 2768,
+      "upgradeCost": 160000,
+      "upgradeTime": "5d",
+      "requiredHeroHallLevel": 8,
+      "townHallLevel": 14
+    },
+    {
+      "level": 78,
+      "dps": 706,
+      "damagePerHit": 529.5,
+      "hp": 2796,
+      "upgradeCost": 165000,
+      "upgradeTime": "5d",
+      "requiredHeroHallLevel": 8,
+      "townHallLevel": 14
+    },
+    {
+      "level": 79,
+      "dps": 710,
+      "damagePerHit": 532.5,
+      "hp": 2824,
+      "upgradeCost": 170000,
+      "upgradeTime": "5d",
+      "requiredHeroHallLevel": 8,
+      "townHallLevel": 14
+    },
+    {
+      "level": 80,
+      "dps": 714,
+      "damagePerHit": 535.5,
+      "hp": 2852,
+      "upgradeCost": 175000,
+      "upgradeTime": "5d",
+      "requiredHeroHallLevel": 8,
+      "townHallLevel": 14
+    },
+    {
+      "level": 81,
+      "dps": 717,
+      "damagePerHit": 537.75,
+      "hp": 2880,
+      "upgradeCost": 180000,
+      "upgradeTime": "6d",
+      "requiredHeroHallLevel": 8,
+      "townHallLevel": 14
+    },
+    {
+      "level": 82,
+      "dps": 721,
+      "damagePerHit": 540.75,
+      "hp": 2904,
+      "upgradeCost": 190000,
+      "upgradeTime": "6d",
+      "requiredHeroHallLevel": 8,
+      "townHallLevel": 14
+    },
+    {
+      "level": 83,
+      "dps": 724,
+      "damagePerHit": 543,
+      "hp": 2928,
+      "upgradeCost": 200000,
+      "upgradeTime": "6d",
+      "requiredHeroHallLevel": 8,
+      "townHallLevel": 14
+    },
+    {
+      "level": 84,
+      "dps": 728,
+      "damagePerHit": 546,
+      "hp": 2952,
+      "upgradeCost": 210000,
+      "upgradeTime": "6d",
+      "requiredHeroHallLevel": 8,
+      "townHallLevel": 14
+    },
+    {
+      "level": 85,
+      "dps": 731,
+      "damagePerHit": 548.25,
+      "hp": 2976,
+      "upgradeCost": 220000,
+      "upgradeTime": "6d",
+      "requiredHeroHallLevel": 8,
+      "townHallLevel": 14
+    },
+    {
+      "level": 86,
+      "dps": 734,
+      "damagePerHit": 550.25,
+      "hp": 3000,
+      "upgradeCost": 230000,
+      "upgradeTime": "7d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 87,
+      "dps": 738,
+      "damagePerHit": 553.5,
+      "hp": 3024,
+      "upgradeCost": 240000,
+      "upgradeTime": "7d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 88,
+      "dps": 741,
+      "damagePerHit": 555.75,
+      "hp": 3048,
+      "upgradeCost": 250000,
+      "upgradeTime": "7d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 89,
+      "dps": 745,
+      "damagePerHit": 558.75,
+      "hp": 3072,
+      "upgradeCost": 260000,
+      "upgradeTime": "7d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 90,
+      "dps": 748,
+      "damagePerHit": 561,
+      "hp": 3096,
+      "upgradeCost": 270000,
+      "upgradeTime": "7d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 91,
+      "dps": 751,
+      "damagePerHit": 563.25,
+      "hp": 3120,
+      "upgradeCost": 280000,
+      "upgradeTime": "7d12h",
+      "requiredHeroHallLevel": 10,
+      "townHallLevel": 16
+    },
+    {
+      "level": 92,
+      "dps": 755,
+      "damagePerHit": 566.25,
+      "hp": 3144,
+      "upgradeCost": 290000,
+      "upgradeTime": "7d12h",
+      "requiredHeroHallLevel": 10,
+      "townHallLevel": 16
+    },
+    {
+      "level": 93,
+      "dps": 758,
+      "damagePerHit": 568.5,
+      "hp": 3168,
+      "upgradeCost": 300000,
+      "upgradeTime": "7d12h",
+      "requiredHeroHallLevel": 10,
+      "townHallLevel": 16
+    },
+    {
+      "level": 94,
+      "dps": 762,
+      "damagePerHit": 571.5,
+      "hp": 3192,
+      "upgradeCost": 310000,
+      "upgradeTime": "7d12h",
+      "requiredHeroHallLevel": 10,
+      "townHallLevel": 16
+    },
+    {
+      "level": 95,
+      "dps": 765,
+      "damagePerHit": 573.75,
+      "hp": 3216,
+      "upgradeCost": 320000,
+      "upgradeTime": "7d12h",
+      "requiredHeroHallLevel": 10,
+      "townHallLevel": 16
+    },
+    {
+      "level": 96,
+      "dps": 768,
+      "damagePerHit": 576,
+      "hp": 3240,
+      "upgradeCost": 340000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 97,
+      "dps": 771,
+      "damagePerHit": 578.25,
+      "hp": 3264,
+      "upgradeCost": 350000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 98,
+      "dps": 774,
+      "damagePerHit": 580.5,
+      "hp": 3288,
+      "upgradeCost": 360000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 99,
+      "dps": 777,
+      "damagePerHit": 582.75,
+      "hp": 3312,
+      "upgradeCost": 370000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 100,
+      "dps": 780,
+      "damagePerHit": 585,
+      "hp": 3336,
+      "upgradeCost": 380000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 101,
+      "dps": 783,
+      "damagePerHit": 587.25,
+      "hp": 3360,
+      "upgradeCost": 400000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 12,
+      "townHallLevel": 18
+    },
+    {
+      "level": 102,
+      "dps": 786,
+      "damagePerHit": 589.5,
+      "hp": 3384,
+      "upgradeCost": 410000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 12,
+      "townHallLevel": 18
+    },
+    {
+      "level": 103,
+      "dps": 789,
+      "damagePerHit": 591.75,
+      "hp": 3408,
+      "upgradeCost": 420000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 12,
+      "townHallLevel": 18
+    },
+    {
+      "level": 104,
+      "dps": 792,
+      "damagePerHit": 594,
+      "hp": 3432,
+      "upgradeCost": 430000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 12,
+      "townHallLevel": 18
+    },
+    {
+      "level": 105,
+      "dps": 795,
+      "damagePerHit": 596.25,
+      "hp": 3456,
+      "upgradeCost": 450000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 12,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_heroes/0201",
+  "imgSrc": "Archer_Queen_info.png"
+}

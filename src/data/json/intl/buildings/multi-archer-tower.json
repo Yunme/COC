@@ -1,0 +1,48 @@
+{
+  "id": "multi-archer-tower",
+  "name": "Multi Archer Tower",
+  "nameCn": "多人箭塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "每个弓箭手的每秒伤害": 120,
+      "每个弓箭手的每次伤害": 72,
+      "hp": 5000,
+      "upgradeCost": 12000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 2,
+      "每个弓箭手的每秒伤害": 130,
+      "每个弓箭手的每次伤害": 78,
+      "hp": 5200,
+      "upgradeCost": 13000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 3,
+      "每个弓箭手的每秒伤害": 140,
+      "每个弓箭手的每次伤害": 84,
+      "hp": 5400,
+      "upgradeCost": 17500000,
+      "upgradeTime": "10d18h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "每个弓箭手的每秒伤害": 146,
+      "每个弓箭手的每次伤害": 87.6,
+      "hp": 5500,
+      "upgradeCost": 27000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0314",
+  "imgSrc": "Multi-Archer_Tower4.png"
+}

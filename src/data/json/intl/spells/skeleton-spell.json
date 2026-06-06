@@ -1,0 +1,67 @@
+{
+  "id": "skeleton-spell",
+  "name": "Skeleton Spell",
+  "nameCn": "骷髅法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "召唤的骷髅数量": 12,
+      "requiredLabLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "召唤的骷髅数量": 13,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 3,
+      "召唤的骷髅数量": 14,
+      "upgradeTime": "1d12h",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "召唤的骷髅数量": 15,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "召唤的骷髅数量": 16,
+      "upgradeTime": "2d12h",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 6,
+      "召唤的骷髅数量": 17,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "召唤的骷髅数量": 18,
+      "upgradeTime": "4d6h",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "召唤的骷髅数量": 19,
+      "upgradeTime": "6d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_tech/0183",
+  "imgSrc": "Skeleton_Spell.png"
+}

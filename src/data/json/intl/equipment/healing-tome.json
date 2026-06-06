@@ -1,0 +1,191 @@
+{
+  "id": "healing-tome",
+  "name": "Healing Tome",
+  "nameCn": "治疗书卷",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "每秒治疗量": 60,
+      "治疗效果持续时间": 15,
+      "英雄生命值增加": 92,
+      "技能回血属性加成": 165,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "每秒治疗量": 60,
+      "治疗效果持续时间": 15,
+      "英雄生命值增加": 107,
+      "技能回血属性加成": 193,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "每秒治疗量": 70,
+      "治疗效果持续时间": 16,
+      "英雄生命值增加": 122,
+      "技能回血属性加成": 220,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 4,
+      "每秒治疗量": 70,
+      "治疗效果持续时间": 16,
+      "英雄生命值增加": 137,
+      "技能回血属性加成": 248,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "每秒治疗量": 70,
+      "治疗效果持续时间": 16,
+      "英雄生命值增加": 153,
+      "技能回血属性加成": 275,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 6,
+      "每秒治疗量": 80,
+      "治疗效果持续时间": 17,
+      "英雄生命值增加": 168,
+      "技能回血属性加成": 303,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "每秒治疗量": 80,
+      "治疗效果持续时间": 17,
+      "英雄生命值增加": 183,
+      "技能回血属性加成": 330,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "每秒治疗量": 80,
+      "治疗效果持续时间": 17,
+      "英雄生命值增加": 198,
+      "技能回血属性加成": 358,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "每秒治疗量": 100,
+      "治疗效果持续时间": 18,
+      "英雄生命值增加": 229,
+      "技能回血属性加成": 413,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "每秒治疗量": 100,
+      "治疗效果持续时间": 18,
+      "英雄生命值增加": 280,
+      "技能回血属性加成": 463,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "每秒治疗量": 100,
+      "治疗效果持续时间": 18,
+      "英雄生命值增加": 330,
+      "技能回血属性加成": 513,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 12,
+      "每秒治疗量": 120,
+      "治疗效果持续时间": 19,
+      "英雄生命值增加": 381,
+      "技能回血属性加成": 563,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 13,
+      "每秒治疗量": 120,
+      "治疗效果持续时间": 19,
+      "英雄生命值增加": 432,
+      "技能回血属性加成": 613,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 14,
+      "每秒治疗量": 120,
+      "治疗效果持续时间": 19,
+      "英雄生命值增加": 482,
+      "技能回血属性加成": 663,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 15,
+      "每秒治疗量": 140,
+      "治疗效果持续时间": 19.5,
+      "英雄生命值增加": 533,
+      "技能回血属性加成": 713,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 6,
+      "townHallLevel": 13
+    },
+    {
+      "level": 16,
+      "每秒治疗量": 140,
+      "治疗效果持续时间": 19.5,
+      "英雄生命值增加": 584,
+      "技能回血属性加成": 763,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "每秒治疗量": 140,
+      "治疗效果持续时间": 19.5,
+      "英雄生命值增加": 634,
+      "技能回血属性加成": 813,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "每秒治疗量": 150,
+      "治疗效果持续时间": 20,
+      "英雄生命值增加": 685,
+      "技能回血属性加成": 863,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/0783",
+  "imgSrc": "Healing_Tome_info.png"
+}

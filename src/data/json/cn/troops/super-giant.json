@@ -1,0 +1,48 @@
+{
+  "id": "super-giant",
+  "name": "Super Giant",
+  "nameCn": "超级巨人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 9,
+      "dps": 130,
+      "damagePerHit": 260,
+      "hp": 4000
+    },
+    {
+      "level": 10,
+      "dps": 140,
+      "damagePerHit": 280,
+      "hp": 4200
+    },
+    {
+      "level": 11,
+      "dps": 150,
+      "damagePerHit": 300,
+      "hp": 4400
+    },
+    {
+      "level": 12,
+      "dps": 160,
+      "damagePerHit": 320,
+      "hp": 4600
+    },
+    {
+      "level": 13,
+      "dps": 175,
+      "damagePerHit": 350,
+      "hp": 4900
+    },
+    {
+      "level": 14,
+      "dps": 205,
+      "damagePerHit": 410,
+      "hp": 5600
+    }
+  ],
+  "imgFolder": "home_tech/0602",
+  "imgSrc": "Super_Giant_info.png"
+}

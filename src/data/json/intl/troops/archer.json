@@ -1,0 +1,150 @@
+{
+  "id": "archer",
+  "name": "Archer",
+  "nameCn": "弓箭手",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 8,
+      "damagePerHit": 8,
+      "hp": 22,
+      "requiredLabLevel": 1,
+      "townHallLevel": 1
+    },
+    {
+      "level": 2,
+      "dps": 10,
+      "damagePerHit": 10,
+      "hp": 26,
+      "upgradeCost": 20000,
+      "upgradeTime": "1h",
+      "requiredLabLevel": 1,
+      "townHallLevel": 3
+    },
+    {
+      "level": 3,
+      "dps": 13,
+      "damagePerHit": 13,
+      "hp": 29,
+      "upgradeCost": 80000,
+      "upgradeTime": "2h",
+      "requiredLabLevel": 3,
+      "townHallLevel": 5
+    },
+    {
+      "level": 4,
+      "dps": 16,
+      "damagePerHit": 16,
+      "hp": 33,
+      "upgradeCost": 200000,
+      "upgradeTime": "3h",
+      "requiredLabLevel": 5,
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "dps": 20,
+      "damagePerHit": 20,
+      "hp": 40,
+      "upgradeCost": 500000,
+      "upgradeTime": "8h",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 22,
+      "damagePerHit": 22,
+      "hp": 44,
+      "upgradeCost": 1000000,
+      "upgradeTime": "12h",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "dps": 25,
+      "damagePerHit": 25,
+      "hp": 48,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 8,
+      "dps": 28,
+      "damagePerHit": 28,
+      "hp": 52,
+      "upgradeCost": 2300000,
+      "upgradeTime": "1d12h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "dps": 31,
+      "damagePerHit": 31,
+      "hp": 56,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 34,
+      "damagePerHit": 34,
+      "hp": 60,
+      "upgradeCost": 4500000,
+      "upgradeTime": "3d12h",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 37,
+      "damagePerHit": 37,
+      "hp": 64,
+      "upgradeCost": 6500000,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 40,
+      "damagePerHit": 40,
+      "hp": 68,
+      "upgradeCost": 9000000,
+      "upgradeTime": "5d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "dps": 43,
+      "damagePerHit": 43,
+      "hp": 72,
+      "upgradeCost": 14000000,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "dps": 46,
+      "damagePerHit": 46,
+      "hp": 76,
+      "upgradeCost": 25000000,
+      "upgradeTime": "13d12h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0001",
+  "imgSrc": "Archer_info.png"
+}

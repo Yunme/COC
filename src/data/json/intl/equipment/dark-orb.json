@@ -1,0 +1,209 @@
+{
+  "id": "dark-orb",
+  "name": "Dark Orb",
+  "nameCn": "暗黑魔球",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "水晶伤害": 45,
+      "水晶减速比例": 20,
+      "减速持续时间": 8,
+      "英雄每秒伤害增加": 10,
+      "英雄生命值增加": 588,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "水晶伤害": 45,
+      "水晶减速比例": 20,
+      "减速持续时间": 8,
+      "英雄每秒伤害增加": 13,
+      "英雄生命值增加": 603,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "水晶伤害": 55,
+      "水晶减速比例": 25,
+      "减速持续时间": 9,
+      "英雄每秒伤害增加": 18,
+      "英雄生命值增加": 617,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "水晶伤害": 55,
+      "水晶减速比例": 25,
+      "减速持续时间": 9,
+      "英雄每秒伤害增加": 21,
+      "英雄生命值增加": 631,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "水晶伤害": 55,
+      "水晶减速比例": 25,
+      "减速持续时间": 9,
+      "英雄每秒伤害增加": 24,
+      "英雄生命值增加": 647,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 6,
+      "水晶伤害": 65,
+      "水晶减速比例": 30,
+      "减速持续时间": 10,
+      "英雄每秒伤害增加": 29,
+      "英雄生命值增加": 661,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "水晶伤害": 65,
+      "水晶减速比例": 30,
+      "减速持续时间": 10,
+      "英雄每秒伤害增加": 32,
+      "英雄生命值增加": 675,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 8,
+      "水晶伤害": 65,
+      "水晶减速比例": 30,
+      "减速持续时间": 10,
+      "英雄每秒伤害增加": 35,
+      "英雄生命值增加": 690,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 9,
+      "水晶伤害": 75,
+      "水晶减速比例": 35,
+      "减速持续时间": 11,
+      "英雄每秒伤害增加": 40,
+      "英雄生命值增加": 719,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 10,
+      "水晶伤害": 75,
+      "水晶减速比例": 35,
+      "减速持续时间": 11,
+      "英雄每秒伤害增加": 43,
+      "英雄生命值增加": 766,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 11,
+      "水晶伤害": 75,
+      "水晶减速比例": 35,
+      "减速持续时间": 11,
+      "英雄每秒伤害增加": 46,
+      "英雄生命值增加": 813,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 12,
+      "水晶伤害": 100,
+      "水晶减速比例": 40,
+      "减速持续时间": 13,
+      "英雄每秒伤害增加": 51,
+      "英雄生命值增加": 859,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 13,
+      "水晶伤害": 100,
+      "水晶减速比例": 40,
+      "减速持续时间": 13,
+      "英雄每秒伤害增加": 54,
+      "英雄生命值增加": 906,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 14,
+      "水晶伤害": 100,
+      "水晶减速比例": 40,
+      "减速持续时间": 13,
+      "英雄每秒伤害增加": 57,
+      "英雄生命值增加": 953,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 15,
+      "水晶伤害": 150,
+      "水晶减速比例": 45,
+      "减速持续时间": 15,
+      "英雄每秒伤害增加": 62,
+      "英雄生命值增加": 1000,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 16,
+      "水晶伤害": 150,
+      "水晶减速比例": 45,
+      "减速持续时间": 15,
+      "英雄每秒伤害增加": 65,
+      "英雄生命值增加": 1046,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "水晶伤害": 150,
+      "水晶减速比例": 45,
+      "减速持续时间": 15,
+      "英雄每秒伤害增加": 68,
+      "英雄生命值增加": 1093,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "水晶伤害": 200,
+      "水晶减速比例": 50,
+      "减速持续时间": 18,
+      "英雄每秒伤害增加": 73,
+      "英雄生命值增加": 1140,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/0721",
+  "imgSrc": "Dark_Orb_info.png"
+}

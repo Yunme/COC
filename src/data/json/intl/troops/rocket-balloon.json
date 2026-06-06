@@ -1,0 +1,76 @@
+{
+  "id": "rocket-balloon",
+  "name": "Rocket Balloon",
+  "nameCn": "火箭气球兵",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 5,
+      "dps": 170,
+      "damagePerHit": 510,
+      "死亡伤害": 300,
+      "hp": 390,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 220,
+      "damagePerHit": 660,
+      "死亡伤害": 400,
+      "hp": 545,
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "dps": 260,
+      "damagePerHit": 780,
+      "死亡伤害": 500,
+      "hp": 690,
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "dps": 270,
+      "damagePerHit": 810,
+      "死亡伤害": 580,
+      "hp": 840,
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "dps": 280,
+      "damagePerHit": 840,
+      "死亡伤害": 620,
+      "hp": 940,
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "dps": 285,
+      "damagePerHit": 855,
+      "死亡伤害": 650,
+      "hp": 1040,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 290,
+      "damagePerHit": 870,
+      "死亡伤害": 700,
+      "hp": 1140,
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 304,
+      "damagePerHit": 912,
+      "死亡伤害": 730,
+      "hp": 1240,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/060b",
+  "imgSrc": "Rocket_Balloon_info.png"
+}

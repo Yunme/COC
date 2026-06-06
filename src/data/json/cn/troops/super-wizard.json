@@ -1,0 +1,42 @@
+{
+  "id": "super-wizard",
+  "name": "Super Wizard",
+  "nameCn": "超级法师",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 9,
+      "dps": 220,
+      "hp": 545
+    },
+    {
+      "level": 10,
+      "dps": 240,
+      "hp": 705
+    },
+    {
+      "level": 11,
+      "dps": 265,
+      "hp": 760
+    },
+    {
+      "level": 12,
+      "dps": 285,
+      "hp": 815
+    },
+    {
+      "level": 13,
+      "dps": 305,
+      "hp": 870
+    },
+    {
+      "level": 14,
+      "dps": 335,
+      "hp": 925
+    }
+  ],
+  "imgFolder": "home_tech/0609",
+  "imgSrc": "Super_Wizard_info.png"
+}

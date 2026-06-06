@@ -1,0 +1,108 @@
+{
+  "id": "pet-house",
+  "name": "Pet House",
+  "nameCn": "战宠小屋",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 700,
+      "upgradeCost": 3000000,
+      "upgradeTime": "1d",
+      "townHallLevel": 14,
+      "解锁的战宠": "<a href=\"/upgrade/0280-L.A.S.S.I\">莱希</a>"
+    },
+    {
+      "level": 2,
+      "hp": 800,
+      "upgradeCost": 4000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 14,
+      "解锁的战宠": "<a href=\"/upgrade/0281-Electro-Owl\">闪枭</a>"
+    },
+    {
+      "level": 3,
+      "hp": 900,
+      "upgradeCost": 5000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 14,
+      "解锁的战宠": "<a href=\"/upgrade/0282-Mighty-Yak\">大牦</a>"
+    },
+    {
+      "level": 4,
+      "hp": 1000,
+      "upgradeCost": 6000000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 14,
+      "解锁的战宠": "<a href=\"/upgrade/0283-Unicorn\">独角</a>"
+    },
+    {
+      "level": 5,
+      "hp": 1050,
+      "upgradeCost": 7000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 15,
+      "解锁的战宠": "<a href=\"/upgrade/0284-Frosty\">冰牙</a>"
+    },
+    {
+      "level": 6,
+      "hp": 1100,
+      "upgradeCost": 8000000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 15,
+      "解锁的战宠": "<a href=\"/upgrade/0285-Diggy\">地兽</a>"
+    },
+    {
+      "level": 7,
+      "hp": 1150,
+      "upgradeCost": 9000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 15,
+      "解锁的战宠": "<a href=\"/upgrade/0286-Poison-Lizard\">猛蜥</a>"
+    },
+    {
+      "level": 8,
+      "hp": 1200,
+      "upgradeCost": 10000000,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 15,
+      "解锁的战宠": "<a href=\"/upgrade/0287-Phoenix\">凤凰</a>"
+    },
+    {
+      "level": 9,
+      "hp": 1250,
+      "upgradeCost": 11000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 16,
+      "解锁的战宠": "<a href=\"/upgrade/0288-Spirit-Fox\">灵狐</a>"
+    },
+    {
+      "level": 10,
+      "hp": 1300,
+      "upgradeCost": 12000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 16,
+      "解锁的战宠": "<a href=\"/upgrade/0289-Angry-Jelly\">愤怒水母</a>"
+    },
+    {
+      "level": 11,
+      "hp": 1350,
+      "upgradeCost": 16500000,
+      "upgradeTime": "9d",
+      "townHallLevel": 17,
+      "解锁的战宠": "<a href=\"/upgrade/028a-Sneezy\">阿啾</a>"
+    },
+    {
+      "level": 12,
+      "hp": 1400,
+      "upgradeCost": 25500000,
+      "upgradeTime": "13d12h",
+      "townHallLevel": 18,
+      "解锁的战宠": "<a href=\"/upgrade/028b-Greedy-Raven\">贪婪渡鸦</a>"
+    }
+  ],
+  "imgFolder": "home_buildings/0487",
+  "imgSrc": "Pet_House12_info.png"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "overgrowth-spell",
+  "name": "Overgrowth Spell",
+  "nameCn": "蔓生法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "法术持续时间": 22,
+      "requiredLabLevel": 1,
+      "townHallLevel": 12
+    },
+    {
+      "level": 2,
+      "法术持续时间": 23,
+      "upgradeTime": "5d12h",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "法术持续时间": 24,
+      "upgradeTime": "8d12h",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "法术持续时间": 25,
+      "upgradeTime": "10d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0185",
+  "imgSrc": "Overgrowth_Spell.png"
+}

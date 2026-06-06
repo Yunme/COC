@@ -1,0 +1,102 @@
+{
+  "id": "bh-double-cannon",
+  "name": "Double Cannon",
+  "nameCn": "双管加农炮",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "每秒伤害<sup>#<Sup>": 84,
+      "damagePerHit": 50,
+      "hp": 600,
+      "upgradeCost": 20000,
+      "upgradeTime": "10m",
+      "所需夜世界大本等级": 2
+    },
+    {
+      "level": 2,
+      "每秒伤害<sup>#<Sup>": 92,
+      "damagePerHit": 55,
+      "hp": 690,
+      "upgradeCost": 50000,
+      "upgradeTime": "1h",
+      "所需夜世界大本等级": 3
+    },
+    {
+      "level": 3,
+      "每秒伤害<sup>#<Sup>": 103,
+      "damagePerHit": 61,
+      "hp": 800,
+      "upgradeCost": 80000,
+      "upgradeTime": "3h",
+      "所需夜世界大本等级": 3
+    },
+    {
+      "level": 4,
+      "每秒伤害<sup>#<Sup>": 113,
+      "damagePerHit": 67,
+      "hp": 910,
+      "upgradeCost": 300000,
+      "upgradeTime": "12h",
+      "所需夜世界大本等级": 4
+    },
+    {
+      "level": 5,
+      "每秒伤害<sup>#<Sup>": 125,
+      "damagePerHit": 74,
+      "hp": 1050,
+      "upgradeCost": 900000,
+      "upgradeTime": "1d",
+      "所需夜世界大本等级": 5
+    },
+    {
+      "level": 6,
+      "每秒伤害<sup>#<Sup>": 136,
+      "damagePerHit": 81,
+      "hp": 1250,
+      "upgradeCost": 1400000,
+      "upgradeTime": "2d",
+      "所需夜世界大本等级": 6
+    },
+    {
+      "level": 7,
+      "每秒伤害<sup>#<Sup>": 150,
+      "damagePerHit": 89,
+      "hp": 1450,
+      "upgradeCost": 2200000,
+      "upgradeTime": "4d",
+      "所需夜世界大本等级": 7
+    },
+    {
+      "level": 8,
+      "每秒伤害<sup>#<Sup>": 165,
+      "damagePerHit": 98,
+      "hp": 1700,
+      "upgradeCost": 3200000,
+      "upgradeTime": "6d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 9,
+      "每秒伤害<sup>#<Sup>": 182,
+      "damagePerHit": 108,
+      "hp": 1950,
+      "upgradeCost": 4200000,
+      "upgradeTime": "8d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 10,
+      "每秒伤害<sup>#<Sup>": 202,
+      "damagePerHit": 120,
+      "hp": 2200,
+      "upgradeCost": 5200000,
+      "upgradeTime": "10d",
+      "所需夜世界大本等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1101",
+  "imgSrc": "Double_Cannon10.png"
+}

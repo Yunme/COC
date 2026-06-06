@@ -1,0 +1,82 @@
+{
+  "id": "lava-hound",
+  "name": "Lava Hound",
+  "nameCn": "熔岩猎犬",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 10,
+      "damagePerHit": 20,
+      "hp": 6100,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "dps": 12,
+      "damagePerHit": 24,
+      "hp": 6500,
+      "upgradeCost": 14000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "dps": 14,
+      "damagePerHit": 28,
+      "hp": 6800,
+      "upgradeCost": 21500,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "dps": 16,
+      "damagePerHit": 32,
+      "hp": 7200,
+      "upgradeCost": 42500,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "dps": 18,
+      "damagePerHit": 36,
+      "hp": 7600,
+      "upgradeCost": 60000,
+      "upgradeTime": "5d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 6,
+      "dps": 20,
+      "damagePerHit": 40,
+      "hp": 8000,
+      "upgradeCost": 80000,
+      "upgradeTime": "8d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "dps": 22,
+      "damagePerHit": 44,
+      "hp": 8500,
+      "upgradeCost": 200000,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "dps": 24,
+      "damagePerHit": 48,
+      "hp": 9500,
+      "upgradeCost": 345000,
+      "upgradeTime": "15d6h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0085",
+  "imgSrc": "Lava_Hound_info.png"
+}

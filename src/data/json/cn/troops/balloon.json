@@ -1,0 +1,118 @@
+{
+  "id": "balloon",
+  "name": "Balloon",
+  "nameCn": "气球兵",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 25,
+      "damagePerHit": 75,
+      "hp": 150,
+      "townHallLevel": 4
+    },
+    {
+      "level": 2,
+      "dps": 32,
+      "damagePerHit": 96,
+      "hp": 180,
+      "upgradeCost": 125000,
+      "upgradeTime": "8h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 3,
+      "dps": 48,
+      "damagePerHit": 144,
+      "hp": 216,
+      "upgradeCost": 400000,
+      "upgradeTime": "12h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 4,
+      "dps": 72,
+      "damagePerHit": 216,
+      "hp": 280,
+      "upgradeCost": 720000,
+      "upgradeTime": "18h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "dps": 108,
+      "damagePerHit": 324,
+      "hp": 390,
+      "upgradeCost": 1300000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 162,
+      "damagePerHit": 486,
+      "hp": 545,
+      "upgradeCost": 2750000,
+      "upgradeTime": "3d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "dps": 198,
+      "damagePerHit": 594,
+      "hp": 690,
+      "upgradeCost": 4500000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "dps": 236,
+      "damagePerHit": 708,
+      "hp": 840,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "dps": 256,
+      "damagePerHit": 768,
+      "hp": 940,
+      "upgradeCost": 8000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "dps": 276,
+      "damagePerHit": 828,
+      "hp": 1040,
+      "upgradeCost": 10000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 290,
+      "damagePerHit": 870,
+      "hp": 1140,
+      "upgradeCost": 18000000,
+      "upgradeTime": "13d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 304,
+      "damagePerHit": 912,
+      "hp": 1240,
+      "upgradeCost": 22500000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0005",
+  "imgSrc": "Balloon_info.png"
+}

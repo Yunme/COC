@@ -1,0 +1,160 @@
+{
+  "id": "electro-owl",
+  "name": "Electro Owl",
+  "nameCn": "闪枭",
+  "category": "pets",
+  "village": "home",
+  "maxLevel": 15,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 100,
+      "damagePerHit": 140,
+      "hp": 1600,
+      "requiredPetHouseLevel": 2,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "dps": 105,
+      "damagePerHit": 147,
+      "hp": 1700,
+      "upgradeCost": 30000,
+      "upgradeTime": "1d12h",
+      "requiredPetHouseLevel": 2,
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "dps": 110,
+      "damagePerHit": 154,
+      "hp": 1800,
+      "upgradeCost": 45000,
+      "upgradeTime": "2d",
+      "requiredPetHouseLevel": 2,
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 115,
+      "damagePerHit": 161,
+      "hp": 1900,
+      "upgradeCost": 60000,
+      "upgradeTime": "2d12h",
+      "requiredPetHouseLevel": 2,
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "dps": 120,
+      "damagePerHit": 168,
+      "hp": 2000,
+      "upgradeCost": 75000,
+      "upgradeTime": "4d",
+      "requiredPetHouseLevel": 2,
+      "townHallLevel": 14
+    },
+    {
+      "level": 6,
+      "dps": 125,
+      "damagePerHit": 175,
+      "hp": 2100,
+      "upgradeCost": 90000,
+      "upgradeTime": "4d12h",
+      "requiredPetHouseLevel": 2,
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "dps": 130,
+      "damagePerHit": 182,
+      "hp": 2200,
+      "upgradeCost": 105000,
+      "upgradeTime": "5d",
+      "requiredPetHouseLevel": 2,
+      "townHallLevel": 14
+    },
+    {
+      "level": 8,
+      "dps": 135,
+      "damagePerHit": 189,
+      "hp": 2300,
+      "upgradeCost": 120000,
+      "upgradeTime": "5d12h",
+      "requiredPetHouseLevel": 2,
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "dps": 140,
+      "damagePerHit": 196,
+      "hp": 2400,
+      "upgradeCost": 135000,
+      "upgradeTime": "6d",
+      "requiredPetHouseLevel": 2,
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "dps": 145,
+      "damagePerHit": 203,
+      "hp": 2500,
+      "upgradeCost": 150000,
+      "upgradeTime": "6d12h",
+      "requiredPetHouseLevel": 2,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 150,
+      "damagePerHit": 210,
+      "hp": 2600,
+      "upgradeCost": 165000,
+      "upgradeTime": "7d",
+      "requiredPetHouseLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 155,
+      "damagePerHit": 217,
+      "hp": 2700,
+      "upgradeCost": 180000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "dps": 160,
+      "damagePerHit": 224,
+      "hp": 2800,
+      "upgradeCost": 195000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 14,
+      "dps": 165,
+      "damagePerHit": 231,
+      "hp": 2900,
+      "upgradeCost": 210000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 15,
+      "dps": 170,
+      "damagePerHit": 238,
+      "hp": 3000,
+      "upgradeCost": 225000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 9,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/0281",
+  "imgSrc": "Electro_Owl_info.png"
+}

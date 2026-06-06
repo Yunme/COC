@@ -1,0 +1,66 @@
+{
+  "id": "freeze-spell",
+  "name": "Freeze Spell",
+  "nameCn": "冰冻法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 1,
+      "冰冻时间": 2.5,
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "冰冻时间": 3,
+      "upgradeCost": 1200000,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "冰冻时间": 3.5,
+      "upgradeCost": 1700000,
+      "upgradeTime": "1d12h",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "冰冻时间": 4,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "冰冻时间": 4.5,
+      "upgradeCost": 4200000,
+      "upgradeTime": "2d12h",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "冰冻时间": 5,
+      "upgradeCost": 6000000,
+      "upgradeTime": "3d12h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "冰冻时间": 5.5,
+      "upgradeCost": 7000000,
+      "upgradeTime": "5d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    }
+  ],
+  "imgFolder": "home_tech/0104",
+  "imgSrc": "Freeze_Spell.png"
+}

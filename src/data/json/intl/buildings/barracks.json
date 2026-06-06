@@ -1,0 +1,164 @@
+{
+  "id": "barracks",
+  "name": "Barracks",
+  "nameCn": "训练营",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 19,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 100,
+      "upgradeCost": 100,
+      "upgradeTime": "10s",
+      "townHallLevel": 1,
+      "解锁的兵种": "<a href=\"/upgrade/0000-Barbarian\">野蛮人</a>"
+    },
+    {
+      "level": 2,
+      "hp": 200,
+      "upgradeCost": 500,
+      "upgradeTime": "15s",
+      "townHallLevel": 1,
+      "解锁的兵种": "<a href=\"/upgrade/0001-Archer\">弓箭手</a>"
+    },
+    {
+      "level": 3,
+      "hp": 250,
+      "upgradeCost": 2500,
+      "upgradeTime": "2m",
+      "townHallLevel": 1,
+      "解锁的兵种": "<a href=\"/upgrade/0002-Giant\">巨人</a>"
+    },
+    {
+      "level": 4,
+      "hp": 300,
+      "upgradeCost": 5000,
+      "upgradeTime": "30m",
+      "townHallLevel": 2,
+      "解锁的兵种": "<a href=\"/upgrade/0003-Goblin\">哥布林</a>"
+    },
+    {
+      "level": 5,
+      "hp": 360,
+      "upgradeCost": 20000,
+      "upgradeTime": "2h",
+      "townHallLevel": 3,
+      "解锁的兵种": "<a href=\"/upgrade/0004-Wall-Breaker\">炸弹人</a>"
+    },
+    {
+      "level": 6,
+      "hp": 420,
+      "upgradeCost": 120000,
+      "upgradeTime": "4h",
+      "townHallLevel": 4,
+      "解锁的兵种": "<a href=\"/upgrade/0005-Balloon\">气球兵</a>"
+    },
+    {
+      "level": 7,
+      "hp": 500,
+      "upgradeCost": 270000,
+      "upgradeTime": "6h",
+      "townHallLevel": 5,
+      "解锁的兵种": "<a href=\"/upgrade/0006-Wizard\">法师</a>"
+    },
+    {
+      "level": 8,
+      "hp": 575,
+      "upgradeCost": 600000,
+      "upgradeTime": "12h",
+      "townHallLevel": 6,
+      "解锁的兵种": "<a href=\"/upgrade/0007-Healer\">天使</a>"
+    },
+    {
+      "level": 9,
+      "hp": 650,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d",
+      "townHallLevel": 7,
+      "解锁的兵种": "<a href=\"/upgrade/0008-Dragon\">飞龙</a>"
+    },
+    {
+      "level": 10,
+      "hp": 730,
+      "upgradeCost": 1400000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 8,
+      "解锁的兵种": "<a href=\"/upgrade/0009-P.E.K.K.A\">皮卡超人</a>"
+    },
+    {
+      "level": 11,
+      "hp": 810,
+      "upgradeCost": 2600000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9,
+      "解锁的兵种": "<a href=\"/upgrade/000a-Baby-Dragon\">飞龙宝宝</a>"
+    },
+    {
+      "level": 12,
+      "hp": 900,
+      "upgradeCost": 3700000,
+      "upgradeTime": "4d",
+      "townHallLevel": 10,
+      "解锁的兵种": "<a href=\"/upgrade/000b-Miner\">掘地矿工</a>"
+    },
+    {
+      "level": 13,
+      "hp": 980,
+      "upgradeCost": 6000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 11,
+      "解锁的兵种": "<a href=\"/upgrade/000c-Electro-Dragon\">雷电飞龙</a>"
+    },
+    {
+      "level": 14,
+      "hp": 1050,
+      "upgradeCost": 7000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 12,
+      "解锁的兵种": "<a href=\"/upgrade/000d-Yeti\">大雪怪</a>"
+    },
+    {
+      "level": 15,
+      "hp": 1150,
+      "upgradeCost": 9000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 13,
+      "解锁的兵种": "<a href=\"/upgrade/000e-Dragon-Rider\">龙骑士</a>"
+    },
+    {
+      "level": 16,
+      "hp": 1250,
+      "upgradeCost": 11000000,
+      "upgradeTime": "7d12h",
+      "townHallLevel": 14,
+      "解锁的兵种": "<a href=\"/upgrade/000f-Electro-Titan\">雷霆泰坦</a>"
+    },
+    {
+      "level": 17,
+      "hp": 1350,
+      "upgradeCost": 12600000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15,
+      "解锁的兵种": "<a href=\"/upgrade/0010-Root-Rider\">根蔓骑士</a>"
+    },
+    {
+      "level": 18,
+      "hp": 1450,
+      "upgradeCost": 15000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 16,
+      "解锁的兵种": "<a href=\"/upgrade/0011-Thrower\">巨矛投手</a>"
+    },
+    {
+      "level": 19,
+      "hp": 1520,
+      "upgradeCost": 26000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 17,
+      "解锁的兵种": "<a href=\"/upgrade/0012-Meteor-Golem\">陨石戈仑</a>"
+    }
+  ],
+  "imgFolder": "home_buildings/0481",
+  "imgSrc": "Barracks19_hd.png"
+}

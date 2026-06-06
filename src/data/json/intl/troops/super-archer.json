@@ -1,0 +1,61 @@
+{
+  "id": "super-archer",
+  "name": "Super Archer",
+  "nameCn": "超级弓箭手",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 8,
+      "dps": 120,
+      "damagePerHit": 180,
+      "hp": 450,
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "dps": 132,
+      "damagePerHit": 198,
+      "hp": 510,
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 144,
+      "damagePerHit": 216,
+      "hp": 565,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 156,
+      "damagePerHit": 234,
+      "hp": 605,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 162,
+      "damagePerHit": 243,
+      "hp": 645,
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "dps": 166,
+      "damagePerHit": 249,
+      "hp": 685,
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "dps": 170,
+      "damagePerHit": 255,
+      "hp": 725,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0606",
+  "imgSrc": "Super_Archer_info.png"
+}

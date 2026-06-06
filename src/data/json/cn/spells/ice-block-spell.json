@@ -1,0 +1,40 @@
+{
+  "id": "ice-block-spell",
+  "name": "Ice Block Spell",
+  "nameCn": "冰障法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "upgradeCost": 140000,
+      "upgradeTime": "10d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "upgradeCost": 200000,
+      "upgradeTime": "11d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 4,
+      "upgradeCost": 280000,
+      "upgradeTime": "12d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 5,
+      "upgradeCost": 320000,
+      "upgradeTime": "14d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0186",
+  "imgSrc": "Ice_Block_Spell_info.png"
+}

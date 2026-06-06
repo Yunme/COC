@@ -1,0 +1,52 @@
+{
+  "id": "super-wall-breaker",
+  "name": "Super Wall Breaker",
+  "nameCn": "超级炸弹人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 7,
+      "dps": 78,
+      "hp": 350
+    },
+    {
+      "level": 8,
+      "dps": 100,
+      "hp": 400
+    },
+    {
+      "level": 9,
+      "dps": 120,
+      "hp": 450
+    },
+    {
+      "level": 10,
+      "dps": 130,
+      "hp": 475
+    },
+    {
+      "level": 11,
+      "dps": 140,
+      "hp": 500
+    },
+    {
+      "level": 12,
+      "dps": 150,
+      "hp": 525
+    },
+    {
+      "level": 13,
+      "dps": 160,
+      "hp": 550
+    },
+    {
+      "level": 14,
+      "dps": 170,
+      "hp": 575
+    }
+  ],
+  "imgFolder": "home_tech/0603",
+  "imgSrc": "Super_Wall_Breaker_info.png"
+}

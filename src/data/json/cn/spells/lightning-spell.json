@@ -1,0 +1,101 @@
+{
+  "id": "lightning-spell",
+  "name": "Lightning Spell",
+  "nameCn": "雷电法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 13,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 150,
+      "townHallLevel": 3
+    },
+    {
+      "level": 2,
+      "dps": 180,
+      "upgradeCost": 50000,
+      "upgradeTime": "4h",
+      "townHallLevel": 3
+    },
+    {
+      "level": 3,
+      "dps": 210,
+      "upgradeCost": 100000,
+      "upgradeTime": "8h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 4,
+      "dps": 240,
+      "upgradeCost": 200000,
+      "upgradeTime": "12h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 5,
+      "dps": 270,
+      "upgradeCost": 600000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 320,
+      "upgradeCost": 1500000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "dps": 400,
+      "upgradeCost": 2500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 8,
+      "dps": 480,
+      "upgradeCost": 4200000,
+      "upgradeTime": "5d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "dps": 560,
+      "upgradeCost": 6300000,
+      "upgradeTime": "6d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 600,
+      "upgradeCost": 10000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "dps": 640,
+      "upgradeCost": 13500000,
+      "upgradeTime": "11d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 680,
+      "upgradeCost": 18500000,
+      "upgradeTime": "14d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 13,
+      "dps": 720,
+      "upgradeCost": 27000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0100",
+  "imgSrc": "Lightning_Spell.png"
+}

@@ -1,0 +1,209 @@
+{
+  "id": "barbarian-puppet",
+  "name": "Barbarian Puppet",
+  "nameCn": "野蛮人木偶",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "召唤的野蛮人数量": 8,
+      "野蛮人伤害增加": 100,
+      "野蛮人速度提升": 60,
+      "英雄生命值增加": 309,
+      "开启技能后生命值恢复加成": 110,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "召唤的野蛮人数量": 8,
+      "野蛮人伤害增加": 100,
+      "野蛮人速度提升": 60,
+      "英雄生命值增加": 385,
+      "开启技能后生命值恢复加成": 165,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "召唤的野蛮人数量": 16,
+      "野蛮人伤害增加": 120,
+      "野蛮人速度提升": 80,
+      "英雄生命值增加": 467,
+      "开启技能后生命值恢复加成": 220,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "召唤的野蛮人数量": 16,
+      "野蛮人伤害增加": 120,
+      "野蛮人速度提升": 80,
+      "英雄生命值增加": 564,
+      "开启技能后生命值恢复加成": 275,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "召唤的野蛮人数量": 16,
+      "野蛮人伤害增加": 120,
+      "野蛮人速度提升": 80,
+      "英雄生命值增加": 649,
+      "开启技能后生命值恢复加成": 330,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "召唤的野蛮人数量": 20,
+      "野蛮人伤害增加": 140,
+      "野蛮人速度提升": 100,
+      "英雄生命值增加": 734,
+      "开启技能后生命值恢复加成": 385,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "召唤的野蛮人数量": 20,
+      "野蛮人伤害增加": 140,
+      "野蛮人速度提升": 100,
+      "英雄生命值增加": 836,
+      "开启技能后生命值恢复加成": 440,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 8,
+      "召唤的野蛮人数量": 20,
+      "野蛮人伤害增加": 140,
+      "野蛮人速度提升": 100,
+      "英雄生命值增加": 940,
+      "开启技能后生命值恢复加成": 495,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 9,
+      "召唤的野蛮人数量": 30,
+      "野蛮人伤害增加": 160,
+      "野蛮人速度提升": 120,
+      "英雄生命值增加": 1045,
+      "开启技能后生命值恢复加成": 572,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 10,
+      "召唤的野蛮人数量": 30,
+      "野蛮人伤害增加": 160,
+      "野蛮人速度提升": 120,
+      "英雄生命值增加": 1155,
+      "开启技能后生命值恢复加成": 660,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 11,
+      "召唤的野蛮人数量": 30,
+      "野蛮人伤害增加": 160,
+      "野蛮人速度提升": 120,
+      "英雄生命值增加": 1265,
+      "开启技能后生命值恢复加成": 748,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 12,
+      "召唤的野蛮人数量": 36,
+      "野蛮人伤害增加": 180,
+      "野蛮人速度提升": 140,
+      "英雄生命值增加": 1445,
+      "开启技能后生命值恢复加成": 847,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 13,
+      "召唤的野蛮人数量": 36,
+      "野蛮人伤害增加": 180,
+      "野蛮人速度提升": 140,
+      "英雄生命值增加": 1755,
+      "开启技能后生命值恢复加成": 946,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 14,
+      "召唤的野蛮人数量": 36,
+      "野蛮人伤害增加": 180,
+      "野蛮人速度提升": 140,
+      "英雄生命值增加": 2087,
+      "开启技能后生命值恢复加成": 1034,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 15,
+      "召唤的野蛮人数量": 40,
+      "野蛮人伤害增加": 200,
+      "野蛮人速度提升": 160,
+      "英雄生命值增加": 2444,
+      "开启技能后生命值恢复加成": 1166,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 16,
+      "召唤的野蛮人数量": 40,
+      "野蛮人伤害增加": 200,
+      "野蛮人速度提升": 160,
+      "英雄生命值增加": 2703,
+      "开启技能后生命值恢复加成": 1243,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "召唤的野蛮人数量": 40,
+      "野蛮人伤害增加": 200,
+      "野蛮人速度提升": 160,
+      "英雄生命值增加": 3093,
+      "开启技能后生命值恢复加成": 1320,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "召唤的野蛮人数量": 44,
+      "野蛮人伤害增加": 220,
+      "野蛮人速度提升": 180,
+      "英雄生命值增加": 3366,
+      "开启技能后生命值恢复加成": 1386,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/0700",
+  "imgSrc": "Barbarian_Puppet_info.png"
+}

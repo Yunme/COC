@@ -1,0 +1,58 @@
+{
+  "id": "clone-spell",
+  "name": "Clone Spell",
+  "nameCn": "镜像法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "townHallLevel": 10
+    },
+    {
+      "level": 2,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 3,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "upgradeCost": 4000000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "upgradeCost": 8000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 8,
+      "upgradeCost": 9000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_tech/0105",
+  "imgSrc": "Clone_Spell.png"
+}

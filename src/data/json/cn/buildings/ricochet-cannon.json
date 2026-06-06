@@ -1,0 +1,44 @@
+{
+  "id": "ricochet-cannon",
+  "name": "Ricochet Cannon",
+  "nameCn": "跳弹加农炮",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 360,
+      "hp": 5400,
+      "upgradeCost": 16000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 2,
+      "dps": 390,
+      "hp": 5700,
+      "upgradeCost": 18000000,
+      "upgradeTime": "13d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 3,
+      "dps": 405,
+      "hp": 6000,
+      "upgradeCost": 23000000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "dps": 412,
+      "hp": 6100,
+      "upgradeCost": 26500000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0313",
+  "imgSrc": "Ricochet_Cannon4.png"
+}

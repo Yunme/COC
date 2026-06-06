@@ -1,0 +1,191 @@
+{
+  "id": "metal-pants",
+  "name": "Metal Pants",
+  "nameCn": "铁甲短裤",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "技能持续时间": 9,
+      "技能期间伤害减少": 46,
+      "英雄生命值增加": 850,
+      "技能状态下英雄回血量增加": 1600,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 2,
+      "技能持续时间": 9,
+      "技能期间伤害减少": 46,
+      "英雄生命值增加": 900,
+      "技能状态下英雄回血量增加": 1675,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 3,
+      "技能持续时间": 10,
+      "技能期间伤害减少": 50,
+      "英雄生命值增加": 950,
+      "技能状态下英雄回血量增加": 1750,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "技能持续时间": 10,
+      "技能期间伤害减少": 50,
+      "英雄生命值增加": 1000,
+      "技能状态下英雄回血量增加": 1800,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "技能持续时间": 10,
+      "技能期间伤害减少": 50,
+      "英雄生命值增加": 1050,
+      "技能状态下英雄回血量增加": 1850,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "技能持续时间": 11,
+      "技能期间伤害减少": 54,
+      "英雄生命值增加": 1100,
+      "技能状态下英雄回血量增加": 1900,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 7,
+      "技能持续时间": 11,
+      "技能期间伤害减少": 54,
+      "英雄生命值增加": 1150,
+      "技能状态下英雄回血量增加": 1950,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 8,
+      "技能持续时间": 11,
+      "技能期间伤害减少": 54,
+      "英雄生命值增加": 1200,
+      "技能状态下英雄回血量增加": 2000,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 9,
+      "技能持续时间": 12,
+      "技能期间伤害减少": 58,
+      "英雄生命值增加": 1250,
+      "技能状态下英雄回血量增加": 2050,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 10,
+      "技能持续时间": 12,
+      "技能期间伤害减少": 58,
+      "英雄生命值增加": 1300,
+      "技能状态下英雄回血量增加": 2100,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 11,
+      "技能持续时间": 12,
+      "技能期间伤害减少": 58,
+      "英雄生命值增加": 1350,
+      "技能状态下英雄回血量增加": 2150,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 12,
+      "技能持续时间": 13,
+      "技能期间伤害减少": 62,
+      "英雄生命值增加": 1400,
+      "技能状态下英雄回血量增加": 2200,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 13,
+      "技能持续时间": 13,
+      "技能期间伤害减少": 62,
+      "英雄生命值增加": 1450,
+      "技能状态下英雄回血量增加": 2250,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 14,
+      "技能持续时间": 13,
+      "技能期间伤害减少": 62,
+      "英雄生命值增加": 1500,
+      "技能状态下英雄回血量增加": 2300,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 15,
+      "技能持续时间": 14,
+      "技能期间伤害减少": 66,
+      "英雄生命值增加": 1550,
+      "技能状态下英雄回血量增加": 2350,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 16,
+      "技能持续时间": 14,
+      "技能期间伤害减少": 66,
+      "英雄生命值增加": 1600,
+      "技能状态下英雄回血量增加": 2400,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "技能持续时间": 14,
+      "技能期间伤害减少": 66,
+      "英雄生命值增加": 1650,
+      "技能状态下英雄回血量增加": 2450,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "技能持续时间": 15,
+      "技能期间伤害减少": 70,
+      "英雄生命值增加": 1700,
+      "技能状态下英雄回血量增加": 2500,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/0722",
+  "imgSrc": "Metal_Pants_info.png"
+}

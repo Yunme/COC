@@ -1,0 +1,68 @@
+{
+  "id": "alchemist",
+  "name": "Alchemist",
+  "nameCn": "炼金术士",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 1,
+      "每次转化上限(金币和圣水)": 150,
+      "每次转化上限(黑油)": 1,
+      "转化率": 101,
+      "upgradeCost": 100,
+      "townHallLevel": 11
+    },
+    {
+      "level": 2,
+      "每次转化上限(金币和圣水)": 225,
+      "每次转化上限(黑油)": 1.5,
+      "转化率": 102,
+      "upgradeCost": 250,
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "每次转化上限(金币和圣水)": 300,
+      "每次转化上限(黑油)": 2,
+      "转化率": 104,
+      "upgradeCost": 500,
+      "townHallLevel": 13
+    },
+    {
+      "level": 4,
+      "每次转化上限(金币和圣水)": 450,
+      "每次转化上限(黑油)": 3,
+      "转化率": 105,
+      "upgradeCost": 1000,
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "每次转化上限(金币和圣水)": 600,
+      "每次转化上限(黑油)": 4,
+      "转化率": 107,
+      "upgradeCost": 1000,
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "每次转化上限(金币和圣水)": 750,
+      "每次转化上限(黑油)": 5,
+      "转化率": 109,
+      "upgradeCost": 1500,
+      "townHallLevel": 16
+    },
+    {
+      "level": 7,
+      "每次转化上限(金币和圣水)": 1050,
+      "每次转化上限(黑油)": 7,
+      "转化率": 110,
+      "upgradeCost": 1500,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0802",
+  "imgSrc": "Alchemist_info.png"
+}

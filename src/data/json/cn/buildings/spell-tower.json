@@ -1,0 +1,40 @@
+{
+  "id": "spell-tower",
+  "name": "Spell Tower",
+  "nameCn": "法术塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 2500,
+      "upgradeCost": 9000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 2,
+      "hp": 2800,
+      "upgradeCost": 11000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 3,
+      "hp": 3100,
+      "upgradeCost": 12000000,
+      "upgradeTime": "8d12h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 4,
+      "hp": 3200,
+      "upgradeCost": 27000000,
+      "upgradeTime": "10d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_buildings/0311",
+  "imgSrc": "Spell_Tower4_Rage.png"
+}

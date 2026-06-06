@@ -1,0 +1,191 @@
+{
+  "id": "rage-vial",
+  "name": "Rage Vial",
+  "nameCn": "狂暴药水瓶",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "技能状态下伤害提升": 120,
+      "技能状态下蛮王的移动速度": 34,
+      "每秒伤害增加": 17,
+      "技能回血属性加成": 150,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "技能状态下伤害提升": 120,
+      "技能状态下蛮王的移动速度": 34,
+      "每秒伤害增加": 22,
+      "技能回血属性加成": 225,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "技能状态下伤害提升": 130,
+      "技能状态下蛮王的移动速度": 38.3,
+      "每秒伤害增加": 27,
+      "技能回血属性加成": 300,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "技能状态下伤害提升": 130,
+      "技能状态下蛮王的移动速度": 38.3,
+      "每秒伤害增加": 32,
+      "技能回血属性加成": 375,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "技能状态下伤害提升": 130,
+      "技能状态下蛮王的移动速度": 38.3,
+      "每秒伤害增加": 37,
+      "技能回血属性加成": 450,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "技能状态下伤害提升": 135,
+      "技能状态下蛮王的移动速度": 41.5,
+      "每秒伤害增加": 42,
+      "技能回血属性加成": 525,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "技能状态下伤害提升": 135,
+      "技能状态下蛮王的移动速度": 41.5,
+      "每秒伤害增加": 48,
+      "技能回血属性加成": 600,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 8,
+      "技能状态下伤害提升": 135,
+      "技能状态下蛮王的移动速度": 41.5,
+      "每秒伤害增加": 54,
+      "技能回血属性加成": 675,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 9,
+      "技能状态下伤害提升": 140,
+      "技能状态下蛮王的移动速度": 44.7,
+      "每秒伤害增加": 60,
+      "技能回血属性加成": 780,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 10,
+      "技能状态下伤害提升": 140,
+      "技能状态下蛮王的移动速度": 44.7,
+      "每秒伤害增加": 66,
+      "技能回血属性加成": 900,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 11,
+      "技能状态下伤害提升": 140,
+      "技能状态下蛮王的移动速度": 44.7,
+      "每秒伤害增加": 72,
+      "技能回血属性加成": 1020,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 12,
+      "技能状态下伤害提升": 145,
+      "技能状态下蛮王的移动速度": 48,
+      "每秒伤害增加": 79,
+      "技能回血属性加成": 1155,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 13,
+      "技能状态下伤害提升": 145,
+      "技能状态下蛮王的移动速度": 48,
+      "每秒伤害增加": 86,
+      "技能回血属性加成": 1290,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 14,
+      "技能状态下伤害提升": 145,
+      "技能状态下蛮王的移动速度": 48,
+      "每秒伤害增加": 94,
+      "技能回血属性加成": 1410,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 15,
+      "技能状态下伤害提升": 150,
+      "技能状态下蛮王的移动速度": 51.1,
+      "每秒伤害增加": 104,
+      "技能回血属性加成": 1590,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 16,
+      "技能状态下伤害提升": 150,
+      "技能状态下蛮王的移动速度": 51.1,
+      "每秒伤害增加": 112,
+      "技能回血属性加成": 1695,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "技能状态下伤害提升": 150,
+      "技能状态下蛮王的移动速度": 51.1,
+      "每秒伤害增加": 120,
+      "技能回血属性加成": 1800,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "技能状态下伤害提升": 155,
+      "技能状态下蛮王的移动速度": 54.3,
+      "每秒伤害增加": 128,
+      "技能回血属性加成": 1890,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/0701",
+  "imgSrc": "Rage_Vial_info.png"
+}

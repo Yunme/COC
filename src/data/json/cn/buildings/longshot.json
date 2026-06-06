@@ -1,0 +1,55 @@
+{
+  "id": "longshot",
+  "name": "Longshot",
+  "nameCn": "远袭者",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 330,
+      "damagePerHit": 594,
+      "hp": 7000,
+      "townHallLevel": 18
+    },
+    {
+      "level": 2,
+      "dps": 360,
+      "damagePerHit": 648,
+      "hp": 8000,
+      "upgradeCost": 18000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 3,
+      "dps": 390,
+      "damagePerHit": 702,
+      "hp": 9000,
+      "upgradeCost": 22000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 4,
+      "dps": 420,
+      "damagePerHit": 756,
+      "hp": 10000,
+      "upgradeCost": 26000000,
+      "upgradeTime": "11d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 5,
+      "dps": 450,
+      "damagePerHit": 810,
+      "hp": 11000,
+      "upgradeCost": 28000000,
+      "upgradeTime": "13d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_th/0840",
+  "imgSrc": "Longshot_info.png"
+}

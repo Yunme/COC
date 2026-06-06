@@ -1,0 +1,67 @@
+{
+  "id": "seeking-air-mine",
+  "name": "Seeking Air Mine",
+  "nameCn": "搜空地雷",
+  "category": "traps",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 1500,
+      "upgradeCost": 12000,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "dps": 1800,
+      "upgradeCost": 600000,
+      "upgradeTime": "6h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "dps": 2100,
+      "upgradeCost": 1200000,
+      "upgradeTime": "12h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "dps": 2500,
+      "upgradeCost": 2500000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "dps": 2800,
+      "upgradeCost": 5000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "dps": 3000,
+      "upgradeCost": 6500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 7,
+      "dps": 3200,
+      "upgradeCost": 12000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 8,
+      "dps": 3350,
+      "upgradeCost": 19000000,
+      "upgradeTime": "11d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0384",
+  "imgSrc": "Seeking_Air_Mine_info.png"
+}

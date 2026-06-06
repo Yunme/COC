@@ -1,0 +1,42 @@
+{
+  "id": "inferno-dragon",
+  "name": "Inferno Dragon",
+  "nameCn": "地狱飞龙",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 6,
+      "dps": 75,
+      "hp": 1900
+    },
+    {
+      "level": 7,
+      "dps": 79,
+      "hp": 2050
+    },
+    {
+      "level": 8,
+      "dps": 83,
+      "hp": 2200
+    },
+    {
+      "level": 9,
+      "dps": 85,
+      "hp": 2300
+    },
+    {
+      "level": 10,
+      "dps": 87,
+      "hp": 2400
+    },
+    {
+      "level": 11,
+      "dps": 89,
+      "hp": 2500
+    }
+  ],
+  "imgFolder": "home_tech/0604",
+  "imgSrc": "Inferno_Dragon_info.png"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "town-hall",
+  "name": "Town Hall",
+  "nameCn": "大本营",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 400,
+      "townHallLevel": 1
+    },
+    {
+      "level": 2,
+      "hp": 800,
+      "upgradeCost": 1000,
+      "upgradeTime": "10s",
+      "townHallLevel": 2
+    },
+    {
+      "level": 3,
+      "hp": 1600,
+      "upgradeCost": 4000,
+      "upgradeTime": "30m",
+      "townHallLevel": 3
+    },
+    {
+      "level": 4,
+      "hp": 2000,
+      "upgradeCost": 25000,
+      "upgradeTime": "3h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 5,
+      "hp": 2400,
+      "upgradeCost": 150000,
+      "upgradeTime": "6h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 6,
+      "hp": 2800,
+      "upgradeCost": 500000,
+      "upgradeTime": "12h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 7,
+      "hp": 3300,
+      "upgradeCost": 1000000,
+      "upgradeTime": "18h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 8,
+      "hp": 3900,
+      "upgradeCost": 2000000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 9,
+      "hp": 4600,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 10,
+      "hp": 5500,
+      "upgradeCost": 3500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 11,
+      "hp": 6800,
+      "upgradeCost": 4000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 12,
+      "hp": 7500,
+      "upgradeCost": 6000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 13,
+      "hp": 8200,
+      "upgradeCost": 9000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 14,
+      "hp": 8900,
+      "upgradeCost": 12000000,
+      "upgradeTime": "7d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 15,
+      "hp": 9600,
+      "upgradeCost": 13000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 16,
+      "hp": 10000,
+      "upgradeCost": 15000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 17,
+      "hp": 10400,
+      "upgradeCost": 16000000,
+      "upgradeTime": "10d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 18,
+      "hp": 10800,
+      "upgradeCost": 25000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0400",
+  "imgSrc": "Town_Hall18_hd.png"
+}

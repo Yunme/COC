@@ -1,0 +1,58 @@
+{
+  "id": "bat-spell",
+  "name": "Bat Spell",
+  "nameCn": "蝙蝠法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "townHallLevel": 10
+    },
+    {
+      "level": 2,
+      "upgradeCost": 13000,
+      "upgradeTime": "18h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 3,
+      "upgradeCost": 25500,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "upgradeCost": 35000,
+      "upgradeTime": "2d6h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "upgradeCost": 47500,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 6,
+      "upgradeCost": 140000,
+      "upgradeTime": "7d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 7,
+      "upgradeCost": 220000,
+      "upgradeTime": "8d12h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 8,
+      "upgradeCost": 300000,
+      "upgradeTime": "13d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0184",
+  "imgSrc": "Bat_Spell.png"
+}

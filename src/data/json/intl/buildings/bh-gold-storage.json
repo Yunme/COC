@@ -1,0 +1,92 @@
+{
+  "id": "bh-gold-storage",
+  "name": "Gold Storage",
+  "nameCn": "储金罐",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "最大储量": 70,
+      "hp": 650,
+      "upgradeCost": 20000,
+      "upgradeTime": "30m",
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 2,
+      "最大储量": 150,
+      "hp": 800,
+      "upgradeCost": 80000,
+      "upgradeTime": "1h",
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 3,
+      "最大储量": 250,
+      "hp": 975,
+      "upgradeCost": 200000,
+      "upgradeTime": "3h",
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 4,
+      "最大储量": 350,
+      "hp": 1150,
+      "upgradeCost": 300000,
+      "upgradeTime": "6h",
+      "所需夜世界大本营等级": 4
+    },
+    {
+      "level": 5,
+      "最大储量": 600,
+      "hp": 1350,
+      "upgradeCost": 600000,
+      "upgradeTime": "12h",
+      "所需夜世界大本营等级": 5
+    },
+    {
+      "level": 6,
+      "最大储量": 800,
+      "hp": 1600,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 7,
+      "最大储量": 1.2,
+      "hp": 1850,
+      "upgradeCost": 1500000,
+      "upgradeTime": "2d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 8,
+      "最大储量": 1.6,
+      "hp": 2150,
+      "upgradeCost": 2000000,
+      "upgradeTime": "3d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 9,
+      "最大储量": 2,
+      "hp": 2450,
+      "upgradeCost": 2500000,
+      "upgradeTime": "4d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 10,
+      "最大储量": 2.5,
+      "hp": 2750,
+      "upgradeCost": 3200000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1203",
+  "imgSrc": "Gold_Storage10.png"
+}

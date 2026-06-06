@@ -1,0 +1,68 @@
+{
+  "id": "workshop",
+  "name": "Workshop",
+  "nameCn": "攻城机器工坊",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 1000,
+      "upgradeCost": 2400000,
+      "upgradeTime": "2d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 2,
+      "hp": 1100,
+      "upgradeCost": 3700000,
+      "upgradeTime": "3d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "hp": 1200,
+      "upgradeCost": 5000000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 12
+    },
+    {
+      "level": 4,
+      "hp": 1300,
+      "upgradeCost": 8700000,
+      "upgradeTime": "4d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "hp": 1400,
+      "upgradeCost": 9000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 6,
+      "hp": 1500,
+      "upgradeCost": 10000000,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "hp": 1600,
+      "upgradeCost": 11000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 8,
+      "hp": 1700,
+      "upgradeCost": 13000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_buildings/0486",
+  "imgSrc": "Workshop8.png"
+}

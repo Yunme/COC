@@ -1,0 +1,155 @@
+{
+  "id": "seeking-shield",
+  "name": "Seeking Shield",
+  "nameCn": "寻踪飞盾",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "每个目标的伤害": 1000,
+      "英雄生命值增加": 40,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "每个目标的伤害": 1000,
+      "英雄生命值增加": 60,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "每个目标的伤害": 1250,
+      "英雄生命值增加": 80,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 4,
+      "每个目标的伤害": 1250,
+      "英雄生命值增加": 100,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "每个目标的伤害": 1250,
+      "英雄生命值增加": 120,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 6,
+      "每个目标的伤害": 1500,
+      "英雄生命值增加": 140,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "每个目标的伤害": 1500,
+      "英雄生命值增加": 160,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "每个目标的伤害": 1500,
+      "英雄生命值增加": 180,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "每个目标的伤害": 1750,
+      "英雄生命值增加": 200,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "每个目标的伤害": 1750,
+      "英雄生命值增加": 220,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "每个目标的伤害": 1750,
+      "英雄生命值增加": 240,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 12,
+      "每个目标的伤害": 2000,
+      "英雄生命值增加": 260,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 13,
+      "每个目标的伤害": 2000,
+      "英雄生命值增加": 280,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 14,
+      "每个目标的伤害": 2000,
+      "英雄生命值增加": 300,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 15,
+      "每个目标的伤害": 2250,
+      "英雄生命值增加": 320,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 16,
+      "每个目标的伤害": 2250,
+      "英雄生命值增加": 340,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "每个目标的伤害": 2250,
+      "英雄生命值增加": 360,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "每个目标的伤害": 2500,
+      "英雄生命值增加": 380,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/07c0",
+  "imgSrc": "Seeking_Shield_info.png"
+}

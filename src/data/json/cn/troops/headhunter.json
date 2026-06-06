@@ -1,0 +1,37 @@
+{
+  "id": "headhunter",
+  "name": "Headhunter",
+  "nameCn": "英雄猎手",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 105,
+      "damagePerHit": 63,
+      "hp": 360,
+      "townHallLevel": 12
+    },
+    {
+      "level": 2,
+      "dps": 115,
+      "damagePerHit": 69,
+      "hp": 400,
+      "upgradeCost": 57500,
+      "upgradeTime": "8d6h",
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "dps": 125,
+      "damagePerHit": 75,
+      "hp": 440,
+      "upgradeCost": 90000,
+      "upgradeTime": "9d",
+      "townHallLevel": 13
+    }
+  ],
+  "imgFolder": "home_tech/0088",
+  "imgSrc": "Headhunter_info.png"
+}

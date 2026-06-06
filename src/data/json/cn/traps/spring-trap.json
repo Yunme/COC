@@ -1,0 +1,102 @@
+{
+  "id": "spring-trap",
+  "name": "Spring Trap",
+  "nameCn": "隐形弹簧",
+  "category": "traps",
+  "village": "home",
+  "maxLevel": 13,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 0,
+      "upgradeCost": 2000,
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "dps": 250,
+      "upgradeCost": 130000,
+      "upgradeTime": "1h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "dps": 300,
+      "upgradeCost": 240000,
+      "upgradeTime": "2h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "dps": 350,
+      "upgradeCost": 350000,
+      "upgradeTime": "3h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "dps": 400,
+      "upgradeCost": 800000,
+      "upgradeTime": "4h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "dps": 500,
+      "upgradeCost": 1000000,
+      "upgradeTime": "6h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "dps": 600,
+      "upgradeCost": 1700000,
+      "upgradeTime": "8h",
+      "townHallLevel": 12
+    },
+    {
+      "level": 8,
+      "dps": 750,
+      "upgradeCost": 2000000,
+      "upgradeTime": "12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "dps": 900,
+      "upgradeCost": 3000000,
+      "upgradeTime": "18h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "dps": 1050,
+      "upgradeCost": 4000000,
+      "upgradeTime": "1d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "dps": 1200,
+      "upgradeCost": 6000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 1300,
+      "upgradeCost": 13000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 13,
+      "dps": 1400,
+      "upgradeCost": 16000000,
+      "upgradeTime": "11d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0381",
+  "imgSrc": "Spring_Trap_info.png"
+}

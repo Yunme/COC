@@ -1,0 +1,36 @@
+{
+  "id": "sneaky-goblin",
+  "name": "Sneaky Goblin",
+  "nameCn": "隐秘哥布林",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 7,
+      "dps": 155,
+      "damagePerHit": 155,
+      "对资源建筑的每次伤害": 310,
+      "hp": 270,
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "dps": 170,
+      "damagePerHit": 170,
+      "对资源建筑的每次伤害": 340,
+      "hp": 320,
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "dps": 180,
+      "damagePerHit": 180,
+      "对资源建筑的每次伤害": 360,
+      "hp": 350,
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_tech/0601",
+  "imgSrc": "Sneaky_Goblin_info.png"
+}

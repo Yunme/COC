@@ -1,0 +1,191 @@
+{
+  "id": "hog-rider-puppet",
+  "name": "Hog Rider Puppet",
+  "nameCn": "野猪骑士木偶",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "召唤的野猪骑士数量": 8,
+      "野猪骑士等级": 5,
+      "英雄生命值增加": 60,
+      "开启技能后生命值恢复": 180,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "召唤的野猪骑士数量": 8,
+      "野猪骑士等级": 5,
+      "英雄生命值增加": 90,
+      "开启技能后生命值恢复": 220,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "召唤的野猪骑士数量": 8,
+      "野猪骑士等级": 6,
+      "英雄生命值增加": 120,
+      "开启技能后生命值恢复": 270,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "召唤的野猪骑士数量": 8,
+      "野猪骑士等级": 6,
+      "英雄生命值增加": 150,
+      "开启技能后生命值恢复": 320,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "召唤的野猪骑士数量": 8,
+      "野猪骑士等级": 6,
+      "英雄生命值增加": 180,
+      "开启技能后生命值恢复": 370,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 6,
+      "召唤的野猪骑士数量": 9,
+      "野猪骑士等级": 7,
+      "英雄生命值增加": 210,
+      "开启技能后生命值恢复": 420,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "召唤的野猪骑士数量": 9,
+      "野猪骑士等级": 7,
+      "英雄生命值增加": 240,
+      "开启技能后生命值恢复": 470,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 8,
+      "召唤的野猪骑士数量": 9,
+      "野猪骑士等级": 7,
+      "英雄生命值增加": 270,
+      "开启技能后生命值恢复": 520,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "召唤的野猪骑士数量": 9,
+      "野猪骑士等级": 8,
+      "英雄生命值增加": 300,
+      "开启技能后生命值恢复": 560,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "召唤的野猪骑士数量": 9,
+      "野猪骑士等级": 8,
+      "英雄生命值增加": 330,
+      "开启技能后生命值恢复": 610,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "召唤的野猪骑士数量": 9,
+      "野猪骑士等级": 8,
+      "英雄生命值增加": 360,
+      "开启技能后生命值恢复": 660,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 12,
+      "召唤的野猪骑士数量": 9,
+      "野猪骑士等级": 9,
+      "英雄生命值增加": 390,
+      "开启技能后生命值恢复": 700,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 13,
+      "召唤的野猪骑士数量": 9,
+      "野猪骑士等级": 9,
+      "英雄生命值增加": 420,
+      "开启技能后生命值恢复": 750,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 14,
+      "召唤的野猪骑士数量": 9,
+      "野猪骑士等级": 9,
+      "英雄生命值增加": 450,
+      "开启技能后生命值恢复": 800,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 15,
+      "召唤的野猪骑士数量": 10,
+      "野猪骑士等级": 10,
+      "英雄生命值增加": 480,
+      "开启技能后生命值恢复": 850,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 16,
+      "召唤的野猪骑士数量": 10,
+      "野猪骑士等级": 10,
+      "英雄生命值增加": 510,
+      "开启技能后生命值恢复": 900,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "召唤的野猪骑士数量": 10,
+      "野猪骑士等级": 10,
+      "英雄生命值增加": 540,
+      "开启技能后生命值恢复": 950,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "召唤的野猪骑士数量": 10,
+      "野猪骑士等级": 12,
+      "英雄生命值增加": 570,
+      "开启技能后生命值恢复": 1000,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/07c2",
+  "imgSrc": "Hog_Rider_Puppet_info.png"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "apprentice-warden",
+  "name": "Apprentice Warden",
+  "nameCn": "守护者学徒",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 170,
+      "damagePerHit": 153,
+      "光环加血比例": 20,
+      "hp": 1500,
+      "requiredLabLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "dps": 185,
+      "damagePerHit": 166.5,
+      "光环加血比例": 22,
+      "hp": 1650,
+      "upgradeTime": "6d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "dps": 200,
+      "damagePerHit": 180,
+      "光环加血比例": 24,
+      "hp": 1800,
+      "upgradeTime": "7d12h",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 215,
+      "damagePerHit": 193.5,
+      "光环加血比例": 26,
+      "hp": 1950,
+      "upgradeTime": "8d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_tech/0089",
+  "imgSrc": "Apprentice_Warden_info.png"
+}

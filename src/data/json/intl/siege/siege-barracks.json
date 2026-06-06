@@ -1,0 +1,60 @@
+{
+  "id": "siege-barracks",
+  "name": "Siege Barracks",
+  "nameCn": "攻城训练营",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "皮卡数量": 1,
+      "法师数量": 6,
+      "hp": 3300,
+      "requiredLabLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "皮卡数量": 1,
+      "法师数量": 8,
+      "hp": 3700,
+      "upgradeCost": 3500000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "皮卡数量": 1,
+      "法师数量": 10,
+      "hp": 4100,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 13
+    },
+    {
+      "level": 4,
+      "皮卡数量": 1,
+      "法师数量": 11,
+      "hp": 4500,
+      "upgradeCost": 8000000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "皮卡数量": 2,
+      "法师数量": 11,
+      "hp": 4800,
+      "upgradeCost": 18000000,
+      "upgradeTime": "12d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0243",
+  "imgSrc": "Siege_Barracks.png"
+}

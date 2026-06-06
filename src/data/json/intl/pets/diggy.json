@@ -1,0 +1,120 @@
+{
+  "id": "diggy",
+  "name": "Diggy",
+  "nameCn": "地兽",
+  "category": "pets",
+  "village": "home",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 105,
+      "damagePerHit": 115.5,
+      "瘫痪秒数": 2,
+      "hp": 3650,
+      "requiredPetHouseLevel": 6,
+      "townHallLevel": 15
+    },
+    {
+      "level": 2,
+      "dps": 110,
+      "damagePerHit": 121,
+      "瘫痪秒数": 2,
+      "hp": 3800,
+      "upgradeCost": 90000,
+      "upgradeTime": "1d12h",
+      "requiredPetHouseLevel": 6,
+      "townHallLevel": 15
+    },
+    {
+      "level": 3,
+      "dps": 115,
+      "damagePerHit": 126.5,
+      "瘫痪秒数": 2,
+      "hp": 3950,
+      "upgradeCost": 105000,
+      "upgradeTime": "2d",
+      "requiredPetHouseLevel": 6,
+      "townHallLevel": 15
+    },
+    {
+      "level": 4,
+      "dps": 120,
+      "damagePerHit": 132,
+      "瘫痪秒数": 2,
+      "hp": 4100,
+      "upgradeCost": 120000,
+      "upgradeTime": "3d",
+      "requiredPetHouseLevel": 6,
+      "townHallLevel": 15
+    },
+    {
+      "level": 5,
+      "dps": 125,
+      "damagePerHit": 137.5,
+      "瘫痪秒数": 2.5,
+      "hp": 4250,
+      "upgradeCost": 130000,
+      "upgradeTime": "4d",
+      "requiredPetHouseLevel": 6,
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "dps": 130,
+      "damagePerHit": 143,
+      "瘫痪秒数": 2.5,
+      "hp": 4400,
+      "upgradeCost": 140000,
+      "upgradeTime": "4d12h",
+      "requiredPetHouseLevel": 6,
+      "townHallLevel": 15
+    },
+    {
+      "level": 7,
+      "dps": 135,
+      "damagePerHit": 148.5,
+      "瘫痪秒数": 2.5,
+      "hp": 4550,
+      "upgradeCost": 150000,
+      "upgradeTime": "5d",
+      "requiredPetHouseLevel": 6,
+      "townHallLevel": 15
+    },
+    {
+      "level": 8,
+      "dps": 140,
+      "damagePerHit": 154,
+      "瘫痪秒数": 2.5,
+      "hp": 4700,
+      "upgradeCost": 160000,
+      "upgradeTime": "5d12h",
+      "requiredPetHouseLevel": 6,
+      "townHallLevel": 15
+    },
+    {
+      "level": 9,
+      "dps": 145,
+      "damagePerHit": 159.5,
+      "瘫痪秒数": 2.5,
+      "hp": 4850,
+      "upgradeCost": 170000,
+      "upgradeTime": "6d",
+      "requiredPetHouseLevel": 6,
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "dps": 150,
+      "damagePerHit": 165,
+      "瘫痪秒数": 3,
+      "hp": 5000,
+      "upgradeCost": 180000,
+      "upgradeTime": "6d12h",
+      "requiredPetHouseLevel": 6,
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_heroes/0285",
+  "imgSrc": "Diggy_info.png"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "bh-lava-launcher",
+  "name": "Lava Launcher",
+  "nameCn": "熔岩发射器",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "炮弹落地伤害": 50,
+      "熔岩的每秒伤害": 15,
+      "hp": 500,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 2,
+      "炮弹落地伤害": 55,
+      "熔岩的每秒伤害": 17,
+      "hp": 575,
+      "upgradeCost": 3100000,
+      "upgradeTime": "3d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 3,
+      "炮弹落地伤害": 61,
+      "熔岩的每秒伤害": 20,
+      "hp": 660,
+      "upgradeCost": 3200000,
+      "upgradeTime": "4d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 4,
+      "炮弹落地伤害": 67,
+      "熔岩的每秒伤害": 22,
+      "hp": 760,
+      "upgradeCost": 3400000,
+      "upgradeTime": "5d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 5,
+      "炮弹落地伤害": 73,
+      "熔岩的每秒伤害": 25,
+      "hp": 875,
+      "upgradeCost": 3700000,
+      "upgradeTime": "6d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 6,
+      "炮弹落地伤害": 81,
+      "熔岩的每秒伤害": 27,
+      "hp": 1050,
+      "upgradeCost": 4000000,
+      "upgradeTime": "7d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 7,
+      "炮弹落地伤害": 89,
+      "熔岩的每秒伤害": 30,
+      "hp": 1250,
+      "upgradeCost": 4300000,
+      "upgradeTime": "8d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 8,
+      "炮弹落地伤害": 97,
+      "熔岩的每秒伤害": 32,
+      "hp": 1450,
+      "upgradeCost": 4600000,
+      "upgradeTime": "10d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 9,
+      "炮弹落地伤害": 107,
+      "熔岩的每秒伤害": 35,
+      "hp": 1650,
+      "upgradeCost": 4900000,
+      "upgradeTime": "11d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 10,
+      "炮弹落地伤害": 118,
+      "熔岩的每秒伤害": 37,
+      "hp": 1850,
+      "upgradeCost": 5900000,
+      "upgradeTime": "12d",
+      "所需夜世界大本等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/110d",
+  "imgSrc": "Lava_Launcher10.png"
+}

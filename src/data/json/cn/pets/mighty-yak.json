@@ -1,0 +1,145 @@
+{
+  "id": "mighty-yak",
+  "name": "Mighty Yak",
+  "nameCn": "大牦",
+  "category": "pets",
+  "village": "home",
+  "maxLevel": 15,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 60,
+      "damagePerHit": 126,
+      "hp": 3750,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "dps": 64,
+      "damagePerHit": 134.4,
+      "hp": 4000,
+      "upgradeCost": 90000,
+      "upgradeTime": "1d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "dps": 68,
+      "damagePerHit": 142.8,
+      "hp": 4250,
+      "upgradeCost": 97500,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 72,
+      "damagePerHit": 151.2,
+      "hp": 4500,
+      "upgradeCost": 105000,
+      "upgradeTime": "2d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "dps": 76,
+      "damagePerHit": 159.6,
+      "hp": 4750,
+      "upgradeCost": 112500,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 6,
+      "dps": 80,
+      "damagePerHit": 168,
+      "hp": 4950,
+      "upgradeCost": 120000,
+      "upgradeTime": "3d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "dps": 84,
+      "damagePerHit": 176.4,
+      "hp": 5100,
+      "upgradeCost": 127500,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 8,
+      "dps": 88,
+      "damagePerHit": 184.8,
+      "hp": 5250,
+      "upgradeCost": 135000,
+      "upgradeTime": "4d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "dps": 92,
+      "damagePerHit": 193.2,
+      "hp": 5400,
+      "upgradeCost": 142500,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "dps": 96,
+      "damagePerHit": 201.6,
+      "hp": 5550,
+      "upgradeCost": 150000,
+      "upgradeTime": "5d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 100,
+      "damagePerHit": 210,
+      "hp": 5700,
+      "upgradeCost": 157500,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 104,
+      "damagePerHit": 218.4,
+      "hp": 5850,
+      "upgradeCost": 165000,
+      "upgradeTime": "6d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 13,
+      "dps": 108,
+      "damagePerHit": 226.8,
+      "hp": 6000,
+      "upgradeCost": 172500,
+      "upgradeTime": "6d12h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 14,
+      "dps": 112,
+      "damagePerHit": 235.2,
+      "hp": 6150,
+      "upgradeCost": 180000,
+      "upgradeTime": "7d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 15,
+      "dps": 116,
+      "damagePerHit": 243.6,
+      "hp": 6300,
+      "upgradeCost": 187500,
+      "upgradeTime": "7d12h",
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_heroes/0282",
+  "imgSrc": "Mighty_Yak_info.png"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "bowler",
+  "name": "Bowler",
+  "nameCn": "巨石投手",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 60,
+      "damagePerHit": 132,
+      "hp": 325,
+      "townHallLevel": 10
+    },
+    {
+      "level": 2,
+      "dps": 72,
+      "damagePerHit": 158.4,
+      "hp": 375,
+      "upgradeCost": 32500,
+      "upgradeTime": "2d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 3,
+      "dps": 84,
+      "damagePerHit": 184.8,
+      "hp": 420,
+      "upgradeCost": 44000,
+      "upgradeTime": "3d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 4,
+      "dps": 96,
+      "damagePerHit": 211.2,
+      "hp": 470,
+      "upgradeCost": 62500,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 5,
+      "dps": 102,
+      "damagePerHit": 224.4,
+      "hp": 505,
+      "upgradeCost": 85000,
+      "upgradeTime": "5d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 6,
+      "dps": 108,
+      "damagePerHit": 237.6,
+      "hp": 530,
+      "upgradeCost": 110000,
+      "upgradeTime": "8d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "dps": 114,
+      "damagePerHit": 250.8,
+      "hp": 565,
+      "upgradeCost": 145000,
+      "upgradeTime": "9d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 8,
+      "dps": 126,
+      "damagePerHit": 277.2,
+      "hp": 600,
+      "upgradeCost": 175000,
+      "upgradeTime": "12d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 9,
+      "dps": 140,
+      "damagePerHit": 308,
+      "hp": 700,
+      "upgradeCost": 280000,
+      "upgradeTime": "15d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 10,
+      "dps": 160,
+      "damagePerHit": 352,
+      "hp": 860,
+      "upgradeCost": 280000,
+      "upgradeTime": "15d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0086",
+  "imgSrc": "Bowler_info.png"
+}

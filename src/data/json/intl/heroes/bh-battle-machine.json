@@ -1,0 +1,327 @@
+{
+  "id": "bh-battle-machine",
+  "name": "Battle Machine",
+  "nameCn": "战争机器",
+  "category": "heroes",
+  "village": "builder",
+  "maxLevel": 35,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 125,
+      "damagePerHit": 150,
+      "hp": 3000,
+      "upgradeCost": 900000,
+      "upgradeTime": "12h",
+      "所需夜世界大本营等级": 5
+    },
+    {
+      "level": 2,
+      "dps": 127,
+      "damagePerHit": 152.4,
+      "hp": 3070,
+      "upgradeCost": 1000000,
+      "upgradeTime": "12h",
+      "所需夜世界大本营等级": 5
+    },
+    {
+      "level": 3,
+      "dps": 130,
+      "damagePerHit": 156,
+      "hp": 3140,
+      "upgradeCost": 1100000,
+      "upgradeTime": "12h",
+      "所需夜世界大本营等级": 5
+    },
+    {
+      "level": 4,
+      "dps": 132,
+      "damagePerHit": 158.4,
+      "hp": 3210,
+      "upgradeCost": 1200000,
+      "upgradeTime": "1d",
+      "所需夜世界大本营等级": 5
+    },
+    {
+      "level": 5,
+      "dps": 135,
+      "damagePerHit": 162,
+      "hp": 3280,
+      "upgradeCost": 1200000,
+      "upgradeTime": "1d",
+      "所需夜世界大本营等级": 5
+    },
+    {
+      "level": 6,
+      "dps": 137,
+      "damagePerHit": 164.4,
+      "hp": 3350,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d12h",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 7,
+      "dps": 140,
+      "damagePerHit": 168,
+      "hp": 3420,
+      "upgradeCost": 1600000,
+      "upgradeTime": "1d12h",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 8,
+      "dps": 142,
+      "damagePerHit": 170.4,
+      "hp": 3490,
+      "upgradeCost": 1700000,
+      "upgradeTime": "2d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 9,
+      "dps": 145,
+      "damagePerHit": 174,
+      "hp": 3560,
+      "upgradeCost": 1800000,
+      "upgradeTime": "2d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 10,
+      "dps": 147,
+      "damagePerHit": 176.4,
+      "hp": 3630,
+      "upgradeCost": 1900000,
+      "upgradeTime": "2d12h",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 11,
+      "dps": 150,
+      "damagePerHit": 180,
+      "hp": 3700,
+      "upgradeCost": 2100000,
+      "upgradeTime": "2d12h",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 12,
+      "dps": 154,
+      "damagePerHit": 184.8,
+      "hp": 3770,
+      "upgradeCost": 2200000,
+      "upgradeTime": "3d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 13,
+      "dps": 157,
+      "damagePerHit": 188.4,
+      "hp": 3840,
+      "upgradeCost": 2300000,
+      "upgradeTime": "3d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 14,
+      "dps": 160,
+      "damagePerHit": 192,
+      "hp": 3910,
+      "upgradeCost": 2400000,
+      "upgradeTime": "3d12h",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 15,
+      "dps": 164,
+      "damagePerHit": 196.8,
+      "hp": 3980,
+      "upgradeCost": 2500000,
+      "upgradeTime": "3d12h",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 16,
+      "dps": 167,
+      "damagePerHit": 200.4,
+      "hp": 4050,
+      "upgradeCost": 2600000,
+      "upgradeTime": "4d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 17,
+      "dps": 170,
+      "damagePerHit": 204,
+      "hp": 4120,
+      "upgradeCost": 2700000,
+      "upgradeTime": "4d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 18,
+      "dps": 174,
+      "damagePerHit": 208.8,
+      "hp": 4190,
+      "upgradeCost": 2800000,
+      "upgradeTime": "4d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 19,
+      "dps": 177,
+      "damagePerHit": 212.4,
+      "hp": 4260,
+      "upgradeCost": 2900000,
+      "upgradeTime": "4d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 20,
+      "dps": 180,
+      "damagePerHit": 216,
+      "hp": 4330,
+      "upgradeCost": 3000000,
+      "upgradeTime": "4d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 21,
+      "dps": 186,
+      "damagePerHit": 223.2,
+      "hp": 4400,
+      "upgradeCost": 3100000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 22,
+      "dps": 192,
+      "damagePerHit": 230.4,
+      "hp": 4470,
+      "upgradeCost": 3200000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 23,
+      "dps": 198,
+      "damagePerHit": 237.6,
+      "hp": 4540,
+      "upgradeCost": 3300000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 24,
+      "dps": 204,
+      "damagePerHit": 244.8,
+      "hp": 4610,
+      "upgradeCost": 3400000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 25,
+      "dps": 210,
+      "damagePerHit": 252,
+      "hp": 4680,
+      "upgradeCost": 3500000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 26,
+      "dps": 218,
+      "damagePerHit": 261.6,
+      "hp": 4750,
+      "upgradeCost": 3600000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 27,
+      "dps": 226,
+      "damagePerHit": 271.2,
+      "hp": 4820,
+      "upgradeCost": 3700000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 28,
+      "dps": 234,
+      "damagePerHit": 280.8,
+      "hp": 4890,
+      "upgradeCost": 3800000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 29,
+      "dps": 242,
+      "damagePerHit": 290.4,
+      "hp": 4960,
+      "upgradeCost": 3900000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 30,
+      "dps": 250,
+      "damagePerHit": 300,
+      "hp": 5030,
+      "upgradeCost": 4000000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 31,
+      "dps": 258,
+      "damagePerHit": 309.6,
+      "hp": 5100,
+      "upgradeCost": 4100000,
+      "upgradeTime": "7d",
+      "所需夜世界大本营等级": 10
+    },
+    {
+      "level": 32,
+      "dps": 266,
+      "damagePerHit": 319.2,
+      "hp": 5170,
+      "upgradeCost": 4200000,
+      "upgradeTime": "7d",
+      "所需夜世界大本营等级": 10
+    },
+    {
+      "level": 33,
+      "dps": 274,
+      "damagePerHit": 328.8,
+      "hp": 5240,
+      "upgradeCost": 4300000,
+      "upgradeTime": "7d",
+      "所需夜世界大本营等级": 10
+    },
+    {
+      "level": 34,
+      "dps": 282,
+      "damagePerHit": 338.4,
+      "hp": 5310,
+      "upgradeCost": 4400000,
+      "upgradeTime": "7d",
+      "所需夜世界大本营等级": 10
+    },
+    {
+      "level": 35,
+      "dps": 290,
+      "damagePerHit": 348,
+      "hp": 5380,
+      "upgradeCost": 4500000,
+      "upgradeTime": "7d",
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_tech/10f0",
+  "imgSrc": "Battle_Machine_info.png"
+}

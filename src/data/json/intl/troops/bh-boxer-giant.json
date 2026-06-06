@@ -1,0 +1,207 @@
+{
+  "id": "bh-boxer-giant",
+  "name": "Boxer Giant",
+  "nameCn": "巨人拳击手",
+  "category": "troops",
+  "village": "builder",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 3,
+      "dps": 65,
+      "damagePerHit": 130,
+      "首次攻击的额外伤害": 550,
+      "技能无敌时间": "无",
+      "hp": 2530,
+      "所需实验室和大本营等级": 3
+    },
+    {
+      "level": 4,
+      "dps": 65,
+      "damagePerHit": 130,
+      "首次攻击的额外伤害": 550,
+      "技能无敌时间": 5,
+      "hp": 2530,
+      "upgradeCost": 60000,
+      "upgradeTime": "5h",
+      "所需实验室和大本营等级": 3
+    },
+    {
+      "level": 5,
+      "dps": 70,
+      "damagePerHit": 140,
+      "首次攻击的额外伤害": 550,
+      "技能无敌时间": 5,
+      "hp": 2783,
+      "upgradeCost": 120000,
+      "upgradeTime": "10h",
+      "所需实验室和大本营等级": 3
+    },
+    {
+      "level": 6,
+      "dps": 70,
+      "damagePerHit": 140,
+      "首次攻击的额外伤害": 700,
+      "技能无敌时间": 5,
+      "hp": 2783,
+      "upgradeCost": 240000,
+      "upgradeTime": "16h",
+      "所需实验室和大本营等级": 3
+    },
+    {
+      "level": 7,
+      "dps": 76,
+      "damagePerHit": 152,
+      "首次攻击的额外伤害": 700,
+      "技能无敌时间": 5,
+      "hp": 3061,
+      "upgradeCost": 350000,
+      "upgradeTime": "20h",
+      "所需实验室和大本营等级": 4
+    },
+    {
+      "level": 8,
+      "dps": 76,
+      "damagePerHit": 152,
+      "首次攻击的额外伤害": 700,
+      "技能无敌时间": 6,
+      "hp": 3061,
+      "upgradeCost": 380000,
+      "所需实验室和大本营等级": 4
+    },
+    {
+      "level": 9,
+      "dps": 83,
+      "damagePerHit": 166,
+      "首次攻击的额外伤害": 700,
+      "技能无敌时间": 6,
+      "hp": 3367,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d12h",
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 10,
+      "dps": 83,
+      "damagePerHit": 166,
+      "首次攻击的额外伤害": 900,
+      "技能无敌时间": 6,
+      "hp": 3367,
+      "upgradeCost": 1200000,
+      "upgradeTime": "2d",
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 11,
+      "dps": 91,
+      "damagePerHit": 182,
+      "首次攻击的额外伤害": 900,
+      "技能无敌时间": 6,
+      "hp": 3704,
+      "upgradeCost": 1300000,
+      "upgradeTime": "2d",
+      "所需实验室和大本营等级": 6
+    },
+    {
+      "level": 12,
+      "dps": 91,
+      "damagePerHit": 182,
+      "首次攻击的额外伤害": 900,
+      "技能无敌时间": 7,
+      "hp": 3704,
+      "upgradeCost": 1500000,
+      "upgradeTime": "2d12h",
+      "所需实验室和大本营等级": 6
+    },
+    {
+      "level": 13,
+      "dps": 100,
+      "damagePerHit": 200,
+      "首次攻击的额外伤害": 900,
+      "技能无敌时间": 7,
+      "hp": 4075,
+      "upgradeCost": 2300000,
+      "upgradeTime": "3d12h",
+      "所需实验室和大本营等级": 7
+    },
+    {
+      "level": 14,
+      "dps": 100,
+      "damagePerHit": 200,
+      "首次攻击的额外伤害": 1150,
+      "技能无敌时间": 7,
+      "hp": 4075,
+      "upgradeCost": 2500000,
+      "upgradeTime": "4d12h",
+      "所需实验室和大本营等级": 7
+    },
+    {
+      "level": 15,
+      "dps": 109,
+      "damagePerHit": 218,
+      "首次攻击的额外伤害": 1150,
+      "技能无敌时间": 7,
+      "hp": 4482,
+      "upgradeCost": 3300000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 16,
+      "dps": 109,
+      "damagePerHit": 218,
+      "首次攻击的额外伤害": 1150,
+      "技能无敌时间": 7.5,
+      "hp": 4482,
+      "upgradeCost": 3500000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 17,
+      "dps": 119,
+      "damagePerHit": 238,
+      "首次攻击的额外伤害": 1150,
+      "技能无敌时间": 7.5,
+      "hp": 4930,
+      "upgradeCost": 4000000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 18,
+      "dps": 119,
+      "damagePerHit": 238,
+      "首次攻击的额外伤害": 1400,
+      "技能无敌时间": 7.5,
+      "hp": 4930,
+      "upgradeCost": 4200000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 19,
+      "dps": 129,
+      "damagePerHit": 258,
+      "首次攻击的额外伤害": 1400,
+      "技能无敌时间": 7.5,
+      "hp": 5423,
+      "upgradeCost": 4800000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    },
+    {
+      "level": 20,
+      "dps": 129,
+      "damagePerHit": 258,
+      "首次攻击的额外伤害": 1400,
+      "技能无敌时间": 8,
+      "hp": 5423,
+      "upgradeCost": 5400000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_tech/1002",
+  "imgSrc": "Boxer_Giant_info.png"
+}

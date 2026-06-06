@@ -1,0 +1,165 @@
+{
+  "id": "wizard-tower",
+  "name": "Wizard Tower",
+  "nameCn": "法师塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 17,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 11,
+      "damagePerHit": 14.3,
+      "hp": 620,
+      "upgradeCost": 120000,
+      "upgradeTime": "2h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 2,
+      "dps": 13,
+      "damagePerHit": 16.9,
+      "hp": 650,
+      "upgradeCost": 220000,
+      "upgradeTime": "3h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 3,
+      "dps": 16,
+      "damagePerHit": 20.8,
+      "hp": 680,
+      "upgradeCost": 400000,
+      "upgradeTime": "6h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 4,
+      "dps": 20,
+      "damagePerHit": 26,
+      "hp": 730,
+      "upgradeCost": 540000,
+      "upgradeTime": "12h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "dps": 24,
+      "damagePerHit": 31.2,
+      "hp": 840,
+      "upgradeCost": 700000,
+      "upgradeTime": "18h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 32,
+      "damagePerHit": 41.6,
+      "hp": 960,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "dps": 40,
+      "damagePerHit": 52,
+      "hp": 1200,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 8,
+      "dps": 45,
+      "damagePerHit": 58.5,
+      "hp": 1440,
+      "upgradeCost": 1600000,
+      "upgradeTime": "1d18h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 9,
+      "dps": 50,
+      "damagePerHit": 65,
+      "hp": 1600,
+      "upgradeCost": 2000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 10,
+      "dps": 62,
+      "damagePerHit": 80.6,
+      "hp": 1900,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 11,
+      "dps": 70,
+      "damagePerHit": 91,
+      "hp": 2120,
+      "upgradeCost": 4500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 12,
+      "dps": 78,
+      "damagePerHit": 101.4,
+      "hp": 2240,
+      "upgradeCost": 5000000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 13,
+      "dps": 84,
+      "damagePerHit": 109.2,
+      "hp": 2500,
+      "upgradeCost": 5500000,
+      "upgradeTime": "4d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 14,
+      "dps": 90,
+      "damagePerHit": 117,
+      "hp": 2800,
+      "upgradeCost": 6500000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 15,
+      "dps": 95,
+      "damagePerHit": 123.5,
+      "hp": 3000,
+      "upgradeCost": 9000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 16,
+      "dps": 102,
+      "damagePerHit": 132.6,
+      "hp": 3150,
+      "upgradeCost": 15100000,
+      "upgradeTime": "10d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 17,
+      "dps": 110,
+      "damagePerHit": 143,
+      "hp": 3300,
+      "upgradeCost": 20000000,
+      "upgradeTime": "14d18h",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_buildings/0305",
+  "imgSrc": "Wizard_Tower17.png"
+}

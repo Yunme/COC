@@ -1,0 +1,42 @@
+{
+  "id": "giga-bomb",
+  "name": "Giga Bomb",
+  "nameCn": "终极炸弹",
+  "category": "traps",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "爆炸伤害": 1100,
+      "upgradeCost": 5000000,
+      "townHallLevel": 17
+    },
+    {
+      "level": 2,
+      "爆炸伤害": 1200,
+      "upgradeCost": 8500000,
+      "upgradeTime": "5d",
+      "upgradeExp": 657,
+      "townHallLevel": 17
+    },
+    {
+      "level": 3,
+      "爆炸伤害": 1300,
+      "upgradeCost": 12500000,
+      "upgradeTime": "6d",
+      "upgradeExp": 720,
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "爆炸伤害": 1400,
+      "upgradeCost": 20000000,
+      "upgradeTime": "13d",
+      "upgradeExp": 1059,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0387",
+  "imgSrc": "Giga_Bomb4.png"
+}

@@ -1,0 +1,131 @@
+{
+  "id": "elixir-collector",
+  "name": "Elixir Collector",
+  "nameCn": "圣水收集器",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 17,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 75,
+      "upgradeCost": 150,
+      "upgradeTime": "10s",
+      "townHallLevel": 1
+    },
+    {
+      "level": 2,
+      "hp": 150,
+      "upgradeCost": 300,
+      "upgradeTime": "1m",
+      "townHallLevel": 2
+    },
+    {
+      "level": 3,
+      "hp": 300,
+      "upgradeCost": 700,
+      "upgradeTime": "4m",
+      "townHallLevel": 2
+    },
+    {
+      "level": 4,
+      "hp": 400,
+      "upgradeCost": 1400,
+      "upgradeTime": "10m",
+      "townHallLevel": 2
+    },
+    {
+      "level": 5,
+      "hp": 500,
+      "upgradeCost": 3000,
+      "upgradeTime": "40m",
+      "townHallLevel": 3
+    },
+    {
+      "level": 6,
+      "hp": 550,
+      "upgradeCost": 7000,
+      "upgradeTime": "2h",
+      "townHallLevel": 3
+    },
+    {
+      "level": 7,
+      "hp": 600,
+      "upgradeCost": 14000,
+      "upgradeTime": "4h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 8,
+      "hp": 660,
+      "upgradeCost": 28000,
+      "upgradeTime": "6h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 9,
+      "hp": 720,
+      "upgradeCost": 56000,
+      "upgradeTime": "8h30m",
+      "townHallLevel": 5
+    },
+    {
+      "level": 10,
+      "hp": 780,
+      "upgradeCost": 75000,
+      "upgradeTime": "10h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 11,
+      "hp": 860,
+      "upgradeCost": 85000,
+      "upgradeTime": "12h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 12,
+      "hp": 960,
+      "upgradeCost": 170000,
+      "upgradeTime": "16h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 13,
+      "hp": 1080,
+      "upgradeCost": 400000,
+      "upgradeTime": "20h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 14,
+      "hp": 1180,
+      "upgradeCost": 800000,
+      "upgradeTime": "1d16h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 15,
+      "hp": 1280,
+      "upgradeCost": 1200000,
+      "upgradeTime": "2d10h",
+      "townHallLevel": 12
+    },
+    {
+      "level": 16,
+      "hp": 1350,
+      "upgradeCost": 2000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "hp": 1400,
+      "upgradeCost": 8000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_buildings/0402",
+  "imgSrc": "Elixir_Collector17.png"
+}

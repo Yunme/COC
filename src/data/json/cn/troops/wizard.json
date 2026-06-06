@@ -1,0 +1,136 @@
+{
+  "id": "wizard",
+  "name": "Wizard",
+  "nameCn": "法师",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 50,
+      "damagePerHit": 75,
+      "hp": 75,
+      "townHallLevel": 5
+    },
+    {
+      "level": 2,
+      "dps": 70,
+      "damagePerHit": 105,
+      "hp": 90,
+      "upgradeCost": 120000,
+      "upgradeTime": "8h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 3,
+      "dps": 90,
+      "damagePerHit": 135,
+      "hp": 108,
+      "upgradeCost": 320000,
+      "upgradeTime": "10h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 4,
+      "dps": 125,
+      "damagePerHit": 187.5,
+      "hp": 135,
+      "upgradeCost": 620000,
+      "upgradeTime": "16h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "dps": 170,
+      "damagePerHit": 255,
+      "hp": 165,
+      "upgradeCost": 1200000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 185,
+      "damagePerHit": 277.5,
+      "hp": 180,
+      "upgradeCost": 2200000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "dps": 200,
+      "damagePerHit": 300,
+      "hp": 195,
+      "upgradeCost": 3500000,
+      "upgradeTime": "2d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 8,
+      "dps": 215,
+      "damagePerHit": 322.5,
+      "hp": 210,
+      "upgradeCost": 4000000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "dps": 230,
+      "damagePerHit": 345,
+      "hp": 230,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 245,
+      "damagePerHit": 367.5,
+      "hp": 250,
+      "upgradeCost": 7200000,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "dps": 260,
+      "damagePerHit": 390,
+      "hp": 270,
+      "upgradeCost": 13500000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 275,
+      "damagePerHit": 412.5,
+      "hp": 290,
+      "upgradeCost": 16500000,
+      "upgradeTime": "11d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "dps": 290,
+      "damagePerHit": 435,
+      "hp": 310,
+      "upgradeCost": 21000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "dps": 310,
+      "damagePerHit": 465,
+      "hp": 330,
+      "upgradeCost": 27000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0006",
+  "imgSrc": "Wizard_info.png"
+}

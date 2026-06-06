@@ -1,0 +1,201 @@
+{
+  "id": "archer-tower",
+  "name": "Archer Tower",
+  "nameCn": "箭塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 21,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 11,
+      "damagePerHit": 5.5,
+      "hp": 380,
+      "upgradeCost": 1000,
+      "upgradeTime": "15s",
+      "townHallLevel": 2
+    },
+    {
+      "level": 2,
+      "dps": 15,
+      "damagePerHit": 7.5,
+      "hp": 420,
+      "upgradeCost": 2000,
+      "upgradeTime": "2m",
+      "townHallLevel": 2
+    },
+    {
+      "level": 3,
+      "dps": 19,
+      "damagePerHit": 9.5,
+      "hp": 460,
+      "upgradeCost": 5000,
+      "upgradeTime": "20m",
+      "townHallLevel": 3
+    },
+    {
+      "level": 4,
+      "dps": 25,
+      "damagePerHit": 12.5,
+      "hp": 500,
+      "upgradeCost": 20000,
+      "upgradeTime": "1h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 5,
+      "dps": 30,
+      "damagePerHit": 15,
+      "hp": 540,
+      "upgradeCost": 70000,
+      "upgradeTime": "1h30m",
+      "townHallLevel": 5
+    },
+    {
+      "level": 6,
+      "dps": 35,
+      "damagePerHit": 17.5,
+      "hp": 580,
+      "upgradeCost": 80000,
+      "upgradeTime": "2h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 7,
+      "dps": 42,
+      "damagePerHit": 21,
+      "hp": 630,
+      "upgradeCost": 150000,
+      "upgradeTime": "3h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 8,
+      "dps": 48,
+      "damagePerHit": 24,
+      "hp": 690,
+      "upgradeCost": 200000,
+      "upgradeTime": "4h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 9,
+      "dps": 56,
+      "damagePerHit": 28,
+      "hp": 750,
+      "upgradeCost": 400000,
+      "upgradeTime": "5h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 10,
+      "dps": 63,
+      "damagePerHit": 31.5,
+      "hp": 810,
+      "upgradeCost": 460000,
+      "upgradeTime": "6h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 11,
+      "dps": 70,
+      "damagePerHit": 35,
+      "hp": 890,
+      "upgradeCost": 600000,
+      "upgradeTime": "7h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 12,
+      "dps": 74,
+      "damagePerHit": 37,
+      "hp": 970,
+      "upgradeCost": 700000,
+      "upgradeTime": "8h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 13,
+      "dps": 78,
+      "damagePerHit": 39,
+      "hp": 1050,
+      "upgradeCost": 1000000,
+      "upgradeTime": "10h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 14,
+      "dps": 82,
+      "damagePerHit": 41,
+      "hp": 1130,
+      "upgradeCost": 1100000,
+      "upgradeTime": "11h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 15,
+      "dps": 85,
+      "damagePerHit": 42.5,
+      "hp": 1230,
+      "upgradeCost": 1300000,
+      "upgradeTime": "12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 16,
+      "dps": 90,
+      "damagePerHit": 45,
+      "hp": 1310,
+      "upgradeCost": 1600000,
+      "upgradeTime": "16h",
+      "townHallLevel": 12
+    },
+    {
+      "level": 17,
+      "dps": 100,
+      "damagePerHit": 50,
+      "hp": 1390,
+      "upgradeCost": 1800000,
+      "upgradeTime": "20h",
+      "townHallLevel": 12
+    },
+    {
+      "level": 18,
+      "dps": 110,
+      "damagePerHit": 55,
+      "hp": 1510,
+      "upgradeCost": 2000000,
+      "upgradeTime": "1d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 19,
+      "dps": 120,
+      "damagePerHit": 60,
+      "hp": 1600,
+      "upgradeCost": 2200000,
+      "upgradeTime": "1d6h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 20,
+      "dps": 135,
+      "damagePerHit": 67.5,
+      "hp": 1700,
+      "upgradeCost": 3000000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 21,
+      "dps": 145,
+      "damagePerHit": 72.5,
+      "hp": 1800,
+      "upgradeCost": 4000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_buildings/0302",
+  "imgSrc": "Archer_Tower21.png"
+}

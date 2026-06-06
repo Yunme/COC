@@ -1,0 +1,281 @@
+{
+  "id": "frost-flake",
+  "name": "Frost Flake",
+  "nameCn": "冷冽冰晶",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 27,
+  "levels": [
+    {
+      "level": 1,
+      "冰晶伤害": 105,
+      "减速持续时间": 5.2,
+      "目标数量": 4,
+      "英雄生命值增加": 50,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "冰晶伤害": 105,
+      "减速持续时间": 5.2,
+      "目标数量": 4,
+      "英雄生命值增加": 75,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "冰晶伤害": 126,
+      "减速持续时间": 5.4,
+      "目标数量": 4,
+      "英雄生命值增加": 100,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 4,
+      "冰晶伤害": 126,
+      "减速持续时间": 5.4,
+      "目标数量": 4,
+      "英雄生命值增加": 125,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "冰晶伤害": 126,
+      "减速持续时间": 5.4,
+      "目标数量": 4,
+      "英雄生命值增加": 150,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 6,
+      "冰晶伤害": 147,
+      "减速持续时间": 5.6,
+      "目标数量": 4,
+      "英雄生命值增加": 175,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "冰晶伤害": 147,
+      "减速持续时间": 5.6,
+      "目标数量": 4,
+      "英雄生命值增加": 200,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "冰晶伤害": 147,
+      "减速持续时间": 5.6,
+      "目标数量": 4,
+      "英雄生命值增加": 225,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "冰晶伤害": 168,
+      "减速持续时间": 5.8,
+      "目标数量": 5,
+      "英雄生命值增加": 250,
+      "upgradeCost": 10,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "冰晶伤害": 168,
+      "减速持续时间": 5.8,
+      "目标数量": 5,
+      "英雄生命值增加": 275,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "冰晶伤害": 168,
+      "减速持续时间": 5.8,
+      "目标数量": 5,
+      "英雄生命值增加": 300,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 12,
+      "冰晶伤害": 189,
+      "减速持续时间": 6,
+      "目标数量": 5,
+      "英雄生命值增加": 325,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 13,
+      "冰晶伤害": 189,
+      "减速持续时间": 6,
+      "目标数量": 5,
+      "英雄生命值增加": 350,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 14,
+      "冰晶伤害": 189,
+      "减速持续时间": 6,
+      "目标数量": 5,
+      "英雄生命值增加": 375,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 15,
+      "冰晶伤害": 210,
+      "减速持续时间": 6.2,
+      "目标数量": 5,
+      "英雄生命值增加": 400,
+      "upgradeCost": 30,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 16,
+      "冰晶伤害": 210,
+      "减速持续时间": 6.2,
+      "目标数量": 5,
+      "英雄生命值增加": 425,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 17,
+      "冰晶伤害": 210,
+      "减速持续时间": 6.2,
+      "目标数量": 5,
+      "英雄生命值增加": 450,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 18,
+      "冰晶伤害": 231,
+      "减速持续时间": 6.4,
+      "目标数量": 6,
+      "英雄生命值增加": 475,
+      "upgradeCost": 50,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 19,
+      "冰晶伤害": 231,
+      "减速持续时间": 6.4,
+      "目标数量": 6,
+      "英雄生命值增加": 500,
+      "upgradeCost": 2800,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 20,
+      "冰晶伤害": 231,
+      "减速持续时间": 6.4,
+      "目标数量": 6,
+      "英雄生命值增加": 525,
+      "upgradeCost": 2900,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 21,
+      "冰晶伤害": 252,
+      "减速持续时间": 6.6,
+      "目标数量": 6,
+      "英雄生命值增加": 550,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 22,
+      "冰晶伤害": 252,
+      "减速持续时间": 6.6,
+      "目标数量": 6,
+      "英雄生命值增加": 575,
+      "upgradeCost": 3100,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 23,
+      "冰晶伤害": 252,
+      "减速持续时间": 6.6,
+      "目标数量": 6,
+      "英雄生命值增加": 600,
+      "upgradeCost": 3200,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 24,
+      "冰晶伤害": 273,
+      "减速持续时间": 6.8,
+      "目标数量": 6,
+      "英雄生命值增加": 625,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 25,
+      "冰晶伤害": 273,
+      "减速持续时间": 6.8,
+      "目标数量": 6,
+      "英雄生命值增加": 650,
+      "upgradeCost": 3400,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 26,
+      "冰晶伤害": 273,
+      "减速持续时间": 6.8,
+      "目标数量": 6,
+      "英雄生命值增加": 675,
+      "upgradeCost": 3500,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 27,
+      "冰晶伤害": 294,
+      "减速持续时间": 7,
+      "目标数量": 7,
+      "英雄生命值增加": 700,
+      "upgradeCost": 150,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/07c6",
+  "imgSrc": "Frost_Flake_info.png"
+}

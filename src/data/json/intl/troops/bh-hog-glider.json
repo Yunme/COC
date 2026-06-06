@@ -1,0 +1,64 @@
+{
+  "id": "bh-hog-glider",
+  "name": "Hog Glider",
+  "nameCn": "野猪飞骑",
+  "category": "troops",
+  "village": "builder",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 15,
+      "撞击伤害": 180,
+      "击晕时长": 5,
+      "hp": 600,
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 16,
+      "撞击伤害": 220,
+      "击晕时长": 5,
+      "hp": 650,
+      "upgradeCost": 4000000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 17,
+      "撞击伤害": 220,
+      "击晕时长": 5,
+      "hp": 650,
+      "upgradeCost": 4200000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 18,
+      "撞击伤害": 220,
+      "击晕时长": 6,
+      "hp": 650,
+      "upgradeCost": 4400000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 19,
+      "撞击伤害": 220,
+      "击晕时长": 6,
+      "hp": 650,
+      "upgradeCost": 5400000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    },
+    {
+      "level": 20,
+      "撞击伤害": 260,
+      "击晕时长": 6,
+      "hp": 700,
+      "upgradeCost": 5800000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_tech/100a",
+  "imgSrc": "Hog_Glider_info.png"
+}

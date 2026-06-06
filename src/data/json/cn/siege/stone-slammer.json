@@ -1,0 +1,64 @@
+{
+  "id": "stone-slammer",
+  "name": "Stone Slammer",
+  "nameCn": "攻城气球",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 400,
+      "damagePerHit": 100,
+      "hp": 5600,
+      "townHallLevel": 12
+    },
+    {
+      "level": 2,
+      "dps": 500,
+      "damagePerHit": 150,
+      "hp": 5900,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "dps": 600,
+      "damagePerHit": 200,
+      "hp": 6200,
+      "upgradeCost": 3500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 4,
+      "dps": 700,
+      "damagePerHit": 250,
+      "hp": 6500,
+      "upgradeCost": 6500000,
+      "upgradeTime": "7d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "dps": 750,
+      "damagePerHit": 300,
+      "hp": 6800,
+      "upgradeCost": 10000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "dps": 820,
+      "damagePerHit": 350,
+      "hp": 7200,
+      "upgradeCost": 26000000,
+      "upgradeTime": "13d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0242",
+  "imgSrc": "Stone_Slammer.png"
+}

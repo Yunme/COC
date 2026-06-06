@@ -1,0 +1,136 @@
+{
+  "id": "bh-cannon-cart",
+  "name": "Cannon Cart",
+  "nameCn": "加农炮战车",
+  "category": "troops",
+  "village": "builder",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 7,
+      "dps": 115,
+      "damagePerHit": 138,
+      "hp": 666,
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 8,
+      "dps": 115,
+      "damagePerHit": 138,
+      "hp": 666,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d",
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 9,
+      "dps": 130,
+      "damagePerHit": 156,
+      "hp": 732,
+      "upgradeCost": 1100000,
+      "upgradeTime": "1d12h",
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 10,
+      "dps": 130,
+      "damagePerHit": 156,
+      "hp": 732,
+      "upgradeCost": 1200000,
+      "upgradeTime": "2d",
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 11,
+      "dps": 150,
+      "damagePerHit": 180,
+      "hp": 805,
+      "upgradeCost": 1400000,
+      "upgradeTime": "2d",
+      "所需实验室和大本营等级": 6
+    },
+    {
+      "level": 12,
+      "dps": 150,
+      "damagePerHit": 180,
+      "hp": 805,
+      "upgradeCost": 1600000,
+      "upgradeTime": "2d12h",
+      "所需实验室和大本营等级": 6
+    },
+    {
+      "level": 13,
+      "dps": 170,
+      "damagePerHit": 204,
+      "hp": 886,
+      "upgradeCost": 2400000,
+      "upgradeTime": "3d12h",
+      "所需实验室和大本营等级": 7
+    },
+    {
+      "level": 14,
+      "dps": 170,
+      "damagePerHit": 204,
+      "hp": 886,
+      "upgradeCost": 2600000,
+      "upgradeTime": "4d12h",
+      "所需实验室和大本营等级": 7
+    },
+    {
+      "level": 15,
+      "dps": 190,
+      "damagePerHit": 228,
+      "hp": 974,
+      "upgradeCost": 3400000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 16,
+      "dps": 190,
+      "damagePerHit": 228,
+      "hp": 974,
+      "upgradeCost": 3600000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 17,
+      "dps": 215,
+      "damagePerHit": 258,
+      "hp": 1072,
+      "upgradeCost": 4100000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 18,
+      "dps": 215,
+      "damagePerHit": 258,
+      "hp": 1072,
+      "upgradeCost": 4300000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 19,
+      "dps": 240,
+      "damagePerHit": 288,
+      "hp": 1179,
+      "upgradeCost": 5300000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    },
+    {
+      "level": 20,
+      "dps": 240,
+      "damagePerHit": 288,
+      "hp": 1179,
+      "upgradeCost": 5700000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_tech/1006",
+  "imgSrc": "Cannon_Cart_info.png"
+}

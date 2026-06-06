@@ -1,0 +1,50 @@
+{
+  "id": "inferno-artillery",
+  "name": "Inferno Artillery",
+  "nameCn": "地狱火炮",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "平均每秒伤害": 40,
+      "每次攻击伤害": 140,
+      "townHallLevel": 17
+    },
+    {
+      "level": 2,
+      "平均每秒伤害": 45,
+      "每次攻击伤害": 157.5,
+      "upgradeCost": 10000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 3,
+      "平均每秒伤害": 50,
+      "每次攻击伤害": 175,
+      "upgradeCost": 12000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "平均每秒伤害": 55,
+      "每次攻击伤害": 192.5,
+      "upgradeCost": 14000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 5,
+      "平均每秒伤害": 60,
+      "每次攻击伤害": 210,
+      "upgradeCost": 18000000,
+      "upgradeTime": "10d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_buildings/0315",
+  "imgSrc": "Inferno_Artillery5_hd.png"
+}

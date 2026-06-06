@@ -1,0 +1,156 @@
+{
+  "id": "air-defense",
+  "name": "Air Defense",
+  "nameCn": "防空火箭",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 16,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 80,
+      "damagePerHit": 80,
+      "hp": 800,
+      "upgradeCost": 22000,
+      "upgradeTime": "1h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 2,
+      "dps": 110,
+      "damagePerHit": 110,
+      "hp": 850,
+      "upgradeCost": 90000,
+      "upgradeTime": "2h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 3,
+      "dps": 140,
+      "damagePerHit": 140,
+      "hp": 900,
+      "upgradeCost": 210000,
+      "upgradeTime": "6h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 4,
+      "dps": 160,
+      "damagePerHit": 160,
+      "hp": 950,
+      "upgradeCost": 500000,
+      "upgradeTime": "12h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 5,
+      "dps": 190,
+      "damagePerHit": 190,
+      "hp": 1000,
+      "upgradeCost": 800000,
+      "upgradeTime": "18h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 6,
+      "dps": 230,
+      "damagePerHit": 230,
+      "hp": 1050,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "dps": 280,
+      "damagePerHit": 280,
+      "hp": 1100,
+      "upgradeCost": 1750000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 8,
+      "dps": 320,
+      "damagePerHit": 320,
+      "hp": 1210,
+      "upgradeCost": 2300000,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 9,
+      "dps": 360,
+      "damagePerHit": 360,
+      "hp": 1300,
+      "upgradeCost": 3400000,
+      "upgradeTime": "3d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 10,
+      "dps": 400,
+      "damagePerHit": 400,
+      "hp": 1400,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 11,
+      "dps": 440,
+      "damagePerHit": 440,
+      "hp": 1500,
+      "upgradeCost": 5600000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 12,
+      "dps": 500,
+      "damagePerHit": 500,
+      "hp": 1650,
+      "upgradeCost": 6500000,
+      "upgradeTime": "5d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 13,
+      "dps": 540,
+      "damagePerHit": 540,
+      "hp": 1750,
+      "upgradeCost": 8000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 14,
+      "dps": 600,
+      "damagePerHit": 600,
+      "hp": 1850,
+      "upgradeCost": 9000000,
+      "upgradeTime": "6d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 15,
+      "dps": 650,
+      "damagePerHit": 650,
+      "hp": 1950,
+      "upgradeCost": 15000000,
+      "upgradeTime": "9d12h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 16,
+      "dps": 700,
+      "damagePerHit": 700,
+      "hp": 2000,
+      "upgradeCost": 26000000,
+      "upgradeTime": "13d6h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0304",
+  "imgSrc": "Air_Defense16.png"
+}

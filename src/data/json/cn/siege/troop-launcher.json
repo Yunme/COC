@@ -1,0 +1,38 @@
+{
+  "id": "troop-launcher",
+  "name": "Troop Launcher",
+  "nameCn": "部队发射器",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 2000,
+      "townHallLevel": 16
+    },
+    {
+      "level": 2,
+      "hp": 2200,
+      "upgradeCost": 8500000,
+      "upgradeTime": "6d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 3,
+      "hp": 2400,
+      "upgradeCost": 10000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 4,
+      "hp": 2600,
+      "upgradeCost": 19000000,
+      "upgradeTime": "13d12h",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0247",
+  "imgSrc": "Troop_Launcher_info.png"
+}

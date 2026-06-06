@@ -1,0 +1,37 @@
+{
+  "id": "root-rider",
+  "name": "Root Rider",
+  "nameCn": "根蔓骑士",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 95,
+      "damagePerHit": 209,
+      "hp": 6200,
+      "townHallLevel": 15
+    },
+    {
+      "level": 2,
+      "dps": 105,
+      "damagePerHit": 231,
+      "hp": 6350,
+      "upgradeCost": 17000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 3,
+      "dps": 115,
+      "damagePerHit": 253,
+      "hp": 6500,
+      "upgradeCost": 17600000,
+      "upgradeTime": "13d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0010",
+  "imgSrc": "Root_Rider_info.png"
+}

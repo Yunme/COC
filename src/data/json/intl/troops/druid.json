@@ -1,0 +1,56 @@
+{
+  "id": "druid",
+  "name": "Druid",
+  "nameCn": "德鲁伊",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "每秒治疗量": 80,
+      "每次治疗量": 80,
+      "hp": 1300,
+      "requiredLabLevel": 1,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "每秒治疗量": 85,
+      "每次治疗量": 85,
+      "hp": 1400,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "每秒治疗量": 90,
+      "每次治疗量": 90,
+      "hp": 1500,
+      "upgradeTime": "9d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 4,
+      "每秒治疗量": 95,
+      "每次治疗量": 95,
+      "hp": 1600,
+      "upgradeTime": "11d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 5,
+      "每秒治疗量": 100,
+      "每次治疗量": 100,
+      "hp": 1700,
+      "upgradeTime": "12d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/008a",
+  "imgSrc": "Druid_info.png"
+}

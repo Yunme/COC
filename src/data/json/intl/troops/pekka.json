@@ -1,0 +1,140 @@
+{
+  "id": "pekka",
+  "name": "P.E.K.K.A",
+  "nameCn": "皮卡超人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 13,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 260,
+      "damagePerHit": 468,
+      "hp": 3000,
+      "requiredLabLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "dps": 290,
+      "damagePerHit": 522,
+      "hp": 3500,
+      "upgradeCost": 600000,
+      "upgradeTime": "12h",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "dps": 320,
+      "damagePerHit": 576,
+      "hp": 4000,
+      "upgradeCost": 1300000,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "dps": 360,
+      "damagePerHit": 648,
+      "hp": 4500,
+      "upgradeCost": 2000000,
+      "upgradeTime": "1d12h",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "dps": 410,
+      "damagePerHit": 738,
+      "hp": 5000,
+      "upgradeCost": 2100000,
+      "upgradeTime": "1d16h",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "dps": 470,
+      "damagePerHit": 846,
+      "hp": 5500,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 7,
+      "dps": 540,
+      "damagePerHit": 972,
+      "hp": 5900,
+      "upgradeCost": 4500000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "dps": 610,
+      "damagePerHit": 1098,
+      "hp": 6300,
+      "upgradeCost": 5000000,
+      "upgradeTime": "3d12h",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "dps": 680,
+      "damagePerHit": 1224,
+      "hp": 6700,
+      "upgradeCost": 5800000,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "dps": 750,
+      "damagePerHit": 1350,
+      "hp": 7200,
+      "upgradeCost": 10500000,
+      "upgradeTime": "5d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "dps": 810,
+      "damagePerHit": 1458,
+      "hp": 7700,
+      "upgradeCost": 12000000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 870,
+      "damagePerHit": 1566,
+      "hp": 8200,
+      "upgradeCost": 16000000,
+      "upgradeTime": "10d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 13,
+      "dps": 940,
+      "damagePerHit": 1692,
+      "hp": 8800,
+      "upgradeCost": 28000000,
+      "upgradeTime": "14d12h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0009",
+  "imgSrc": "P.E.K.K.A_info.png"
+}

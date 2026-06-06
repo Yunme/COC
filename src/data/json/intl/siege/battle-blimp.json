@@ -1,0 +1,65 @@
+{
+  "id": "battle-blimp",
+  "name": "Battle Blimp",
+  "nameCn": "攻城飞艇",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "炸弹的平均每秒伤害": 100,
+      "炸弹的爆炸伤害": 150,
+      "死亡后坠落伤害": 700,
+      "hp": 3000,
+      "requiredLabLevel": 1,
+      "townHallLevel": 12
+    },
+    {
+      "level": 2,
+      "炸弹的平均每秒伤害": 140,
+      "炸弹的爆炸伤害": 210,
+      "死亡后坠落伤害": 800,
+      "hp": 3500,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "炸弹的平均每秒伤害": 180,
+      "炸弹的爆炸伤害": 270,
+      "死亡后坠落伤害": 900,
+      "hp": 4000,
+      "upgradeCost": 3500000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 4,
+      "炸弹的平均每秒伤害": 220,
+      "炸弹的爆炸伤害": 330,
+      "死亡后坠落伤害": 1000,
+      "hp": 4500,
+      "upgradeCost": 6500000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "炸弹的平均每秒伤害": 260,
+      "炸弹的爆炸伤害": 390,
+      "死亡后坠落伤害": 1100,
+      "hp": 5000,
+      "upgradeCost": 10000000,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_tech/0241",
+  "imgSrc": "Battle_Blimp_info.png"
+}

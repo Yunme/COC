@@ -1,0 +1,99 @@
+{
+  "id": "lava-hound",
+  "name": "Lava Hound",
+  "nameCn": "熔岩猎犬",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 10,
+      "damagePerHit": 20,
+      "死亡溅射伤害": 100,
+      "死后分裂的小狗 数量 (进攻/防守)": 8,
+      "hp": 6100,
+      "requiredLabLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "dps": 12,
+      "damagePerHit": 24,
+      "死亡溅射伤害": 150,
+      "死后分裂的小狗 数量 (进攻/防守)": 10,
+      "hp": 6500,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "dps": 14,
+      "damagePerHit": 28,
+      "死亡溅射伤害": 200,
+      "死后分裂的小狗 数量 (进攻/防守)": 12,
+      "hp": 6800,
+      "upgradeTime": "2d12h",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "dps": 16,
+      "damagePerHit": 32,
+      "死亡溅射伤害": 250,
+      "死后分裂的小狗 数量 (进攻/防守)": 14,
+      "hp": 7200,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "dps": 18,
+      "damagePerHit": 36,
+      "死亡溅射伤害": 300,
+      "死后分裂的小狗 数量 (进攻/防守)": 16,
+      "hp": 7600,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 6,
+      "dps": 20,
+      "damagePerHit": 40,
+      "死亡溅射伤害": 350,
+      "死后分裂的小狗 数量 (进攻/防守)": 18,
+      "hp": 8000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "dps": 22,
+      "damagePerHit": 44,
+      "死亡溅射伤害": 400,
+      "死后分裂的小狗 数量 (进攻/防守)": 20,
+      "hp": 8500,
+      "upgradeTime": "8d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "dps": 24,
+      "damagePerHit": 48,
+      "死亡溅射伤害": 450,
+      "死后分裂的小狗 数量 (进攻/防守)": 22,
+      "hp": 9500,
+      "upgradeTime": "15d6h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0085",
+  "imgSrc": "Lava_Hound_info.png"
+}

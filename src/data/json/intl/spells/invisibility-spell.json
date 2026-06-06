@@ -1,0 +1,42 @@
+{
+  "id": "invisibility-spell",
+  "name": "Invisibility Spell",
+  "nameCn": "隐形法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "法术持续时间": 3.5,
+      "requiredLabLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 2,
+      "法术持续时间": 3.75,
+      "upgradeCost": 5000000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 3,
+      "法术持续时间": 4,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 4,
+      "法术持续时间": 4.25,
+      "upgradeCost": 7000000,
+      "upgradeTime": "5d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    }
+  ],
+  "imgFolder": "home_tech/0106",
+  "imgSrc": "Invisibility_Spell.png"
+}

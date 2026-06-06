@@ -1,0 +1,119 @@
+{
+  "id": "royal-gem",
+  "name": "Royal Gem",
+  "nameCn": "皇家宝石",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 35,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "dps": 40,
+      "upgradeCost": 120,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "dps": 45,
+      "upgradeCost": 240,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "dps": 50,
+      "upgradeCost": 400,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "dps": 55,
+      "upgradeCost": 600,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 60,
+      "upgradeCost": 840,
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "dps": 65,
+      "upgradeCost": 1120,
+      "townHallLevel": 8
+    },
+    {
+      "level": 8,
+      "dps": 70,
+      "upgradeCost": 1440,
+      "townHallLevel": 8
+    },
+    {
+      "level": 9,
+      "dps": 75,
+      "upgradeCost": 1800,
+      "townHallLevel": 8
+    },
+    {
+      "level": 10,
+      "dps": 80,
+      "upgradeCost": 1900,
+      "townHallLevel": 10
+    },
+    {
+      "level": 11,
+      "dps": 85,
+      "upgradeCost": 2000,
+      "townHallLevel": 10
+    },
+    {
+      "level": 12,
+      "dps": 90,
+      "upgradeCost": 2100,
+      "townHallLevel": 10
+    },
+    {
+      "level": 13,
+      "dps": 95,
+      "upgradeCost": 2200,
+      "townHallLevel": 12
+    },
+    {
+      "level": 14,
+      "dps": 100,
+      "upgradeCost": 2300,
+      "townHallLevel": 12
+    },
+    {
+      "level": 15,
+      "dps": 105,
+      "upgradeCost": 2400,
+      "townHallLevel": 12
+    },
+    {
+      "level": 16,
+      "dps": 110,
+      "upgradeCost": 2500,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "dps": 115,
+      "upgradeCost": 2600,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "dps": 120,
+      "upgradeCost": 2700,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/07c1",
+  "imgSrc": "Royal_Gem_info.png"
+}

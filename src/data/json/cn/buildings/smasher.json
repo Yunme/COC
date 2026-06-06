@@ -1,0 +1,55 @@
+{
+  "id": "smasher",
+  "name": "Smasher",
+  "nameCn": "粉碎者",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 500,
+      "damagePerHit": 900,
+      "hp": 12000,
+      "townHallLevel": 18
+    },
+    {
+      "level": 2,
+      "dps": 550,
+      "damagePerHit": 990,
+      "hp": 13000,
+      "upgradeCost": 18000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 3,
+      "dps": 600,
+      "damagePerHit": 1,
+      "hp": 14000,
+      "upgradeCost": 22000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 4,
+      "dps": 650,
+      "damagePerHit": 1,
+      "hp": 15000,
+      "upgradeCost": 26000000,
+      "upgradeTime": "11d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 5,
+      "dps": 700,
+      "damagePerHit": 1,
+      "hp": 16000,
+      "upgradeCost": 28000000,
+      "upgradeTime": "13d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_th/0841",
+  "imgSrc": "Smasher_info.png"
+}

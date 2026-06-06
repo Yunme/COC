@@ -1,0 +1,108 @@
+{
+  "id": "dark-barracks",
+  "name": "Dark Barracks",
+  "nameCn": "暗黑训练营",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 500,
+      "upgradeCost": 200000,
+      "upgradeTime": "8h",
+      "townHallLevel": 7,
+      "解锁的兵种": "<a href=\"/upgrade/0080-Minion\">亡灵</a>"
+    },
+    {
+      "level": 2,
+      "hp": 550,
+      "upgradeCost": 600000,
+      "upgradeTime": "1d",
+      "townHallLevel": 7,
+      "解锁的兵种": "<a href=\"/upgrade/0081-Hog-Rider\">野猪骑士</a>"
+    },
+    {
+      "level": 3,
+      "hp": 600,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 8,
+      "解锁的兵种": "<a href=\"/upgrade/0082-Valkyrie\">瓦基丽武神</a>"
+    },
+    {
+      "level": 4,
+      "hp": 650,
+      "upgradeCost": 1600000,
+      "upgradeTime": "2d",
+      "townHallLevel": 8,
+      "解锁的兵种": "<a href=\"/upgrade/0083-Golem\">戈仑石人</a>"
+    },
+    {
+      "level": 5,
+      "hp": 700,
+      "upgradeCost": 2200000,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 9,
+      "解锁的兵种": "<a href=\"/upgrade/0084-Witch\">女巫</a>"
+    },
+    {
+      "level": 6,
+      "hp": 750,
+      "upgradeCost": 2900000,
+      "upgradeTime": "3d",
+      "townHallLevel": 9,
+      "解锁的兵种": "<a href=\"/upgrade/0085-Lava-Hound\">熔岩猎犬</a>"
+    },
+    {
+      "level": 7,
+      "hp": 800,
+      "upgradeCost": 4000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 10,
+      "解锁的兵种": "<a href=\"/upgrade/0086-Bowler\">巨石投手</a>"
+    },
+    {
+      "level": 8,
+      "hp": 850,
+      "upgradeCost": 7000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 11,
+      "解锁的兵种": "<a href=\"/upgrade/0087-Ice-Golem\">戈仑冰人</a>"
+    },
+    {
+      "level": 9,
+      "hp": 900,
+      "upgradeCost": 7200000,
+      "upgradeTime": "7d",
+      "townHallLevel": 12,
+      "解锁的兵种": "<a href=\"/upgrade/0088-Headhunter\">英雄猎手</a>"
+    },
+    {
+      "level": 10,
+      "hp": 950,
+      "upgradeCost": 10000000,
+      "upgradeTime": "7d12h",
+      "townHallLevel": 13,
+      "解锁的兵种": "<a href=\"/upgrade/0089-Apprentice-Warden\">守护者学徒</a>"
+    },
+    {
+      "level": 11,
+      "hp": 1000,
+      "upgradeCost": 12000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 14,
+      "解锁的兵种": "<a href=\"/upgrade/008a-Druid\">德鲁伊</a>"
+    },
+    {
+      "level": 12,
+      "hp": 1050,
+      "upgradeCost": 20000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 15,
+      "解锁的兵种": "<a href=\"/upgrade/008b-Furnace\">烈焰熔炉</a>"
+    }
+  ],
+  "imgFolder": "home_buildings/0482",
+  "imgSrc": "Dark_Barracks12_info.png"
+}

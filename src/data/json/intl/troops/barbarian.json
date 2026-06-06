@@ -1,0 +1,130 @@
+{
+  "id": "barbarian",
+  "name": "Barbarian",
+  "nameCn": "野蛮人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 9,
+      "damagePerHit": 9,
+      "hp": 45,
+      "requiredLabLevel": 1,
+      "townHallLevel": 1
+    },
+    {
+      "level": 2,
+      "dps": 12,
+      "damagePerHit": 12,
+      "hp": 54,
+      "upgradeCost": 10000,
+      "upgradeTime": "30m",
+      "requiredLabLevel": 1,
+      "townHallLevel": 3
+    },
+    {
+      "level": 3,
+      "dps": 15,
+      "damagePerHit": 15,
+      "hp": 65,
+      "upgradeCost": 50000,
+      "upgradeTime": "1h",
+      "requiredLabLevel": 3,
+      "townHallLevel": 5
+    },
+    {
+      "level": 4,
+      "dps": 18,
+      "damagePerHit": 18,
+      "hp": 85,
+      "upgradeCost": 130000,
+      "upgradeTime": "2h",
+      "requiredLabLevel": 5,
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "dps": 23,
+      "damagePerHit": 23,
+      "hp": 105,
+      "upgradeCost": 300000,
+      "upgradeTime": "4h",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 26,
+      "damagePerHit": 26,
+      "hp": 125,
+      "upgradeCost": 800000,
+      "upgradeTime": "8h",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "dps": 30,
+      "damagePerHit": 30,
+      "hp": 160,
+      "upgradeCost": 1000000,
+      "upgradeTime": "12h",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 8,
+      "dps": 34,
+      "damagePerHit": 34,
+      "hp": 205,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "dps": 38,
+      "damagePerHit": 38,
+      "hp": 230,
+      "upgradeCost": 2500000,
+      "upgradeTime": "1d12h",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 42,
+      "damagePerHit": 42,
+      "hp": 250,
+      "upgradeCost": 4300000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 45,
+      "damagePerHit": 45,
+      "hp": 270,
+      "upgradeCost": 6000000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 48,
+      "damagePerHit": 48,
+      "hp": 290,
+      "upgradeCost": 8000000,
+      "upgradeTime": "4d12h",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0000",
+  "imgSrc": "Barbarian_info.png"
+}

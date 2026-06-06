@@ -1,0 +1,45 @@
+{
+  "id": "siege-barracks",
+  "name": "Siege Barracks",
+  "nameCn": "攻城训练营",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 3300,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "hp": 3700,
+      "upgradeCost": 3500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "hp": 4100,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 4,
+      "hp": 4500,
+      "upgradeCost": 8000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "hp": 4800,
+      "upgradeCost": 18000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0243",
+  "imgSrc": "Siege_Barracks.png"
+}

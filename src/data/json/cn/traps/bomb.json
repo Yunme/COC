@@ -1,0 +1,109 @@
+{
+  "id": "bomb",
+  "name": "Bomb",
+  "nameCn": "隐形炸弹",
+  "category": "traps",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 20,
+      "upgradeCost": 400,
+      "townHallLevel": 3
+    },
+    {
+      "level": 2,
+      "dps": 24,
+      "upgradeCost": 1000,
+      "upgradeTime": "6m",
+      "townHallLevel": 3
+    },
+    {
+      "level": 3,
+      "dps": 29,
+      "upgradeCost": 10000,
+      "upgradeTime": "1h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 4,
+      "dps": 35,
+      "upgradeCost": 75000,
+      "upgradeTime": "2h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "dps": 42,
+      "upgradeCost": 220000,
+      "upgradeTime": "4h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 54,
+      "upgradeCost": 450000,
+      "upgradeTime": "6h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "dps": 72,
+      "upgradeCost": 650000,
+      "upgradeTime": "8h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 8,
+      "dps": 92,
+      "upgradeCost": 1100000,
+      "upgradeTime": "12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "dps": 125,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "dps": 140,
+      "upgradeCost": 2000000,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 155,
+      "upgradeCost": 3000000,
+      "upgradeTime": "3d18h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 170,
+      "upgradeCost": 6750000,
+      "upgradeTime": "6d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "dps": 185,
+      "upgradeCost": 10000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "dps": 200,
+      "upgradeCost": 14000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0380",
+  "imgSrc": "Bomb_info.png"
+}

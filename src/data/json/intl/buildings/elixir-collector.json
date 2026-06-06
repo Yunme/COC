@@ -1,0 +1,195 @@
+{
+  "id": "elixir-collector",
+  "name": "Elixir Collector",
+  "nameCn": "圣水收集器",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 17,
+  "levels": [
+    {
+      "level": 1,
+      "每小时产量": 200,
+      "采集器容量<sup>*<Sup>": 1,
+      "upgradeTime": "5s",
+      "出现收集标志时的储量": 6,
+      "hp": 75,
+      "upgradeCost": 150,
+      "townHallLevel": 1
+    },
+    {
+      "level": 2,
+      "每小时产量": 400,
+      "采集器容量<sup>*<Sup>": 2,
+      "upgradeTime": "15s",
+      "出现收集标志时的储量": 15,
+      "hp": 150,
+      "upgradeCost": 300,
+      "townHallLevel": 1
+    },
+    {
+      "level": 3,
+      "每小时产量": 600,
+      "采集器容量<sup>*<Sup>": 3,
+      "upgradeTime": "1m",
+      "出现收集标志时的储量": 25,
+      "hp": 300,
+      "upgradeCost": 700,
+      "townHallLevel": 2
+    },
+    {
+      "level": 4,
+      "每小时产量": 800,
+      "采集器容量<sup>*<Sup>": 5,
+      "upgradeTime": "2m",
+      "出现收集标志时的储量": 40,
+      "hp": 400,
+      "upgradeCost": 1400,
+      "townHallLevel": 2
+    },
+    {
+      "level": 5,
+      "每小时产量": 1000,
+      "采集器容量<sup>*<Sup>": 10,
+      "upgradeTime": "5m",
+      "出现收集标志时的储量": 60,
+      "每个采集器提速所需宝石": 4,
+      "hp": 500,
+      "upgradeCost": 3000,
+      "townHallLevel": 3
+    },
+    {
+      "level": 6,
+      "每小时产量": 1300,
+      "采集器容量<sup>*<Sup>": 20,
+      "upgradeTime": "15m",
+      "出现收集标志时的储量": 100,
+      "每个采集器提速所需宝石": 5,
+      "hp": 550,
+      "upgradeCost": 7000,
+      "townHallLevel": 3
+    },
+    {
+      "level": 7,
+      "每小时产量": 1600,
+      "采集器容量<sup>*<Sup>": 30,
+      "upgradeTime": "30m",
+      "出现收集标志时的储量": 160,
+      "每个采集器提速所需宝石": 6,
+      "hp": 600,
+      "upgradeCost": 14000,
+      "townHallLevel": 4
+    },
+    {
+      "level": 8,
+      "每小时产量": 1900,
+      "采集器容量<sup>*<Sup>": 50,
+      "upgradeTime": "1h",
+      "出现收集标志时的储量": 220,
+      "每个采集器提速所需宝石": 7,
+      "hp": 660,
+      "upgradeCost": 28000,
+      "townHallLevel": 4
+    },
+    {
+      "level": 9,
+      "每小时产量": 2200,
+      "采集器容量<sup>*<Sup>": 75,
+      "upgradeTime": "2h",
+      "出现收集标志时的储量": 300,
+      "每个采集器提速所需宝石": 8,
+      "hp": 720,
+      "upgradeCost": 56000,
+      "townHallLevel": 5
+    },
+    {
+      "level": 10,
+      "每小时产量": 2800,
+      "采集器容量<sup>*<Sup>": 100,
+      "upgradeTime": "3h",
+      "出现收集标志时的储量": 400,
+      "每个采集器提速所需宝石": 9,
+      "hp": 780,
+      "upgradeCost": 75000,
+      "townHallLevel": 5
+    },
+    {
+      "level": 11,
+      "每小时产量": 3500,
+      "采集器容量<sup>*<Sup>": 150,
+      "upgradeTime": "4h",
+      "出现收集标志时的储量": 500,
+      "每个采集器提速所需宝石": 10,
+      "hp": 860,
+      "upgradeCost": 85000,
+      "townHallLevel": 7
+    },
+    {
+      "level": 12,
+      "每小时产量": 4200,
+      "采集器容量<sup>*<Sup>": 200,
+      "upgradeTime": "6h",
+      "出现收集标志时的储量": 600,
+      "每个采集器提速所需宝石": 10,
+      "hp": 960,
+      "upgradeCost": 170000,
+      "townHallLevel": 8
+    },
+    {
+      "level": 13,
+      "每小时产量": 4900,
+      "采集器容量<sup>*<Sup>": 250,
+      "upgradeTime": "8h",
+      "出现收集标志时的储量": 700,
+      "每个采集器提速所需宝石": 11,
+      "hp": 1080,
+      "upgradeCost": 400000,
+      "townHallLevel": 10
+    },
+    {
+      "level": 14,
+      "每小时产量": 5600,
+      "采集器容量<sup>*<Sup>": 300,
+      "upgradeTime": "10h",
+      "出现收集标志时的储量": 800,
+      "每个采集器提速所需宝石": 11,
+      "hp": 1180,
+      "upgradeCost": 800000,
+      "townHallLevel": 11
+    },
+    {
+      "level": 15,
+      "每小时产量": 6300,
+      "采集器容量<sup>*<Sup>": 350,
+      "upgradeTime": "18h",
+      "出现收集标志时的储量": 900,
+      "每个采集器提速所需宝石": 11,
+      "hp": 1280,
+      "upgradeCost": 1200000,
+      "townHallLevel": 12
+    },
+    {
+      "level": 16,
+      "每小时产量": 7000,
+      "采集器容量<sup>*<Sup>": 385,
+      "upgradeTime": "2d",
+      "出现收集标志时的储量": 1000,
+      "每个采集器提速所需宝石": 11,
+      "hp": 1350,
+      "upgradeCost": 2000000,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "每小时产量": 7560,
+      "采集器容量<sup>*<Sup>": 420,
+      "upgradeTime": "4d",
+      "出现收集标志时的储量": 1000,
+      "每个采集器提速所需宝石": 11,
+      "hp": 1400,
+      "upgradeCost": 8000000,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_buildings/0402",
+  "imgSrc": "Elixir_Collector17.png"
+}

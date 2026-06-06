@@ -1,0 +1,88 @@
+{
+  "id": "bh-guard-post",
+  "name": "Guard Post",
+  "nameCn": "守卫岗哨",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "部队等级": 2,
+      "hp": 300,
+      "upgradeTime": "4h",
+      "所需夜世界大本营等级": 4
+    },
+    {
+      "level": 2,
+      "部队等级": 4,
+      "hp": 350,
+      "upgradeTime": "8h",
+      "所需夜世界大本营等级": 4
+    },
+    {
+      "level": 3,
+      "部队等级": 6,
+      "hp": 400,
+      "upgradeTime": "12h",
+      "所需夜世界大本营等级": 4
+    },
+    {
+      "level": 4,
+      "部队等级": 8,
+      "hp": 460,
+      "upgradeTime": "1d",
+      "所需夜世界大本营等级": 4
+    },
+    {
+      "level": 5,
+      "部队等级": 10,
+      "hp": 550,
+      "upgradeCost": 1000000,
+      "upgradeTime": "2d",
+      "所需夜世界大本营等级": 5
+    },
+    {
+      "level": 6,
+      "部队等级": 12,
+      "hp": 650,
+      "upgradeCost": 1400000,
+      "upgradeTime": "4d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 7,
+      "部队等级": 14,
+      "hp": 750,
+      "upgradeCost": 2300000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 8,
+      "部队等级": 16,
+      "hp": 850,
+      "upgradeCost": 3200000,
+      "upgradeTime": "8d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 9,
+      "部队等级": 18,
+      "hp": 1000,
+      "upgradeCost": 4100000,
+      "upgradeTime": "10d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 10,
+      "部队等级": 20,
+      "hp": 1150,
+      "upgradeCost": 5100000,
+      "upgradeTime": "12d",
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1106",
+  "imgSrc": "Guard_Post10.png"
+}

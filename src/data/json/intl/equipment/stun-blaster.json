@@ -1,0 +1,190 @@
+{
+  "id": "stun-blaster",
+  "name": "Stun Blaster",
+  "nameCn": "爆震器",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "技能伤害": 150,
+      "晕眩时间": 4.5,
+      "英雄每秒伤害提升": 40,
+      "英雄生命值提升": 450,
+      "townHallLevel": 16
+    },
+    {
+      "level": 2,
+      "技能伤害": 150,
+      "晕眩时间": 4.5,
+      "英雄每秒伤害提升": 43,
+      "英雄生命值提升": 650,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 3,
+      "技能伤害": 200,
+      "晕眩时间": 5,
+      "英雄每秒伤害提升": 46,
+      "英雄生命值提升": 850,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 4,
+      "技能伤害": 200,
+      "晕眩时间": 5,
+      "英雄每秒伤害提升": 49,
+      "英雄生命值提升": 1000,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 5,
+      "技能伤害": 200,
+      "晕眩时间": 5,
+      "英雄每秒伤害提升": 52,
+      "英雄生命值提升": 1150,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 6,
+      "技能伤害": 250,
+      "晕眩时间": 5.5,
+      "英雄每秒伤害提升": 55,
+      "英雄生命值提升": 1300,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 7,
+      "技能伤害": 250,
+      "晕眩时间": 5.5,
+      "英雄每秒伤害提升": 58,
+      "英雄生命值提升": 1450,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "技能伤害": 250,
+      "晕眩时间": 5.5,
+      "英雄每秒伤害提升": 61,
+      "英雄生命值提升": 1600,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 9,
+      "技能伤害": 300,
+      "晕眩时间": 6,
+      "英雄每秒伤害提升": 64,
+      "英雄生命值提升": 1750,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 10,
+      "技能伤害": 300,
+      "晕眩时间": 6,
+      "英雄每秒伤害提升": 67,
+      "英雄生命值提升": 1900,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 11,
+      "技能伤害": 300,
+      "晕眩时间": 6,
+      "英雄每秒伤害提升": 70,
+      "英雄生命值提升": 2000,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "技能伤害": 350,
+      "晕眩时间": 6.5,
+      "英雄每秒伤害提升": 73,
+      "英雄生命值提升": 2100,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "技能伤害": 350,
+      "晕眩时间": 6.5,
+      "英雄每秒伤害提升": 76,
+      "英雄生命值提升": 2200,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 14,
+      "技能伤害": 350,
+      "晕眩时间": 6.5,
+      "英雄每秒伤害提升": 79,
+      "英雄生命值提升": 2275,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 15,
+      "技能伤害": 375,
+      "晕眩时间": 7,
+      "英雄每秒伤害提升": 82,
+      "英雄生命值提升": 2325,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 16,
+      "技能伤害": 375,
+      "晕眩时间": 7,
+      "英雄每秒伤害提升": 85,
+      "英雄生命值提升": 2375,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 17,
+      "技能伤害": 375,
+      "晕眩时间": 7,
+      "英雄每秒伤害提升": 88,
+      "英雄生命值提升": 2400,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 18,
+      "技能伤害": 400,
+      "晕眩时间": 7.5,
+      "英雄每秒伤害提升": 90,
+      "英雄生命值提升": 2400,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/07e2",
+  "imgSrc": "Stun_Blaster_info.png"
+}

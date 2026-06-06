@@ -1,0 +1,122 @@
+{
+  "id": "wall-breaker",
+  "name": "Wall Breaker",
+  "nameCn": "炸弹人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 10,
+      "hp": 20,
+      "townHallLevel": 4
+    },
+    {
+      "level": 2,
+      "dps": 20,
+      "hp": 24,
+      "upgradeCost": 100000,
+      "upgradeTime": "6h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 3,
+      "dps": 25,
+      "hp": 29,
+      "upgradeCost": 250000,
+      "upgradeTime": "9h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 4,
+      "dps": 30,
+      "hp": 35,
+      "upgradeCost": 600000,
+      "upgradeTime": "14h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "dps": 43,
+      "hp": 53,
+      "upgradeCost": 1200000,
+      "upgradeTime": "18h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 55,
+      "hp": 72,
+      "upgradeCost": 2500000,
+      "upgradeTime": "1d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 7,
+      "dps": 66,
+      "hp": 82,
+      "upgradeCost": 3400000,
+      "upgradeTime": "2d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "dps": 75,
+      "hp": 92,
+      "upgradeCost": 4500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "dps": 86,
+      "hp": 112,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "dps": 94,
+      "hp": 130,
+      "upgradeCost": 6500000,
+      "upgradeTime": "7d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 102,
+      "hp": 140,
+      "upgradeCost": 13000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 110,
+      "hp": 150,
+      "upgradeCost": 16000000,
+      "upgradeTime": "10d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "dps": 118,
+      "hp": 160,
+      "upgradeCost": 20000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "dps": 126,
+      "hp": 170,
+      "upgradeCost": 26000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0004",
+  "imgSrc": "Wall_Breaker_info.png"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "air-sweeper",
+  "name": "Air Sweeper",
+  "nameCn": "空气炮",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 750,
+      "upgradeCost": 400000,
+      "upgradeTime": "6h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 2,
+      "hp": 800,
+      "upgradeCost": 600000,
+      "upgradeTime": "8h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 3,
+      "hp": 850,
+      "upgradeCost": 900000,
+      "upgradeTime": "12h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 4,
+      "hp": 900,
+      "upgradeCost": 1200000,
+      "upgradeTime": "18h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "hp": 950,
+      "upgradeCost": 1800000,
+      "upgradeTime": "1d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 6,
+      "hp": 1000,
+      "upgradeCost": 1900000,
+      "upgradeTime": "2d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 7,
+      "hp": 1050,
+      "upgradeCost": 3400000,
+      "upgradeTime": "3d",
+      "townHallLevel": 11
+    }
+  ],
+  "imgFolder": "home_buildings/0306",
+  "imgSrc": "Air_Sweeper7.png"
+}

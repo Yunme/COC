@@ -1,0 +1,230 @@
+{
+  "id": "bh-sneaky-archer",
+  "name": "Sneaky Archer",
+  "nameCn": "隐秘弓箭手",
+  "category": "troops",
+  "village": "builder",
+  "maxLevel": 20,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 60,
+      "damagePerHit": 60,
+      "每个兵营的部队数量": 3,
+      "技能隐身时间": "无",
+      "hp": 196,
+      "所需实验室和大本营等级": 1
+    },
+    {
+      "level": 2,
+      "dps": 60,
+      "damagePerHit": 60,
+      "每个兵营的部队数量": 3,
+      "技能隐身时间": 3,
+      "hp": 196,
+      "upgradeCost": 5000,
+      "upgradeTime": "3m",
+      "所需实验室和大本营等级": 1
+    },
+    {
+      "level": 3,
+      "dps": 66,
+      "damagePerHit": 66,
+      "每个兵营的部队数量": 3,
+      "技能隐身时间": 3,
+      "hp": 216,
+      "upgradeCost": 8000,
+      "upgradeTime": "10m",
+      "所需实验室和大本营等级": 2
+    },
+    {
+      "level": 4,
+      "dps": 66,
+      "damagePerHit": 66,
+      "每个兵营的部队数量": 3,
+      "技能隐身时间": 4,
+      "hp": 216,
+      "upgradeCost": 12000,
+      "upgradeTime": "30m",
+      "所需实验室和大本营等级": 2
+    },
+    {
+      "level": 5,
+      "dps": 72,
+      "damagePerHit": 72,
+      "每个兵营的部队数量": 3,
+      "技能隐身时间": 4,
+      "hp": 237,
+      "upgradeCost": 100000,
+      "upgradeTime": "6h",
+      "所需实验室和大本营等级": 3
+    },
+    {
+      "level": 6,
+      "dps": 72,
+      "damagePerHit": 72,
+      "每个兵营的部队数量": 3,
+      "技能隐身时间": 5,
+      "hp": 237,
+      "upgradeCost": 200000,
+      "upgradeTime": "11h",
+      "所需实验室和大本营等级": 3
+    },
+    {
+      "level": 7,
+      "dps": 79,
+      "damagePerHit": 79,
+      "每个兵营的部队数量": 3,
+      "技能隐身时间": 5,
+      "hp": 261,
+      "upgradeCost": 320000,
+      "upgradeTime": "16h",
+      "所需实验室和大本营等级": 4
+    },
+    {
+      "level": 8,
+      "dps": 79,
+      "damagePerHit": 79,
+      "每个兵营的部队数量": 3,
+      "技能隐身时间": 6,
+      "hp": 261,
+      "upgradeCost": 350000,
+      "upgradeTime": "21h",
+      "所需实验室和大本营等级": 4
+    },
+    {
+      "level": 9,
+      "dps": 86,
+      "damagePerHit": 86,
+      "每个兵营的部队数量": 3,
+      "技能隐身时间": 6,
+      "hp": 287,
+      "upgradeCost": 800000,
+      "upgradeTime": "1d",
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 10,
+      "dps": 86,
+      "damagePerHit": 86,
+      "每个兵营的部队数量": 4,
+      "技能隐身时间": 6,
+      "hp": 287,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d12h",
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 11,
+      "dps": 95,
+      "damagePerHit": 95,
+      "每个兵营的部队数量": 4,
+      "技能隐身时间": 6,
+      "hp": 316,
+      "upgradeCost": 1100000,
+      "upgradeTime": "2d",
+      "所需实验室和大本营等级": 6
+    },
+    {
+      "level": 12,
+      "dps": 95,
+      "damagePerHit": 95,
+      "每个兵营的部队数量": 4,
+      "技能隐身时间": 7,
+      "hp": 316,
+      "upgradeCost": 1300000,
+      "upgradeTime": "2d12h",
+      "所需实验室和大本营等级": 6
+    },
+    {
+      "level": 13,
+      "dps": 104,
+      "damagePerHit": 104,
+      "每个兵营的部队数量": 4,
+      "技能隐身时间": 7,
+      "hp": 347,
+      "upgradeCost": 2100000,
+      "upgradeTime": "3d12h",
+      "所需实验室和大本营等级": 7
+    },
+    {
+      "level": 14,
+      "dps": 104,
+      "damagePerHit": 104,
+      "每个兵营的部队数量": 4,
+      "技能隐身时间": 8,
+      "hp": 347,
+      "upgradeCost": 2300000,
+      "upgradeTime": "4d12h",
+      "所需实验室和大本营等级": 7
+    },
+    {
+      "level": 15,
+      "dps": 112,
+      "damagePerHit": 112,
+      "每个兵营的部队数量": 4,
+      "技能隐身时间": 8,
+      "hp": 382,
+      "upgradeCost": 3100000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 16,
+      "dps": 112,
+      "damagePerHit": 112,
+      "每个兵营的部队数量": 4,
+      "技能隐身时间": 9,
+      "hp": 382,
+      "upgradeCost": 3300000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 17,
+      "dps": 119,
+      "damagePerHit": 119,
+      "每个兵营的部队数量": 4,
+      "技能隐身时间": 9,
+      "hp": 420,
+      "upgradeCost": 3900000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 18,
+      "dps": 119,
+      "damagePerHit": 119,
+      "每个兵营的部队数量": 4,
+      "技能隐身时间": 10,
+      "hp": 420,
+      "upgradeCost": 4100000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 19,
+      "dps": 125,
+      "damagePerHit": 125,
+      "每个兵营的部队数量": 4,
+      "技能隐身时间": 10,
+      "hp": 462,
+      "upgradeCost": 4700000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    },
+    {
+      "level": 20,
+      "dps": 125,
+      "damagePerHit": 125,
+      "每个兵营的部队数量": 4,
+      "技能隐身时间": 11,
+      "hp": 462,
+      "upgradeCost": 5300000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_tech/1001",
+  "imgSrc": "Sneaky_Archer_info.png"
+}

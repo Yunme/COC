@@ -1,0 +1,96 @@
+{
+  "id": "hero-hall",
+  "name": "Hero Hall",
+  "nameCn": "英雄殿堂",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 2000,
+      "upgradeCost": 800000,
+      "upgradeTime": "1d",
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "hp": 2400,
+      "upgradeCost": 1600000,
+      "upgradeTime": "2d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "hp": 2800,
+      "upgradeCost": 2300000,
+      "upgradeTime": "3d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "hp": 3200,
+      "upgradeCost": 2500000,
+      "upgradeTime": "4d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "hp": 3600,
+      "upgradeCost": 4500000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "hp": 3800,
+      "upgradeCost": 5500000,
+      "upgradeTime": "5d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "hp": 4200,
+      "upgradeCost": 8500000,
+      "upgradeTime": "6d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "hp": 4600,
+      "upgradeCost": 9500000,
+      "upgradeTime": "6d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "hp": 5000,
+      "upgradeCost": 11000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "hp": 5400,
+      "upgradeCost": 13000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 11,
+      "hp": 5800,
+      "upgradeCost": 17000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "hp": 6000,
+      "upgradeCost": 26000000,
+      "upgradeTime": "13d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0489",
+  "imgSrc": "Hero_Hall12_hd.png"
+}

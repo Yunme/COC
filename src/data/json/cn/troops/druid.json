@@ -1,0 +1,45 @@
+{
+  "id": "druid",
+  "name": "Druid",
+  "nameCn": "德鲁伊",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 1300,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "hp": 1400,
+      "upgradeCost": 125000,
+      "upgradeTime": "12d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "hp": 1500,
+      "upgradeCost": 175000,
+      "upgradeTime": "14d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 4,
+      "hp": 1600,
+      "upgradeCost": 187500,
+      "upgradeTime": "15d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 5,
+      "hp": 1700,
+      "upgradeCost": 320000,
+      "upgradeTime": "16d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/008a",
+  "imgSrc": "Druid_info.png"
+}

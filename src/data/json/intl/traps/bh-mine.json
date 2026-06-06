@@ -1,0 +1,81 @@
+{
+  "id": "bh-mine",
+  "name": "Mine",
+  "nameCn": "地雷",
+  "category": "traps",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "爆炸伤害": 80,
+      "upgradeCost": 5000,
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 2,
+      "爆炸伤害": 90,
+      "upgradeCost": 10000,
+      "upgradeTime": "30m",
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 3,
+      "爆炸伤害": 100,
+      "upgradeCost": 15000,
+      "upgradeTime": "1h",
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 4,
+      "爆炸伤害": 110,
+      "upgradeCost": 25000,
+      "upgradeTime": "2h",
+      "所需夜世界大本营等级": 4
+    },
+    {
+      "level": 5,
+      "爆炸伤害": 120,
+      "upgradeCost": 50000,
+      "upgradeTime": "6h",
+      "所需夜世界大本营等级": 5
+    },
+    {
+      "level": 6,
+      "爆炸伤害": 130,
+      "upgradeCost": 80000,
+      "upgradeTime": "12h",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 7,
+      "爆炸伤害": 140,
+      "upgradeCost": 120000,
+      "upgradeTime": "1d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 8,
+      "爆炸伤害": 150,
+      "upgradeCost": 250000,
+      "upgradeTime": "1d12h",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 9,
+      "爆炸伤害": 165,
+      "upgradeCost": 500000,
+      "upgradeTime": "2d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 10,
+      "爆炸伤害": 180,
+      "upgradeCost": 1500000,
+      "upgradeTime": "2d12h",
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1182",
+  "imgSrc": "Mine10.png"
+}

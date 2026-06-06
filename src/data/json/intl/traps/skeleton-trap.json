@@ -1,0 +1,51 @@
+{
+  "id": "skeleton-trap",
+  "name": "Skeleton Trap",
+  "nameCn": "骷髅陷阱",
+  "category": "traps",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "骷髅数量": 2,
+      "骷髅等级": 1,
+      "upgradeCost": 6000,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "骷髅数量": 3,
+      "骷髅等级": 1,
+      "upgradeCost": 250000,
+      "upgradeTime": "5h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "骷髅数量": 4,
+      "骷髅等级": 1,
+      "upgradeCost": 400000,
+      "upgradeTime": "8h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "骷髅数量": 5,
+      "骷髅等级": 1,
+      "upgradeCost": 1000000,
+      "upgradeTime": "12h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "骷髅数量": 5,
+      "骷髅等级": 2,
+      "upgradeCost": 18000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0385",
+  "imgSrc": "Skeleton_Trap_info.png"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "x-bow",
+  "name": "X Bow",
+  "nameCn": "X连弩（十字连弩）",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 60,
+      "damagePerHit": 7.68,
+      "hp": 1500,
+      "upgradeCost": 1000000,
+      "upgradeTime": "12h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "dps": 70,
+      "damagePerHit": 8.96,
+      "hp": 1900,
+      "upgradeCost": 1200000,
+      "upgradeTime": "1d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "dps": 80,
+      "damagePerHit": 10.24,
+      "hp": 2300,
+      "upgradeCost": 2400000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "dps": 85,
+      "damagePerHit": 10.88,
+      "hp": 2700,
+      "upgradeCost": 2500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "dps": 95,
+      "damagePerHit": 12.16,
+      "hp": 3100,
+      "upgradeCost": 3900000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "dps": 110,
+      "damagePerHit": 14.08,
+      "hp": 3400,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "dps": 130,
+      "damagePerHit": 16.64,
+      "hp": 3700,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d6h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "dps": 155,
+      "damagePerHit": 19.84,
+      "hp": 4000,
+      "upgradeCost": 7000000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "dps": 185,
+      "damagePerHit": 23.68,
+      "hp": 4200,
+      "upgradeCost": 9000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "dps": 205,
+      "damagePerHit": 26.24,
+      "hp": 4400,
+      "upgradeCost": 9500000,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "dps": 225,
+      "damagePerHit": 28.8,
+      "hp": 4600,
+      "upgradeCost": 10000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 235,
+      "damagePerHit": 30.08,
+      "hp": 4800,
+      "upgradeCost": 16000000,
+      "upgradeTime": "10d12h",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_buildings/0309",
+  "imgSrc": "X-Bow12_hd.png"
+}

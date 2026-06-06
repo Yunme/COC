@@ -1,0 +1,57 @@
+{
+  "id": "bh-x-bow",
+  "name": "X Bow",
+  "nameCn": "X连弩",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 80,
+      "damagePerHit": 15.36,
+      "hp": 1700,
+      "upgradeCost": 4400000,
+      "upgradeTime": "7d",
+      "所需夜世界大本等级": 10
+    },
+    {
+      "level": 2,
+      "dps": 88,
+      "damagePerHit": 16.9,
+      "hp": 1900,
+      "upgradeCost": 4800000,
+      "upgradeTime": "8d",
+      "所需夜世界大本等级": 10
+    },
+    {
+      "level": 3,
+      "dps": 96,
+      "damagePerHit": 18.43,
+      "hp": 2100,
+      "upgradeCost": 5200000,
+      "upgradeTime": "10d",
+      "所需夜世界大本等级": 10
+    },
+    {
+      "level": 4,
+      "dps": 106,
+      "damagePerHit": 20.35,
+      "hp": 2350,
+      "upgradeCost": 5600000,
+      "upgradeTime": "11d",
+      "所需夜世界大本等级": 10
+    },
+    {
+      "level": 5,
+      "dps": 116,
+      "damagePerHit": 22.27,
+      "hp": 2600,
+      "upgradeCost": 6000000,
+      "upgradeTime": "12d",
+      "所需夜世界大本等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/110e",
+  "imgSrc": "X-Bow5_Ground.png"
+}

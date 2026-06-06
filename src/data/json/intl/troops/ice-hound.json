@@ -1,0 +1,84 @@
+{
+  "id": "ice-hound",
+  "name": "Ice Hound",
+  "nameCn": "寒冰猎犬",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 2,
+      "damagePerHit": 4,
+      "死亡后冰冻时间": 3.75,
+      "死亡后分裂的迷你寒冰 猎犬数量 (进攻/防守)": 6,
+      "hp": 7500,
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "dps": 4,
+      "damagePerHit": 8,
+      "死亡后冰冻时间": 3.75,
+      "死亡后分裂的迷你寒冰 猎犬数量 (进攻/防守)": 7,
+      "hp": 8000,
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "dps": 6,
+      "damagePerHit": 12,
+      "死亡后冰冻时间": 3.75,
+      "死亡后分裂的迷你寒冰 猎犬数量 (进攻/防守)": 8,
+      "hp": 8500,
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "dps": 8,
+      "damagePerHit": 16,
+      "死亡后冰冻时间": 3.75,
+      "死亡后分裂的迷你寒冰 猎犬数量 (进攻/防守)": 9,
+      "hp": 9000,
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "dps": 10,
+      "damagePerHit": 20,
+      "死亡后冰冻时间": 3.75,
+      "死亡后分裂的迷你寒冰 猎犬数量 (进攻/防守)": 10,
+      "hp": 9500,
+      "townHallLevel": 12
+    },
+    {
+      "level": 6,
+      "dps": 15,
+      "damagePerHit": 30,
+      "死亡后冰冻时间": 4.25,
+      "死亡后分裂的迷你寒冰 猎犬数量 (进攻/防守)": 12,
+      "hp": 10000,
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "dps": 20,
+      "damagePerHit": 40,
+      "死亡后冰冻时间": 4.75,
+      "死亡后分裂的迷你寒冰 猎犬数量 (进攻/防守)": 14,
+      "hp": 10500,
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "dps": 25,
+      "damagePerHit": 50,
+      "死亡后冰冻时间": 5.25,
+      "死亡后分裂的迷你寒冰 猎犬数量 (进攻/防守)": 16,
+      "hp": 11500,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/060a",
+  "imgSrc": "Ice_Hound.png"
+}

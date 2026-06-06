@@ -1,0 +1,111 @@
+{
+  "id": "blacksmith",
+  "name": "Blacksmith",
+  "nameCn": "铁匠铺",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 9,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 700,
+      "蓝矿的最大储量": 10,
+      "紫矿的最大储量": 1000,
+      "黄矿的最大储量": 200,
+      "upgradeCost": 600000,
+      "upgradeTime": "12h",
+      "townHallLevel": 8,
+      "解锁的装备": "<a href=\"/upgrade/0702-Earthquake-Boots\">地震金靴</a>"
+    },
+    {
+      "level": 2,
+      "hp": 800,
+      "蓝矿的最大储量": 15,
+      "紫矿的最大储量": 1500,
+      "黄矿的最大储量": 300,
+      "upgradeCost": 1200000,
+      "upgradeTime": "1d",
+      "townHallLevel": 9,
+      "解锁的装备": "<a href=\"/upgrade/0742-Giant-Arrow\">巨型箭矢</a>"
+    },
+    {
+      "level": 3,
+      "hp": 900,
+      "蓝矿的最大储量": 20,
+      "紫矿的最大储量": 2000,
+      "黄矿的最大储量": 400,
+      "upgradeCost": 2300000,
+      "upgradeTime": "2d",
+      "townHallLevel": 10,
+      "解锁的装备": "<a href=\"/upgrade/0703-Vampstache\">嗜血胡须</a><br><a href=\"/upgrade/0722-Metal-Pants\">铁甲短裤</a>"
+    },
+    {
+      "level": 4,
+      "hp": 1000,
+      "蓝矿的最大储量": 25,
+      "紫矿的最大储量": 2500,
+      "黄矿的最大储量": 500,
+      "upgradeCost": 3000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 11,
+      "解锁的装备": "<a href=\"/upgrade/0782-Rage-Gem\">狂暴宝石</a>"
+    },
+    {
+      "level": 5,
+      "hp": 1100,
+      "蓝矿的最大储量": 30,
+      "紫矿的最大储量": 3000,
+      "黄矿的最大储量": 600,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12,
+      "解锁的装备": "<a href=\"/upgrade/0743-Healer-Puppet\">天使木偶</a><br><a href=\"/upgrade/0723-Noble-Iron\">贵族哑铃</a>"
+    },
+    {
+      "level": 6,
+      "hp": 1200,
+      "蓝矿的最大储量": 35,
+      "紫矿的最大储量": 3500,
+      "黄矿的最大储量": 700,
+      "upgradeCost": 6200000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 13,
+      "解锁的装备": "<a href=\"/upgrade/0783-Healing-Tome\">治疗书卷</a>"
+    },
+    {
+      "level": 7,
+      "hp": 1300,
+      "蓝矿的最大储量": 40,
+      "紫矿的最大储量": 4000,
+      "黄矿的最大储量": 800,
+      "upgradeCost": 9200000,
+      "upgradeTime": "5d",
+      "townHallLevel": 14,
+      "解锁的装备": "<a href=\"/upgrade/07c2-Hog-Rider-Puppet\">野猪骑士木偶</a>"
+    },
+    {
+      "level": 8,
+      "hp": 1400,
+      "蓝矿的最大储量": 45,
+      "紫矿的最大储量": 4500,
+      "黄矿的最大储量": 900,
+      "upgradeCost": 10000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 15,
+      "解锁的装备": "<a href=\"/upgrade/07c3-Haste-Vial\">急速药水瓶</a>"
+    },
+    {
+      "level": 9,
+      "hp": 1500,
+      "蓝矿的最大储量": 50,
+      "紫矿的最大储量": 5000,
+      "黄矿的最大储量": 1000,
+      "upgradeCost": 11000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 16,
+      "解锁的装备": "无"
+    }
+  ],
+  "imgFolder": "home_buildings/0488",
+  "imgSrc": "Blacksmith9.png"
+}

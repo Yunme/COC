@@ -1,0 +1,32 @@
+{
+  "id": "bh-bob-control",
+  "name": "B.O.B Control",
+  "nameCn": "小博控制室",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "需要满足的条件": "花费 10 万金币（有月卡的话能少一点）"
+    },
+    {
+      "level": 2,
+      "需要满足的条件": "完成家乡的 3 个改装：[加农炮](/upgrade/0301-Cannon) 、[箭塔](/upgrade/0302-Archer-Tower) 和 [迫击炮](/upgrade/0303-Mortar)"
+    },
+    {
+      "level": 3,
+      "需要满足的条件": "将任意兵种升到 18 级"
+    },
+    {
+      "level": 4,
+      "需要满足的条件": "将任意一个防御建筑升到 9 级（[城墙](/upgrade/110c-Walls) 除外）"
+    },
+    {
+      "level": 5,
+      "需要满足的条件": "[战争机器](/upgrade/10f0-Battle-Machine) 和 [战斗直升机](/upgrade/10f1-Battle-Copter) 的等级之和达到 45 级"
+    }
+  ],
+  "imgFolder": "bh_buildings/1284",
+  "imgSrc": "B.O.B_Control5.png"
+}

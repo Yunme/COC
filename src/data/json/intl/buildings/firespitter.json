@@ -1,0 +1,39 @@
+{
+  "id": "firespitter",
+  "name": "Firespitter",
+  "nameCn": "火焰喷射器",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 1,
+      "平均每秒伤害": 410,
+      "damagePerHit": 46,
+      "hp": 4500,
+      "upgradeCost": 17000000,
+      "upgradeTime": "11d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 2,
+      "平均每秒伤害": 437,
+      "damagePerHit": 49,
+      "hp": 5000,
+      "upgradeCost": 18000000,
+      "upgradeTime": "11d12h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 3,
+      "平均每秒伤害": 455,
+      "damagePerHit": 51,
+      "hp": 5300,
+      "upgradeCost": 29000000,
+      "upgradeTime": "15d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0316",
+  "imgSrc": "Firespitter3.png"
+}

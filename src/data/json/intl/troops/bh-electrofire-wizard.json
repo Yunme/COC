@@ -1,0 +1,50 @@
+{
+  "id": "bh-electrofire-wizard",
+  "name": "Electrofire Wizard",
+  "nameCn": "电火法师",
+  "category": "troops",
+  "village": "builder",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 17,
+      "初始伤害": 220,
+      "1.5秒后伤害": 330,
+      "3秒后伤害": 440,
+      "hp": 1100,
+      "所需实验室和大本营等级": 10
+    },
+    {
+      "level": 18,
+      "初始伤害": 220,
+      "1.5秒后伤害": 330,
+      "3秒后伤害": 440,
+      "hp": 1100,
+      "upgradeCost": 4400000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 10
+    },
+    {
+      "level": 19,
+      "初始伤害": 253,
+      "1.5秒后伤害": 380,
+      "3秒后伤害": 506,
+      "hp": 1210,
+      "upgradeCost": 5400000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    },
+    {
+      "level": 20,
+      "初始伤害": 253,
+      "1.5秒后伤害": 380,
+      "3秒后伤害": 506,
+      "hp": 1210,
+      "upgradeCost": 5800000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_tech/100b",
+  "imgSrc": "Electrofire_Wizard_Fire_info.png"
+}

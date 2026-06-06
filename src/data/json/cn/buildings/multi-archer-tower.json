@@ -1,0 +1,48 @@
+{
+  "id": "multi-archer-tower",
+  "name": "Multi Archer Tower",
+  "nameCn": "多人箭塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 60,
+      "damagePerHit": 60,
+      "hp": 5000,
+      "upgradeCost": 16000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 2,
+      "dps": 65,
+      "damagePerHit": 65,
+      "hp": 5200,
+      "upgradeCost": 18000000,
+      "upgradeTime": "13d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 3,
+      "dps": 70,
+      "damagePerHit": 70,
+      "hp": 5400,
+      "upgradeCost": 23000000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "dps": 73,
+      "damagePerHit": 73,
+      "hp": 5500,
+      "upgradeCost": 27000000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0314",
+  "imgSrc": "Multi-Archer_Tower4.png"
+}

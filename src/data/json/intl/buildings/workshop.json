@@ -1,0 +1,84 @@
+{
+  "id": "workshop",
+  "name": "Workshop",
+  "nameCn": "攻城机器工坊",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "可容纳的攻城机器数量": 1,
+      "hp": 1000,
+      "upgradeCost": 2400000,
+      "upgradeTime": "2d",
+      "townHallLevel": 12,
+      "解锁的攻城机器": "<a href=\"/upgrade/0240-Wall-Wrecker\">攻城战车</a>"
+    },
+    {
+      "level": 2,
+      "可容纳的攻城机器数量": 2,
+      "hp": 1100,
+      "upgradeCost": 3700000,
+      "upgradeTime": "3d",
+      "townHallLevel": 12,
+      "解锁的攻城机器": "<a href=\"/upgrade/0241-Battle-Blimp\">攻城飞艇</a>"
+    },
+    {
+      "level": 3,
+      "可容纳的攻城机器数量": 3,
+      "hp": 1200,
+      "upgradeCost": 5000000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 12,
+      "解锁的攻城机器": "<a href=\"/upgrade/0242-Stone-Slammer\">攻城气球</a>"
+    },
+    {
+      "level": 4,
+      "可容纳的攻城机器数量": 3,
+      "hp": 1300,
+      "upgradeCost": 8700000,
+      "upgradeTime": "4d",
+      "townHallLevel": 13,
+      "解锁的攻城机器": "<a href=\"/upgrade/0243-Siege-Barracks\">攻城训练营</a>"
+    },
+    {
+      "level": 5,
+      "可容纳的攻城机器数量": 3,
+      "hp": 1400,
+      "upgradeCost": 9000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 13,
+      "解锁的攻城机器": "<a href=\"/upgrade/0244-Log-Launcher\">攻城滚木车</a>"
+    },
+    {
+      "level": 6,
+      "可容纳的攻城机器数量": 3,
+      "hp": 1500,
+      "upgradeCost": 10000000,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 14,
+      "解锁的攻城机器": "<a href=\"/upgrade/0245-Flame-Flinger\">攻城烈焰车</a>"
+    },
+    {
+      "level": 7,
+      "可容纳的攻城机器数量": 3,
+      "hp": 1600,
+      "upgradeCost": 11000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 15,
+      "解锁的攻城机器": "<a href=\"/upgrade/0246-Battle-Drill\">攻城钻机</a>"
+    },
+    {
+      "level": 8,
+      "可容纳的攻城机器数量": 3,
+      "hp": 1700,
+      "upgradeCost": 13000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 16,
+      "解锁的攻城机器": "<a href=\"/upgrade/0247-Troop-Launcher\">部队发射器</a>"
+    }
+  ],
+  "imgFolder": "home_buildings/0486",
+  "imgSrc": "Workshop8.png"
+}

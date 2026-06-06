@@ -1,0 +1,58 @@
+{
+  "id": "recall-spell",
+  "name": "Recall Spell",
+  "nameCn": "回溯法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 1,
+      "可召回的人口数": 83,
+      "requiredLabLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "可召回的人口数": 89,
+      "upgradeCost": 7500000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "可召回的人口数": 95,
+      "upgradeCost": 8000000,
+      "upgradeTime": "8d12h",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "可召回的人口数": 101,
+      "upgradeCost": 9000000,
+      "upgradeTime": "9d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 5,
+      "可召回的人口数": 107,
+      "upgradeCost": 13000000,
+      "upgradeTime": "11d12h",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 6,
+      "可召回的人口数": 113,
+      "upgradeCost": 19000000,
+      "upgradeTime": "12d12h",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0107",
+  "imgSrc": "Recall_Spell.png"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "builders-hut",
+  "name": "Builders Hut",
+  "nameCn": "建筑工人小屋",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 0,
+      "hp": 250,
+      "townHallLevel": 1
+    },
+    {
+      "level": 2,
+      "dps": 80,
+      "damagePerHit": 32,
+      "hp": 1000,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "dps": 100,
+      "damagePerHit": 40,
+      "hp": 1300,
+      "upgradeCost": 4000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 120,
+      "damagePerHit": 48,
+      "hp": 1600,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "dps": 135,
+      "damagePerHit": 54,
+      "hp": 1800,
+      "upgradeCost": 7000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "dps": 150,
+      "damagePerHit": 60,
+      "hp": 1900,
+      "upgradeCost": 8000000,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 7,
+      "dps": 165,
+      "damagePerHit": 66,
+      "hp": 2000,
+      "upgradeCost": 15500000,
+      "upgradeTime": "7d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_buildings/0500",
+  "imgSrc": "Builders_Hut7_hd.png"
+}

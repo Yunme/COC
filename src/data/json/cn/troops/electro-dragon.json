@@ -1,0 +1,82 @@
+{
+  "id": "electro-dragon",
+  "name": "Electro Dragon",
+  "nameCn": "雷电飞龙",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 9,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 260,
+      "hp": 3400,
+      "townHallLevel": 11
+    },
+    {
+      "level": 2,
+      "dps": 290,
+      "hp": 3900,
+      "upgradeCost": 6300000,
+      "upgradeTime": "5d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 3,
+      "dps": 320,
+      "hp": 4400,
+      "upgradeCost": 7000000,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 12
+    },
+    {
+      "level": 4,
+      "dps": 350,
+      "hp": 4700,
+      "upgradeCost": 9000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "dps": 380,
+      "hp": 5000,
+      "upgradeCost": 11000000,
+      "upgradeTime": "10d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 6,
+      "dps": 410,
+      "hp": 5400,
+      "upgradeCost": 16000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 7,
+      "dps": 440,
+      "hp": 5700,
+      "upgradeCost": 17600000,
+      "upgradeTime": "13d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "dps": 460,
+      "hp": 6200,
+      "upgradeCost": 23000000,
+      "upgradeTime": "15d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 9,
+      "dps": 500,
+      "hp": 6700,
+      "upgradeCost": 30000000,
+      "upgradeTime": "16d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/000c",
+  "imgSrc": "Electro_Dragon_info.png"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "electro-dragon",
+  "name": "Electro Dragon",
+  "nameCn": "雷电飞龙",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 9,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 260,
+      "damagePerHit": 910,
+      "死亡后闪电伤害": 65,
+      "hp": 3400,
+      "requiredLabLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 2,
+      "dps": 290,
+      "damagePerHit": 1015,
+      "死亡后闪电伤害": 75,
+      "hp": 3900,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 3,
+      "dps": 320,
+      "damagePerHit": 1120,
+      "死亡后闪电伤害": 85,
+      "hp": 4400,
+      "upgradeCost": 7000000,
+      "upgradeTime": "4d12h",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 4,
+      "dps": 350,
+      "damagePerHit": 1225,
+      "死亡后闪电伤害": 95,
+      "hp": 4700,
+      "upgradeCost": 9000000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "dps": 380,
+      "damagePerHit": 1330,
+      "死亡后闪电伤害": 105,
+      "hp": 5000,
+      "upgradeCost": 11000000,
+      "upgradeTime": "8d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 6,
+      "dps": 410,
+      "damagePerHit": 1435,
+      "死亡后闪电伤害": 115,
+      "hp": 5400,
+      "upgradeCost": 14000000,
+      "upgradeTime": "8d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 7,
+      "dps": 440,
+      "damagePerHit": 1540,
+      "死亡后闪电伤害": 125,
+      "hp": 5700,
+      "upgradeCost": 16000000,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "dps": 460,
+      "damagePerHit": 1610,
+      "死亡后闪电伤害": 135,
+      "hp": 6200,
+      "upgradeCost": 20000000,
+      "upgradeTime": "10d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 9,
+      "dps": 500,
+      "damagePerHit": 1750,
+      "死亡后闪电伤害": 145,
+      "hp": 6700,
+      "upgradeCost": 30000000,
+      "upgradeTime": "16d",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/000c",
+  "imgSrc": "Electro_Dragon_info.png"
+}

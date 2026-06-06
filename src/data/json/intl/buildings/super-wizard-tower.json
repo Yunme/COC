@@ -1,0 +1,32 @@
+{
+  "id": "super-wizard-tower",
+  "name": "Super Wizard Tower",
+  "nameCn": "超级法师塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 2,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 290,
+      "直接伤害": 377,
+      "连锁伤害": 150.8,
+      "hp": 6000,
+      "upgradeCost": 29000000,
+      "upgradeTime": "13d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 2,
+      "dps": 320,
+      "直接伤害": 416,
+      "连锁伤害": 166.4,
+      "hp": 6300,
+      "upgradeCost": 30000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0318",
+  "imgSrc": "Super_Wizard_Tower2_hd.png"
+}

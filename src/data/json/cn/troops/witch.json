@@ -1,0 +1,82 @@
+{
+  "id": "witch",
+  "name": "Witch",
+  "nameCn": "女巫",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 100,
+      "damagePerHit": 70,
+      "hp": 300,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "dps": 110,
+      "damagePerHit": 77,
+      "hp": 320,
+      "upgradeCost": 20000,
+      "upgradeTime": "3d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "dps": 140,
+      "damagePerHit": 98,
+      "hp": 400,
+      "upgradeCost": 29000,
+      "upgradeTime": "4d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "dps": 165,
+      "damagePerHit": 115.5,
+      "hp": 470,
+      "upgradeCost": 45000,
+      "upgradeTime": "5d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "dps": 185,
+      "damagePerHit": 129.5,
+      "hp": 520,
+      "upgradeCost": 62500,
+      "upgradeTime": "6d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 6,
+      "dps": 200,
+      "damagePerHit": 140,
+      "hp": 540,
+      "upgradeCost": 150000,
+      "upgradeTime": "12d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 7,
+      "dps": 220,
+      "damagePerHit": 154,
+      "hp": 560,
+      "upgradeCost": 180000,
+      "upgradeTime": "13d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "dps": 260,
+      "damagePerHit": 182,
+      "hp": 650,
+      "upgradeCost": 355000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0084",
+  "imgSrc": "Witch_info.png"
+}

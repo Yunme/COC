@@ -1,0 +1,42 @@
+{
+  "id": "totem-spell",
+  "name": "Totem Spell",
+  "nameCn": "图腾法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "图腾生命值": 10000,
+      "requiredLabLevel": 1,
+      "townHallLevel": 16
+    },
+    {
+      "level": 2,
+      "图腾生命值": 11000,
+      "upgradeCost": 21000000,
+      "upgradeTime": "12d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 3,
+      "图腾生命值": 12000,
+      "upgradeCost": 22000000,
+      "upgradeTime": "14d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "图腾生命值": 13000,
+      "upgradeCost": 23000000,
+      "upgradeTime": "16d",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0109",
+  "imgSrc": "Totem_Spell_info.png"
+}

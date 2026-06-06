@@ -1,0 +1,82 @@
+{
+  "id": "eagle-artillery",
+  "name": "Eagle Artillery",
+  "nameCn": "天鹰火炮",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 1,
+      "中心区域每次伤害": 225,
+      "外围区域每次伤害": 20,
+      "平均秒伤<sup>③<Sup>": 82.5,
+      "hp": 4000,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 2,
+      "中心区域每次伤害": 250,
+      "外围区域每次伤害": 25,
+      "平均秒伤<sup>③<Sup>": 97.5,
+      "hp": 4400,
+      "upgradeCost": 6000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 3,
+      "中心区域每次伤害": 275,
+      "外围区域每次伤害": 30,
+      "平均秒伤<sup>③<Sup>": 112.5,
+      "hp": 4800,
+      "upgradeCost": 9000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 4,
+      "中心区域每次伤害": 350,
+      "外围区域每次伤害": 35,
+      "平均秒伤<sup>③<Sup>": 127.5,
+      "hp": 5200,
+      "upgradeCost": 10000000,
+      "upgradeTime": "7d12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "中心区域每次伤害": 425,
+      "外围区域每次伤害": 40,
+      "平均秒伤<sup>③<Sup>": 142.5,
+      "hp": 5600,
+      "upgradeCost": 12000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 6,
+      "中心区域每次伤害": 475,
+      "外围区域每次伤害": 45,
+      "平均秒伤<sup>③<Sup>": 150,
+      "hp": 5900,
+      "upgradeCost": 13000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 7,
+      "中心区域每次伤害": 525,
+      "外围区域每次伤害": 50,
+      "平均秒伤<sup>③<Sup>": 157.5,
+      "hp": 6200,
+      "upgradeCost": 14000000,
+      "upgradeTime": "9d12h",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_buildings/030b",
+  "imgSrc": "Eagle_Artillery7_info.png"
+}

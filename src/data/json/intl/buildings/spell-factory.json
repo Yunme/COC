@@ -1,0 +1,93 @@
+{
+  "id": "spell-factory",
+  "name": "Spell Factory",
+  "nameCn": "法术工厂",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 9,
+  "levels": [
+    {
+      "level": 1,
+      "可容纳的法术空间": 2,
+      "hp": 425,
+      "upgradeCost": 150000,
+      "upgradeTime": "6h",
+      "townHallLevel": 5,
+      "解锁的法术": "<a href=\"/upgrade/0100-Lightning-Spell\">雷电法术</a>"
+    },
+    {
+      "level": 2,
+      "可容纳的法术空间": 4,
+      "hp": 470,
+      "upgradeCost": 300000,
+      "upgradeTime": "12h",
+      "townHallLevel": 6,
+      "解锁的法术": "<a href=\"/upgrade/0101-Healing-Spell\">疗伤法术</a>"
+    },
+    {
+      "level": 3,
+      "可容纳的法术空间": 6,
+      "hp": 520,
+      "upgradeCost": 600000,
+      "upgradeTime": "1d",
+      "townHallLevel": 7,
+      "解锁的法术": "<a href=\"/upgrade/0102-Rage-Spell\">狂暴法术</a>"
+    },
+    {
+      "level": 4,
+      "可容纳的法术空间": 8,
+      "hp": 600,
+      "upgradeCost": 1200000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9,
+      "解锁的法术": "<a href=\"/upgrade/0103-Jump-Spell\">弹跳法术</a><br><a href=\"/upgrade/0104-Freeze-Spell\">冰冻法术</a>"
+    },
+    {
+      "level": 5,
+      "可容纳的法术空间": 10,
+      "hp": 720,
+      "upgradeCost": 2000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10,
+      "解锁的法术": "<a href=\"/upgrade/0105-Clone-Spell\">镜像法术</a>"
+    },
+    {
+      "level": 6,
+      "可容纳的法术空间": 10,
+      "hp": 840,
+      "upgradeCost": 3500000,
+      "upgradeTime": "5d",
+      "townHallLevel": 11,
+      "解锁的法术": "<a href=\"/upgrade/0106-Invisibility-Spell\">隐形法术</a>"
+    },
+    {
+      "level": 7,
+      "可容纳的法术空间": 10,
+      "hp": 960,
+      "upgradeCost": 9000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 13,
+      "解锁的法术": "<a href=\"/upgrade/0107-Recall-Spell\">回溯法术</a>"
+    },
+    {
+      "level": 8,
+      "可容纳的法术空间": 10,
+      "hp": 1080,
+      "upgradeCost": 14000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15,
+      "解锁的法术": "<a href=\"/upgrade/0108-Revive-Spell\">复苏法术</a>"
+    },
+    {
+      "level": 9,
+      "可容纳的法术空间": 10,
+      "hp": 1150,
+      "upgradeCost": 24000000,
+      "upgradeTime": "13d",
+      "townHallLevel": 16,
+      "解锁的法术": "<a href=\"/upgrade/0109-Totem-Spell\">图腾法术</a>"
+    }
+  ],
+  "imgFolder": "home_buildings/0484",
+  "imgSrc": "Spell_Factory9.png"
+}

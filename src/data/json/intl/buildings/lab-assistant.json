@@ -1,0 +1,96 @@
+{
+  "id": "lab-assistant",
+  "name": "Lab Assistant",
+  "nameCn": "实验助手",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "工作效率": 1,
+      "每次派遣可节省的时间": 1,
+      "upgradeCost": 0,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "工作效率": 2,
+      "每次派遣可节省的时间": 2,
+      "upgradeCost": 500,
+      "townHallLevel": 10
+    },
+    {
+      "level": 3,
+      "工作效率": 3,
+      "每次派遣可节省的时间": 3,
+      "upgradeCost": 500,
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "工作效率": 4,
+      "每次派遣可节省的时间": 4,
+      "upgradeCost": 500,
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "工作效率": 5,
+      "每次派遣可节省的时间": 5,
+      "upgradeCost": 750,
+      "townHallLevel": 12
+    },
+    {
+      "level": 6,
+      "工作效率": 6,
+      "每次派遣可节省的时间": 6,
+      "upgradeCost": 750,
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "工作效率": 7,
+      "每次派遣可节省的时间": 7,
+      "upgradeCost": 750,
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "工作效率": 8,
+      "每次派遣可节省的时间": 8,
+      "upgradeCost": 750,
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "工作效率": 9,
+      "每次派遣可节省的时间": 9,
+      "upgradeCost": 1000,
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "工作效率": 10,
+      "每次派遣可节省的时间": 10,
+      "upgradeCost": 1000,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "工作效率": 11,
+      "每次派遣可节省的时间": 11,
+      "upgradeCost": 1000,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "工作效率": 12,
+      "每次派遣可节省的时间": 12,
+      "upgradeCost": 1000,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0800",
+  "imgSrc": "Lab_Assistant_info.png"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "haste-spell",
+  "name": "Haste Spell",
+  "nameCn": "急速法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "upgradeCost": 8000,
+      "upgradeTime": "1d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "upgradeCost": 17000,
+      "upgradeTime": "2d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "upgradeCost": 30000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "upgradeCost": 38500,
+      "upgradeTime": "4d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "upgradeCost": 200000,
+      "upgradeTime": "9d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 7,
+      "upgradeCost": 320000,
+      "upgradeTime": "12d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0182",
+  "imgSrc": "Haste_Spell.png"
+}

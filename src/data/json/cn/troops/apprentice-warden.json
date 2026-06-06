@@ -1,0 +1,46 @@
+{
+  "id": "apprentice-warden",
+  "name": "Apprentice Warden",
+  "nameCn": "守护者学徒",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 170,
+      "damagePerHit": 153,
+      "hp": 1500,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "dps": 185,
+      "damagePerHit": 166.5,
+      "hp": 1650,
+      "upgradeCost": 90000,
+      "upgradeTime": "8d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "dps": 200,
+      "damagePerHit": 180,
+      "hp": 1800,
+      "upgradeCost": 135000,
+      "upgradeTime": "9d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 215,
+      "damagePerHit": 193.5,
+      "hp": 1950,
+      "upgradeCost": 160000,
+      "upgradeTime": "11d",
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_tech/0089",
+  "imgSrc": "Apprentice_Warden_info.png"
+}

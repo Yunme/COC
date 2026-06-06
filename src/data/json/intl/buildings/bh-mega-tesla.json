@@ -1,0 +1,102 @@
+{
+  "id": "bh-mega-tesla",
+  "name": "Mega Tesla",
+  "nameCn": "超级特斯拉电磁塔",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 95,
+      "damagePerHit": 380,
+      "hp": 700,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 2,
+      "dps": 104,
+      "damagePerHit": 416,
+      "hp": 800,
+      "upgradeCost": 3100000,
+      "upgradeTime": "3d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 3,
+      "dps": 115,
+      "damagePerHit": 460,
+      "hp": 950,
+      "upgradeCost": 3200000,
+      "upgradeTime": "4d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 4,
+      "dps": 126,
+      "damagePerHit": 504,
+      "hp": 1100,
+      "upgradeCost": 3300000,
+      "upgradeTime": "5d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 5,
+      "dps": 139,
+      "damagePerHit": 556,
+      "hp": 1300,
+      "upgradeCost": 3400000,
+      "upgradeTime": "6d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 6,
+      "dps": 153,
+      "damagePerHit": 612,
+      "hp": 1500,
+      "upgradeCost": 3600000,
+      "upgradeTime": "7d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 7,
+      "dps": 168,
+      "damagePerHit": 672,
+      "hp": 1700,
+      "upgradeCost": 3800000,
+      "upgradeTime": "8d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 8,
+      "dps": 185,
+      "damagePerHit": 740,
+      "hp": 1900,
+      "upgradeCost": 4000000,
+      "upgradeTime": "10d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 9,
+      "dps": 204,
+      "damagePerHit": 816,
+      "hp": 2150,
+      "upgradeCost": 4800000,
+      "upgradeTime": "11d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 10,
+      "dps": 224,
+      "damagePerHit": 896,
+      "hp": 2400,
+      "upgradeCost": 5800000,
+      "upgradeTime": "12d",
+      "所需夜世界大本等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/110b",
+  "imgSrc": "Mega_Tesla10.png"
+}

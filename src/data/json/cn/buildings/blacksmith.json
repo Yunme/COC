@@ -1,0 +1,75 @@
+{
+  "id": "blacksmith",
+  "name": "Blacksmith",
+  "nameCn": "铁匠铺",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 9,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 700,
+      "upgradeCost": 750000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "hp": 800,
+      "upgradeCost": 1700000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "hp": 900,
+      "upgradeCost": 2300000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "hp": 1000,
+      "upgradeCost": 3000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "hp": 1100,
+      "upgradeCost": 5500000,
+      "upgradeTime": "5d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 6,
+      "hp": 1200,
+      "upgradeCost": 8500000,
+      "upgradeTime": "6d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "hp": 1300,
+      "upgradeCost": 12000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 8,
+      "hp": 1400,
+      "upgradeCost": 12600000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 9,
+      "hp": 1500,
+      "upgradeCost": 16000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_buildings/0488",
+  "imgSrc": "Blacksmith9.png"
+}

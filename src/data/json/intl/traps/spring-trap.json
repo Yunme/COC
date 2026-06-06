@@ -1,0 +1,115 @@
+{
+  "id": "spring-trap",
+  "name": "Spring Trap",
+  "nameCn": "隐形弹簧",
+  "category": "traps",
+  "village": "home",
+  "maxLevel": 13,
+  "levels": [
+    {
+      "level": 1,
+      "可弹飞的最高部队人口数": 10,
+      "对大单位部队的伤害": 0,
+      "upgradeCost": 2000,
+      "townHallLevel": 4
+    },
+    {
+      "level": 2,
+      "可弹飞的最高部队人口数": 12,
+      "对大单位部队的伤害": 250,
+      "upgradeCost": 130000,
+      "upgradeTime": "2h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "可弹飞的最高部队人口数": 14,
+      "对大单位部队的伤害": 300,
+      "upgradeCost": 240000,
+      "upgradeTime": "4h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "可弹飞的最高部队人口数": 16,
+      "对大单位部队的伤害": 350,
+      "upgradeCost": 350000,
+      "upgradeTime": "6h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "可弹飞的最高部队人口数": 18,
+      "对大单位部队的伤害": 400,
+      "upgradeCost": 800000,
+      "upgradeTime": "8h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "可弹飞的最高部队人口数": 18,
+      "对大单位部队的伤害": 500,
+      "upgradeCost": 1000000,
+      "upgradeTime": "12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "可弹飞的最高部队人口数": 18,
+      "对大单位部队的伤害": 600,
+      "upgradeCost": 1700000,
+      "upgradeTime": "1d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 8,
+      "可弹飞的最高部队人口数": 18,
+      "对大单位部队的伤害": 750,
+      "upgradeCost": 2000000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "可弹飞的最高部队人口数": 18,
+      "对大单位部队的伤害": 900,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "可弹飞的最高部队人口数": 18,
+      "对大单位部队的伤害": 1050,
+      "upgradeCost": 4000000,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "可弹飞的最高部队人口数": 18,
+      "对大单位部队的伤害": 1200,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "可弹飞的最高部队人口数": 18,
+      "对大单位部队的伤害": 1300,
+      "upgradeCost": 13000000,
+      "upgradeTime": "9d12h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 13,
+      "可弹飞的最高部队人口数": 18,
+      "对大单位部队的伤害": 1400,
+      "upgradeCost": 16000000,
+      "upgradeTime": "11d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0381",
+  "imgSrc": "Spring_Trap_info.png"
+}

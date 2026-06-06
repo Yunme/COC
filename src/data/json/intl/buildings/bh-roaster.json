@@ -1,0 +1,102 @@
+{
+  "id": "bh-roaster",
+  "name": "Roaster",
+  "nameCn": "熔岩火炮",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "每秒伤害#": 56,
+      "damagePerHit": 15,
+      "hp": 800,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d",
+      "所需夜世界大本等级": 6
+    },
+    {
+      "level": 2,
+      "每秒伤害#": 64,
+      "damagePerHit": 17,
+      "hp": 950,
+      "upgradeCost": 1200000,
+      "upgradeTime": "2d",
+      "所需夜世界大本等级": 6
+    },
+    {
+      "level": 3,
+      "每秒伤害#": 72,
+      "damagePerHit": 19,
+      "hp": 1100,
+      "upgradeCost": 1400000,
+      "upgradeTime": "3d",
+      "所需夜世界大本等级": 6
+    },
+    {
+      "level": 4,
+      "每秒伤害#": 79,
+      "damagePerHit": 21,
+      "hp": 1300,
+      "upgradeCost": 1500000,
+      "upgradeTime": "4d",
+      "所需夜世界大本等级": 6
+    },
+    {
+      "level": 5,
+      "每秒伤害#": 87,
+      "damagePerHit": 23,
+      "hp": 1500,
+      "upgradeCost": 1600000,
+      "upgradeTime": "5d",
+      "所需夜世界大本等级": 6
+    },
+    {
+      "level": 6,
+      "每秒伤害#": 94,
+      "damagePerHit": 25,
+      "hp": 1700,
+      "upgradeCost": 1700000,
+      "upgradeTime": "6d",
+      "所需夜世界大本等级": 6
+    },
+    {
+      "level": 7,
+      "每秒伤害#": 102,
+      "damagePerHit": 27,
+      "hp": 1900,
+      "upgradeCost": 2600000,
+      "upgradeTime": "8d",
+      "所需夜世界大本等级": 7
+    },
+    {
+      "level": 8,
+      "每秒伤害#": 113,
+      "damagePerHit": 30,
+      "hp": 2100,
+      "upgradeCost": 3600000,
+      "upgradeTime": "10d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 9,
+      "每秒伤害#": 125,
+      "damagePerHit": 33,
+      "hp": 2350,
+      "upgradeCost": 4600000,
+      "upgradeTime": "11d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 10,
+      "每秒伤害#": 136,
+      "damagePerHit": 36,
+      "hp": 2600,
+      "upgradeCost": 5600000,
+      "upgradeTime": "12d",
+      "所需夜世界大本等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1109",
+  "imgSrc": "Roaster10.png"
+}

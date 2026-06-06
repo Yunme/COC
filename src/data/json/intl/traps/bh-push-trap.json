@@ -1,0 +1,81 @@
+{
+  "id": "bh-push-trap",
+  "name": "Push Trap",
+  "nameCn": "弹射陷阱",
+  "category": "traps",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "可弹射的总重量": 8,
+      "upgradeCost": 1000,
+      "所需夜世界大本营等级": 2
+    },
+    {
+      "level": 2,
+      "可弹射的总重量": 10,
+      "upgradeCost": 3000,
+      "upgradeTime": "5m",
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 3,
+      "可弹射的总重量": 12,
+      "upgradeCost": 10000,
+      "upgradeTime": "20m",
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 4,
+      "可弹射的总重量": 14,
+      "upgradeCost": 20000,
+      "upgradeTime": "2h",
+      "所需夜世界大本营等级": 4
+    },
+    {
+      "level": 5,
+      "可弹射的总重量": 16,
+      "upgradeCost": 40000,
+      "upgradeTime": "4h",
+      "所需夜世界大本营等级": 5
+    },
+    {
+      "level": 6,
+      "可弹射的总重量": 18,
+      "upgradeCost": 60000,
+      "upgradeTime": "12h",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 7,
+      "可弹射的总重量": 20,
+      "upgradeCost": 100000,
+      "upgradeTime": "16h",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 8,
+      "可弹射的总重量": 22,
+      "upgradeCost": 200000,
+      "upgradeTime": "1d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 9,
+      "可弹射的总重量": 24,
+      "upgradeCost": 300000,
+      "upgradeTime": "1d12h",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 10,
+      "可弹射的总重量": 26,
+      "upgradeCost": 500000,
+      "upgradeTime": "2d",
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1180",
+  "imgSrc": "Push_Trap10.png"
+}

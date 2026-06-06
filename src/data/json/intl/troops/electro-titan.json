@@ -1,0 +1,60 @@
+{
+  "id": "electro-titan",
+  "name": "Electro Titan",
+  "nameCn": "雷霆泰坦",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "普攻伤害(每秒每次)": 180,
+      "光环伤害(每秒每次)": 75,
+      "hp": 7200,
+      "requiredLabLevel": 1,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "普攻伤害(每秒每次)": 200,
+      "光环伤害(每秒每次)": 100,
+      "hp": 7700,
+      "upgradeCost": 14000000,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "普攻伤害(每秒每次)": 220,
+      "光环伤害(每秒每次)": 125,
+      "hp": 8200,
+      "upgradeCost": 16000000,
+      "upgradeTime": "9d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 4,
+      "普攻伤害(每秒每次)": 240,
+      "光环伤害(每秒每次)": 137.5,
+      "hp": 8700,
+      "upgradeCost": 18500000,
+      "upgradeTime": "11d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 5,
+      "普攻伤害(每秒每次)": 270,
+      "光环伤害(每秒每次)": 150,
+      "hp": 9200,
+      "upgradeCost": 30000000,
+      "upgradeTime": "16d",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/000f",
+  "imgSrc": "Electro_Titan_info.png"
+}

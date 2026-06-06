@@ -1,0 +1,103 @@
+{
+  "id": "army-camp",
+  "name": "Army Camp",
+  "nameCn": "兵营",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 13,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 100,
+      "upgradeCost": 200,
+      "upgradeTime": "5m",
+      "townHallLevel": 1
+    },
+    {
+      "level": 2,
+      "hp": 150,
+      "upgradeCost": 2000,
+      "upgradeTime": "15m",
+      "townHallLevel": 2
+    },
+    {
+      "level": 3,
+      "hp": 200,
+      "upgradeCost": 10000,
+      "upgradeTime": "2h",
+      "townHallLevel": 3
+    },
+    {
+      "level": 4,
+      "hp": 250,
+      "upgradeCost": 100000,
+      "upgradeTime": "5h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 5,
+      "hp": 300,
+      "upgradeCost": 250000,
+      "upgradeTime": "8h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 6,
+      "hp": 330,
+      "upgradeCost": 750000,
+      "upgradeTime": "12h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 7,
+      "hp": 400,
+      "upgradeCost": 1500000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 8,
+      "hp": 500,
+      "upgradeCost": 2500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 9,
+      "hp": 600,
+      "upgradeCost": 4200000,
+      "upgradeTime": "4d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 10,
+      "hp": 700,
+      "upgradeCost": 4500000,
+      "upgradeTime": "5d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 11,
+      "hp": 800,
+      "upgradeCost": 9600000,
+      "upgradeTime": "6d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 12,
+      "hp": 850,
+      "upgradeCost": 13500000,
+      "upgradeTime": "7d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 13,
+      "hp": 900,
+      "upgradeCost": 21000000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_buildings/0480",
+  "imgSrc": "Army_Camp13_hd.png"
+}

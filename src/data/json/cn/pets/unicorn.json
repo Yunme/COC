@@ -1,0 +1,115 @@
+{
+  "id": "unicorn",
+  "name": "Unicorn",
+  "nameCn": "独角",
+  "category": "pets",
+  "village": "home",
+  "maxLevel": 15,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 1400,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "hp": 1450,
+      "upgradeCost": 135000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "hp": 1500,
+      "upgradeCost": 142500,
+      "upgradeTime": "2d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "hp": 1550,
+      "upgradeCost": 150000,
+      "upgradeTime": "3d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "hp": 1600,
+      "upgradeCost": 157500,
+      "upgradeTime": "4d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 6,
+      "hp": 1675,
+      "upgradeCost": 165000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "hp": 1725,
+      "upgradeCost": 172500,
+      "upgradeTime": "5d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 8,
+      "hp": 1800,
+      "upgradeCost": 180000,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "hp": 1875,
+      "upgradeCost": 187500,
+      "upgradeTime": "6d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "hp": 1950,
+      "upgradeCost": 195000,
+      "upgradeTime": "6d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "hp": 2025,
+      "upgradeCost": 200000,
+      "upgradeTime": "7d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "hp": 2100,
+      "upgradeCost": 230000,
+      "upgradeTime": "8d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 13,
+      "hp": 2175,
+      "upgradeCost": 260000,
+      "upgradeTime": "8d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "hp": 2250,
+      "upgradeCost": 290000,
+      "upgradeTime": "8d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 15,
+      "hp": 2325,
+      "upgradeCost": 320000,
+      "upgradeTime": "8d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_heroes/0283",
+  "imgSrc": "Unicorn_info.png"
+}

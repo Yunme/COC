@@ -1,0 +1,145 @@
+{
+  "id": "hog-rider",
+  "name": "Hog Rider",
+  "nameCn": "野猪骑士",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 15,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 60,
+      "damagePerHit": 60,
+      "hp": 270,
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "dps": 70,
+      "damagePerHit": 70,
+      "hp": 312,
+      "upgradeCost": 2000,
+      "upgradeTime": "10h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "dps": 80,
+      "damagePerHit": 80,
+      "hp": 370,
+      "upgradeCost": 3500,
+      "upgradeTime": "18h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "dps": 92,
+      "damagePerHit": 92,
+      "hp": 430,
+      "upgradeCost": 5000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "dps": 105,
+      "damagePerHit": 105,
+      "hp": 500,
+      "upgradeCost": 10000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 6,
+      "dps": 118,
+      "damagePerHit": 118,
+      "hp": 590,
+      "upgradeCost": 18500,
+      "upgradeTime": "2d6h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 7,
+      "dps": 140,
+      "damagePerHit": 140,
+      "hp": 700,
+      "upgradeCost": 35000,
+      "upgradeTime": "3d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "dps": 155,
+      "damagePerHit": 155,
+      "hp": 810,
+      "upgradeCost": 47500,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "dps": 165,
+      "damagePerHit": 165,
+      "hp": 890,
+      "upgradeCost": 50000,
+      "upgradeTime": "5d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 176,
+      "damagePerHit": 176,
+      "hp": 970,
+      "upgradeCost": 87500,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "dps": 187,
+      "damagePerHit": 187,
+      "hp": 1080,
+      "upgradeCost": 107500,
+      "upgradeTime": "6d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 12,
+      "dps": 200,
+      "damagePerHit": 200,
+      "hp": 1230,
+      "upgradeCost": 125000,
+      "upgradeTime": "9d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 13,
+      "dps": 213,
+      "damagePerHit": 213,
+      "hp": 1380,
+      "upgradeCost": 175000,
+      "upgradeTime": "11d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 14,
+      "dps": 225,
+      "damagePerHit": 225,
+      "hp": 1500,
+      "upgradeCost": 280000,
+      "upgradeTime": "14d12h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 15,
+      "dps": 250,
+      "damagePerHit": 250,
+      "hp": 1750,
+      "upgradeCost": 340000,
+      "upgradeTime": "14d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0081",
+  "imgSrc": "Hog_Rider_info.png"
+}

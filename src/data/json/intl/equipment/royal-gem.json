@@ -1,0 +1,173 @@
+{
+  "id": "royal-gem",
+  "name": "Royal Gem",
+  "nameCn": "皇家宝石",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "使用技能时的回血属性加成": 1200,
+      "英雄每秒伤害增加": 20,
+      "英雄生命值增加": 40,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "使用技能时的回血属性加成": 1200,
+      "英雄每秒伤害增加": 25,
+      "英雄生命值增加": 60,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "使用技能时的回血属性加成": 1450,
+      "英雄每秒伤害增加": 30,
+      "英雄生命值增加": 80,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 4,
+      "使用技能时的回血属性加成": 1450,
+      "英雄每秒伤害增加": 35,
+      "英雄生命值增加": 100,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "使用技能时的回血属性加成": 1450,
+      "英雄每秒伤害增加": 40,
+      "英雄生命值增加": 120,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 6,
+      "使用技能时的回血属性加成": 1600,
+      "英雄每秒伤害增加": 45,
+      "英雄生命值增加": 140,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "使用技能时的回血属性加成": 1600,
+      "英雄每秒伤害增加": 50,
+      "英雄生命值增加": 160,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "使用技能时的回血属性加成": 1600,
+      "英雄每秒伤害增加": 55,
+      "英雄生命值增加": 180,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "使用技能时的回血属性加成": 1800,
+      "英雄每秒伤害增加": 60,
+      "英雄生命值增加": 200,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "使用技能时的回血属性加成": 1800,
+      "英雄每秒伤害增加": 65,
+      "英雄生命值增加": 220,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "使用技能时的回血属性加成": 1800,
+      "英雄每秒伤害增加": 70,
+      "英雄生命值增加": 240,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 12,
+      "使用技能时的回血属性加成": 2000,
+      "英雄每秒伤害增加": 75,
+      "英雄生命值增加": 260,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 13
+    },
+    {
+      "level": 13,
+      "使用技能时的回血属性加成": 2000,
+      "英雄每秒伤害增加": 80,
+      "英雄生命值增加": 280,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 14,
+      "使用技能时的回血属性加成": 2000,
+      "英雄每秒伤害增加": 85,
+      "英雄生命值增加": 300,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 15,
+      "使用技能时的回血属性加成": 2200,
+      "英雄每秒伤害增加": 90,
+      "英雄生命值增加": 320,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 13
+    },
+    {
+      "level": 16,
+      "使用技能时的回血属性加成": 2200,
+      "英雄每秒伤害增加": 95,
+      "英雄生命值增加": 340,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "使用技能时的回血属性加成": 2200,
+      "英雄每秒伤害增加": 100,
+      "英雄生命值增加": 360,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "使用技能时的回血属性加成": 2400,
+      "英雄每秒伤害增加": 105,
+      "英雄生命值增加": 380,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/07c1",
+  "imgSrc": "Royal_Gem_info.png"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "bomb-tower",
+  "name": "Bomb Tower",
+  "nameCn": "炸弹塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 13,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 24,
+      "damagePerHit": 26.4,
+      "被摧毁后的自爆伤害": 150,
+      "hp": 650,
+      "upgradeCost": 700000,
+      "upgradeTime": "12h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "dps": 28,
+      "damagePerHit": 30.8,
+      "被摧毁后的自爆伤害": 180,
+      "hp": 700,
+      "upgradeCost": 1000000,
+      "upgradeTime": "18h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "dps": 32,
+      "damagePerHit": 35.2,
+      "被摧毁后的自爆伤害": 220,
+      "hp": 750,
+      "upgradeCost": 1300000,
+      "upgradeTime": "1d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "dps": 40,
+      "damagePerHit": 44,
+      "被摧毁后的自爆伤害": 260,
+      "hp": 850,
+      "upgradeCost": 1800000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "dps": 48,
+      "damagePerHit": 52.8,
+      "被摧毁后的自爆伤害": 300,
+      "hp": 1050,
+      "upgradeCost": 1900000,
+      "upgradeTime": "1d18h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "dps": 56,
+      "damagePerHit": 61.6,
+      "被摧毁后的自爆伤害": 350,
+      "hp": 1300,
+      "upgradeCost": 2000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "dps": 64,
+      "damagePerHit": 70.4,
+      "被摧毁后的自爆伤害": 400,
+      "hp": 1600,
+      "upgradeCost": 4000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 8,
+      "dps": 72,
+      "damagePerHit": 79.2,
+      "被摧毁后的自爆伤害": 450,
+      "hp": 1900,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "dps": 84,
+      "damagePerHit": 92.4,
+      "被摧毁后的自爆伤害": 500,
+      "hp": 2300,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "dps": 94,
+      "damagePerHit": 103.4,
+      "被摧毁后的自爆伤害": 550,
+      "hp": 2500,
+      "upgradeCost": 7000000,
+      "upgradeTime": "4d18h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "dps": 104,
+      "damagePerHit": 114.4,
+      "被摧毁后的自爆伤害": 600,
+      "hp": 2700,
+      "upgradeCost": 8500000,
+      "upgradeTime": "5d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 114,
+      "damagePerHit": 125.4,
+      "被摧毁后的自爆伤害": 650,
+      "hp": 2900,
+      "upgradeCost": 14500000,
+      "upgradeTime": "9d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 13,
+      "dps": 122,
+      "damagePerHit": 134.2,
+      "被摧毁后的自爆伤害": 700,
+      "hp": 3050,
+      "upgradeCost": 25000000,
+      "upgradeTime": "13d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0308",
+  "imgSrc": "Bomb_Tower13.png"
+}

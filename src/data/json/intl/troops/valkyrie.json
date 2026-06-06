@@ -1,0 +1,110 @@
+{
+  "id": "valkyrie",
+  "name": "Valkyrie",
+  "nameCn": "瓦基丽武神",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 11,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 94,
+      "damagePerHit": 169.2,
+      "hp": 750,
+      "requiredLabLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "dps": 106,
+      "damagePerHit": 190.8,
+      "hp": 850,
+      "upgradeTime": "8h",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "dps": 119,
+      "damagePerHit": 214.2,
+      "hp": 950,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "dps": 133,
+      "damagePerHit": 239.4,
+      "hp": 1050,
+      "upgradeTime": "1d12h",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "dps": 148,
+      "damagePerHit": 266.4,
+      "hp": 1300,
+      "upgradeTime": "1d18h",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "dps": 167,
+      "damagePerHit": 300.6,
+      "hp": 1500,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "dps": 185,
+      "damagePerHit": 333,
+      "hp": 1650,
+      "upgradeTime": "2d6h",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 8,
+      "dps": 196,
+      "damagePerHit": 352.8,
+      "hp": 1800,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "dps": 208,
+      "damagePerHit": 374.4,
+      "hp": 2000,
+      "upgradeTime": "4d12h",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "dps": 223,
+      "damagePerHit": 401.4,
+      "hp": 2400,
+      "upgradeTime": "5d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "dps": 238,
+      "damagePerHit": 428.4,
+      "hp": 2600,
+      "upgradeTime": "6d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0082",
+  "imgSrc": "Valkyrie_info.png"
+}

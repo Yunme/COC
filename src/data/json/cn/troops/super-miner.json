@@ -1,0 +1,42 @@
+{
+  "id": "super-miner",
+  "name": "Super Miner",
+  "nameCn": "超级矿工",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 7,
+      "dps": 170,
+      "hp": 3000
+    },
+    {
+      "level": 8,
+      "dps": 185,
+      "hp": 3300
+    },
+    {
+      "level": 9,
+      "dps": 205,
+      "hp": 3600
+    },
+    {
+      "level": 10,
+      "dps": 225,
+      "hp": 4000
+    },
+    {
+      "level": 11,
+      "dps": 245,
+      "hp": 4400
+    },
+    {
+      "level": 12,
+      "dps": 265,
+      "hp": 5000
+    }
+  ],
+  "imgFolder": "home_tech/060e",
+  "imgSrc": "Super_Miner_info.png"
+}

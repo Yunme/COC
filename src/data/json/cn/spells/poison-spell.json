@@ -1,0 +1,82 @@
+{
+  "id": "poison-spell",
+  "name": "Poison Spell",
+  "nameCn": "伤害药水法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "upgradeCost": 5000,
+      "upgradeTime": "6h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "upgradeCost": 10000,
+      "upgradeTime": "18h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "upgradeCost": 21500,
+      "upgradeTime": "2d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "upgradeCost": 35000,
+      "upgradeTime": "3d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "upgradeCost": 55000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "upgradeCost": 77500,
+      "upgradeTime": "5d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "upgradeCost": 100000,
+      "upgradeTime": "6d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "upgradeCost": 135000,
+      "upgradeTime": "7d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "upgradeCost": 175000,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 11,
+      "upgradeCost": 230000,
+      "upgradeTime": "9d16h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "upgradeCost": 350000,
+      "upgradeTime": "14d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0180",
+  "imgSrc": "Poison_Spell.png"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "valkyrie",
+  "name": "Valkyrie",
+  "nameCn": "瓦基丽武神",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 11,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 94,
+      "damagePerHit": 169.2,
+      "hp": 750,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "dps": 106,
+      "damagePerHit": 190.8,
+      "hp": 850,
+      "upgradeCost": 3000,
+      "upgradeTime": "12h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "dps": 119,
+      "damagePerHit": 214.2,
+      "hp": 950,
+      "upgradeCost": 5000,
+      "upgradeTime": "1d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "dps": 133,
+      "damagePerHit": 239.4,
+      "hp": 1050,
+      "upgradeCost": 10000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "dps": 148,
+      "damagePerHit": 266.4,
+      "hp": 1300,
+      "upgradeCost": 16000,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "dps": 167,
+      "damagePerHit": 300.6,
+      "hp": 1500,
+      "upgradeCost": 31500,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "dps": 185,
+      "damagePerHit": 333,
+      "hp": 1650,
+      "upgradeCost": 55000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 8,
+      "dps": 196,
+      "damagePerHit": 352.8,
+      "hp": 1800,
+      "upgradeCost": 77500,
+      "upgradeTime": "5d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "dps": 208,
+      "damagePerHit": 374.4,
+      "hp": 2000,
+      "upgradeCost": 107500,
+      "upgradeTime": "7d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "dps": 223,
+      "damagePerHit": 401.4,
+      "hp": 2400,
+      "upgradeCost": 120000,
+      "upgradeTime": "9d12h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "dps": 238,
+      "damagePerHit": 428.4,
+      "hp": 2600,
+      "upgradeCost": 170000,
+      "upgradeTime": "11d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0082",
+  "imgSrc": "Valkyrie_info.png"
+}

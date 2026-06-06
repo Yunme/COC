@@ -1,0 +1,136 @@
+{
+  "id": "golem",
+  "name": "Golem",
+  "nameCn": "戈仑石人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 35,
+      "damagePerHit": 84,
+      "hp": 5100,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "dps": 40,
+      "damagePerHit": 96,
+      "hp": 5400,
+      "upgradeCost": 4000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "dps": 45,
+      "damagePerHit": 108,
+      "hp": 5700,
+      "upgradeCost": 6000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "dps": 50,
+      "damagePerHit": 120,
+      "hp": 6000,
+      "upgradeCost": 10000,
+      "upgradeTime": "2d6h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "dps": 55,
+      "damagePerHit": 132,
+      "hp": 6300,
+      "upgradeCost": 18500,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "dps": 60,
+      "damagePerHit": 144,
+      "hp": 6600,
+      "upgradeCost": 26500,
+      "upgradeTime": "2d20h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "dps": 65,
+      "damagePerHit": 156,
+      "hp": 7000,
+      "upgradeCost": 38500,
+      "upgradeTime": "4d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "dps": 70,
+      "damagePerHit": 168,
+      "hp": 7500,
+      "upgradeCost": 50000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "dps": 75,
+      "damagePerHit": 180,
+      "hp": 7900,
+      "upgradeCost": 62500,
+      "upgradeTime": "5d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 80,
+      "damagePerHit": 192,
+      "hp": 8200,
+      "upgradeCost": 80000,
+      "upgradeTime": "6d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "dps": 85,
+      "damagePerHit": 204,
+      "hp": 8500,
+      "upgradeCost": 105000,
+      "upgradeTime": "7d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 12,
+      "dps": 90,
+      "damagePerHit": 216,
+      "hp": 8800,
+      "upgradeCost": 122500,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 13,
+      "dps": 95,
+      "damagePerHit": 228,
+      "hp": 9200,
+      "upgradeCost": 175000,
+      "upgradeTime": "11d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 14,
+      "dps": 100,
+      "damagePerHit": 240,
+      "hp": 9600,
+      "upgradeCost": 280000,
+      "upgradeTime": "14d16h",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0083",
+  "imgSrc": "Golem_info.png"
+}

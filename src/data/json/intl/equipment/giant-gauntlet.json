@@ -1,0 +1,281 @@
+{
+  "id": "giant-gauntlet",
+  "name": "Giant Gauntlet",
+  "nameCn": "巨型手套",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 27,
+  "levels": [
+    {
+      "level": 1,
+      "技能持续时间": 14,
+      "受到的伤害减少": 20,
+      "每秒伤害增加": 17,
+      "每秒自愈血量": 6,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "技能持续时间": 14,
+      "受到的伤害减少": 20,
+      "每秒伤害增加": 20,
+      "每秒自愈血量": 8,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "技能持续时间": 14.5,
+      "受到的伤害减少": 25,
+      "每秒伤害增加": 23,
+      "每秒自愈血量": 10,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "技能持续时间": 14.5,
+      "受到的伤害减少": 25,
+      "每秒伤害增加": 26,
+      "每秒自愈血量": 12,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "技能持续时间": 14.5,
+      "受到的伤害减少": 25,
+      "每秒伤害增加": 29,
+      "每秒自愈血量": 14,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "技能持续时间": 15,
+      "受到的伤害减少": 30,
+      "每秒伤害增加": 32,
+      "每秒自愈血量": 16,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "技能持续时间": 15,
+      "受到的伤害减少": 30,
+      "每秒伤害增加": 34,
+      "每秒自愈血量": 18,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 8,
+      "技能持续时间": 15,
+      "受到的伤害减少": 30,
+      "每秒伤害增加": 37,
+      "每秒自愈血量": 20,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 9,
+      "技能持续时间": 15.5,
+      "受到的伤害减少": 35,
+      "每秒伤害增加": 43,
+      "每秒自愈血量": 22,
+      "upgradeCost": 10,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 10,
+      "技能持续时间": 15.5,
+      "受到的伤害减少": 35,
+      "每秒伤害增加": 53,
+      "每秒自愈血量": 24,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 11,
+      "技能持续时间": 15.5,
+      "受到的伤害减少": 35,
+      "每秒伤害增加": 63,
+      "每秒自愈血量": 26,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 12,
+      "技能持续时间": 16,
+      "受到的伤害减少": 40,
+      "每秒伤害增加": 74,
+      "每秒自愈血量": 28,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 13,
+      "技能持续时间": 16,
+      "受到的伤害减少": 40,
+      "每秒伤害增加": 84,
+      "每秒自愈血量": 30,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 14,
+      "技能持续时间": 16,
+      "受到的伤害减少": 40,
+      "每秒伤害增加": 94,
+      "每秒自愈血量": 31,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 15,
+      "技能持续时间": 16.5,
+      "受到的伤害减少": 45,
+      "每秒伤害增加": 104,
+      "每秒自愈血量": 32,
+      "upgradeCost": 30,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 16,
+      "技能持续时间": 16.5,
+      "受到的伤害减少": 45,
+      "每秒伤害增加": 115,
+      "每秒自愈血量": 33,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 17,
+      "技能持续时间": 16.5,
+      "受到的伤害减少": 45,
+      "每秒伤害增加": 125,
+      "每秒自愈血量": 34,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 18,
+      "技能持续时间": 17,
+      "受到的伤害减少": 50,
+      "每秒伤害增加": 135,
+      "每秒自愈血量": 35,
+      "upgradeCost": 50,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 19,
+      "技能持续时间": 17,
+      "受到的伤害减少": 50,
+      "每秒伤害增加": 137,
+      "每秒自愈血量": 36,
+      "upgradeCost": 2800,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 20,
+      "技能持续时间": 17,
+      "受到的伤害减少": 50,
+      "每秒伤害增加": 140,
+      "每秒自愈血量": 36,
+      "upgradeCost": 2900,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 21,
+      "技能持续时间": 17.5,
+      "受到的伤害减少": 50,
+      "每秒伤害增加": 142,
+      "每秒自愈血量": 37,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 22,
+      "技能持续时间": 17.5,
+      "受到的伤害减少": 50,
+      "每秒伤害增加": 145,
+      "每秒自愈血量": 37,
+      "upgradeCost": 3100,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 23,
+      "技能持续时间": 17.5,
+      "受到的伤害减少": 50,
+      "每秒伤害增加": 147,
+      "每秒自愈血量": 38,
+      "upgradeCost": 3200,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 24,
+      "技能持续时间": 18,
+      "受到的伤害减少": 55,
+      "每秒伤害增加": 150,
+      "每秒自愈血量": 38,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 25,
+      "技能持续时间": 18,
+      "受到的伤害减少": 55,
+      "每秒伤害增加": 152,
+      "每秒自愈血量": 39,
+      "upgradeCost": 3400,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 26,
+      "技能持续时间": 18,
+      "受到的伤害减少": 55,
+      "每秒伤害增加": 155,
+      "每秒自愈血量": 39,
+      "upgradeCost": 3500,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 27,
+      "技能持续时间": 19,
+      "受到的伤害减少": 60,
+      "每秒伤害增加": 160,
+      "每秒自愈血量": 40,
+      "upgradeCost": 150,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/0704",
+  "imgSrc": "Giant_Gauntlet_info.png"
+}

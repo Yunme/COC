@@ -1,0 +1,74 @@
+{
+  "id": "clone-spell",
+  "name": "Clone Spell",
+  "nameCn": "镜像法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "最大复制人口数": 22,
+      "requiredLabLevel": 1,
+      "townHallLevel": 10
+    },
+    {
+      "level": 2,
+      "最大复制人口数": 24,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 3,
+      "最大复制人口数": 26,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "最大复制人口数": 28,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d6h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "最大复制人口数": 30,
+      "upgradeCost": 4000000,
+      "upgradeTime": "2d12h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "最大复制人口数": 34,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "最大复制人口数": 38,
+      "upgradeCost": 8000000,
+      "upgradeTime": "5d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 8,
+      "最大复制人口数": 42,
+      "upgradeCost": 9000000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_tech/0105",
+  "imgSrc": "Clone_Spell.png"
+}

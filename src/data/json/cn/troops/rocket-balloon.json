@@ -1,0 +1,60 @@
+{
+  "id": "rocket-balloon",
+  "name": "Rocket Balloon",
+  "nameCn": "火箭气球兵",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 8,
+      "dps": 270,
+      "damagePerHit": 810,
+      "hp": 840
+    },
+    {
+      "level": 9,
+      "dps": 280,
+      "damagePerHit": 840,
+      "hp": 940
+    },
+    {
+      "level": 10,
+      "dps": 285,
+      "damagePerHit": 855,
+      "hp": 1040
+    },
+    {
+      "level": 11,
+      "dps": 290,
+      "damagePerHit": 870,
+      "hp": 1140
+    },
+    {
+      "level": 12,
+      "dps": 304,
+      "damagePerHit": 912,
+      "hp": 1240
+    },
+    {
+      "level": 5,
+      "dps": 170,
+      "damagePerHit": 510,
+      "hp": 390
+    },
+    {
+      "level": 6,
+      "dps": 220,
+      "damagePerHit": 660,
+      "hp": 545
+    },
+    {
+      "level": 7,
+      "dps": 260,
+      "damagePerHit": 780,
+      "hp": 690
+    }
+  ],
+  "imgFolder": "home_tech/060b",
+  "imgSrc": "Rocket_Balloon_info.png"
+}

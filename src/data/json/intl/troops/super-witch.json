@@ -1,0 +1,40 @@
+{
+  "id": "super-witch",
+  "name": "Super Witch",
+  "nameCn": "超级女巫",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 5,
+      "dps": 360,
+      "damagePerHit": 252,
+      "hp": 3200,
+      "townHallLevel": 12
+    },
+    {
+      "level": 6,
+      "dps": 390,
+      "damagePerHit": 273,
+      "hp": 3400,
+      "townHallLevel": 15
+    },
+    {
+      "level": 7,
+      "dps": 430,
+      "damagePerHit": 301,
+      "hp": 3750,
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "dps": 470,
+      "damagePerHit": 329,
+      "hp": 4100,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0605",
+  "imgSrc": "Super_Witch_info.png"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "healer",
+  "name": "Healer",
+  "nameCn": "天使",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 11,
+  "levels": [
+    {
+      "level": 1,
+      "对部队的每秒治疗量": 36,
+      "对英雄的每秒治疗量": 19,
+      "hp": 500,
+      "requiredLabLevel": 1,
+      "townHallLevel": 6
+    },
+    {
+      "level": 2,
+      "对部队的每秒治疗量": 48,
+      "对英雄的每秒治疗量": 26,
+      "hp": 700,
+      "upgradeCost": 450000,
+      "upgradeTime": "12h",
+      "requiredLabLevel": 5,
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "对部队的每秒治疗量": 60,
+      "对英雄的每秒治疗量": 33,
+      "hp": 900,
+      "upgradeCost": 900000,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "对部队的每秒治疗量": 66,
+      "对英雄的每秒治疗量": 36,
+      "hp": 1200,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "对部队的每秒治疗量": 72,
+      "对英雄的每秒治疗量": 48,
+      "hp": 1500,
+      "upgradeCost": 4000000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "对部队的每秒治疗量": 72,
+      "对英雄的每秒治疗量": 56,
+      "hp": 1600,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d12h",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 7,
+      "对部队的每秒治疗量": 72,
+      "对英雄的每秒治疗量": 62,
+      "hp": 1700,
+      "upgradeCost": 9500000,
+      "upgradeTime": "6d12h",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 8,
+      "对部队的每秒治疗量": 76,
+      "对英雄的每秒治疗量": 68,
+      "hp": 1800,
+      "upgradeCost": 11000000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 9,
+      "对部队的每秒治疗量": 80,
+      "对英雄的每秒治疗量": 75,
+      "hp": 1900,
+      "upgradeCost": 13000000,
+      "upgradeTime": "7d6h",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 10,
+      "对部队的每秒治疗量": 80,
+      "对英雄的每秒治疗量": 78,
+      "hp": 2000,
+      "upgradeCost": 17000000,
+      "upgradeTime": "11d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 11,
+      "对部队的每秒治疗量": 82,
+      "对英雄的每秒治疗量": 88,
+      "hp": 2100,
+      "upgradeCost": 28500000,
+      "upgradeTime": "15d",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0007",
+  "imgSrc": "Healer_info.png"
+}

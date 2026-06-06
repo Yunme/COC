@@ -1,0 +1,109 @@
+{
+  "id": "clan-castle",
+  "name": "Clan Castle",
+  "nameCn": "部落城堡",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 600,
+      "upgradeCost": 10000,
+      "townHallLevel": 3
+    },
+    {
+      "level": 2,
+      "hp": 1200,
+      "upgradeCost": 100000,
+      "upgradeTime": "8h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 3,
+      "hp": 1800,
+      "upgradeCost": 800000,
+      "upgradeTime": "12h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 4,
+      "hp": 2600,
+      "upgradeCost": 1200000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "hp": 3000,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 6,
+      "hp": 3400,
+      "upgradeCost": 4200000,
+      "upgradeTime": "4d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 7,
+      "hp": 4000,
+      "upgradeCost": 5500000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "hp": 4400,
+      "upgradeCost": 6400000,
+      "upgradeTime": "5d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "hp": 4800,
+      "upgradeCost": 10000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "hp": 5200,
+      "upgradeCost": 12600000,
+      "upgradeTime": "7d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "hp": 5400,
+      "upgradeCost": 16200000,
+      "upgradeTime": "11d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "hp": 5600,
+      "upgradeCost": 16500000,
+      "upgradeTime": "12d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "hp": 5800,
+      "upgradeCost": 20500000,
+      "upgradeTime": "16d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "hp": 6000,
+      "upgradeCost": 28000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0407",
+  "imgSrc": "Clan_Castle14_hd.png"
+}

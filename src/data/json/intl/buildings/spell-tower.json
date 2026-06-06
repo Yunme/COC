@@ -1,0 +1,44 @@
+{
+  "id": "spell-tower",
+  "name": "Spell Tower",
+  "nameCn": "法术塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 2500,
+      "upgradeCost": 9000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 15,
+      "解锁的法术": "<a href=\"/upgrade/0102-Rage-Spell\">狂暴法术</a>"
+    },
+    {
+      "level": 2,
+      "hp": 2800,
+      "upgradeCost": 11000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15,
+      "解锁的法术": "<a href=\"/upgrade/0180-Poison-Spell\">毒药法术</a>"
+    },
+    {
+      "level": 3,
+      "hp": 3100,
+      "upgradeCost": 12000000,
+      "upgradeTime": "8d12h",
+      "townHallLevel": 15,
+      "解锁的法术": "<a href=\"/upgrade/0106-Invisibility-Spell\">隐形法术</a>"
+    },
+    {
+      "level": 4,
+      "hp": 3200,
+      "upgradeCost": 27000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 17,
+      "解锁的法术": "<a href=\"/upgrade/0181-Earthquake-Spell\">地震法术</a>"
+    }
+  ],
+  "imgFolder": "home_buildings/0311",
+  "imgSrc": "Spell_Tower4_Rage.png"
+}

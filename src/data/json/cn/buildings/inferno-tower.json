@@ -1,0 +1,120 @@
+{
+  "id": "inferno-tower",
+  "name": "Inferno Tower",
+  "nameCn": "地狱之塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 30,
+      "damagePerHit": 102.4,
+      "hp": 1500,
+      "upgradeCost": 1000000,
+      "upgradeTime": "12h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 2,
+      "dps": 35,
+      "damagePerHit": 128,
+      "hp": 1800,
+      "upgradeCost": 1200000,
+      "upgradeTime": "1d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 3,
+      "dps": 40,
+      "damagePerHit": 153.6,
+      "hp": 2100,
+      "upgradeCost": 2400000,
+      "upgradeTime": "2d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "dps": 45,
+      "damagePerHit": 179.2,
+      "hp": 2400,
+      "upgradeCost": 3400000,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "dps": 50,
+      "damagePerHit": 192,
+      "hp": 2700,
+      "upgradeCost": 4000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "dps": 55,
+      "damagePerHit": 204.8,
+      "hp": 3000,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "dps": 65,
+      "damagePerHit": 230.4,
+      "hp": 3300,
+      "upgradeCost": 8000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "dps": 80,
+      "damagePerHit": 268.8,
+      "hp": 3700,
+      "upgradeCost": 9500000,
+      "upgradeTime": "6d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "dps": 100,
+      "damagePerHit": 294.4,
+      "hp": 4000,
+      "upgradeCost": 10000000,
+      "upgradeTime": "6d12h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "dps": 120,
+      "damagePerHit": 332.8,
+      "hp": 4400,
+      "upgradeCost": 11000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 11,
+      "dps": 140,
+      "damagePerHit": 371.2,
+      "hp": 4800,
+      "upgradeCost": 16000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "dps": 155,
+      "damagePerHit": 422.4,
+      "hp": 5100,
+      "upgradeCost": 26500000,
+      "upgradeTime": "13d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/030a",
+  "imgSrc": "Inferno_Tower12.png"
+}

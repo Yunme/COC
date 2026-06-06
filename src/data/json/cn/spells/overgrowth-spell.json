@@ -1,0 +1,34 @@
+{
+  "id": "overgrowth-spell",
+  "name": "Overgrowth Spell",
+  "nameCn": "疯狂蔓生法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "townHallLevel": 12
+    },
+    {
+      "level": 2,
+      "upgradeCost": 62500,
+      "upgradeTime": "5d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "upgradeCost": 125000,
+      "upgradeTime": "8d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "upgradeCost": 175000,
+      "upgradeTime": "10d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0185",
+  "imgSrc": "Overgrowth_Spell.png"
+}

@@ -1,0 +1,173 @@
+{
+  "id": "action-figure",
+  "name": "Action Figure",
+  "nameCn": "动作人偶",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 27,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 28,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "dps": 32,
+      "upgradeCost": 120,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "dps": 36,
+      "upgradeCost": 240,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "dps": 40,
+      "upgradeCost": 400,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "dps": 44,
+      "upgradeCost": 600,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 48,
+      "upgradeCost": 840,
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "dps": 53,
+      "upgradeCost": 1120,
+      "townHallLevel": 8
+    },
+    {
+      "level": 8,
+      "dps": 58,
+      "upgradeCost": 1440,
+      "townHallLevel": 8
+    },
+    {
+      "level": 9,
+      "dps": 63,
+      "upgradeCost": 1800,
+      "townHallLevel": 8
+    },
+    {
+      "level": 10,
+      "dps": 68,
+      "upgradeCost": 1900,
+      "townHallLevel": 8
+    },
+    {
+      "level": 11,
+      "dps": 74,
+      "upgradeCost": 2000,
+      "townHallLevel": 8
+    },
+    {
+      "level": 12,
+      "dps": 80,
+      "upgradeCost": 2100,
+      "townHallLevel": 8
+    },
+    {
+      "level": 13,
+      "dps": 84,
+      "upgradeCost": 2200,
+      "townHallLevel": 10
+    },
+    {
+      "level": 14,
+      "dps": 89,
+      "upgradeCost": 2300,
+      "townHallLevel": 10
+    },
+    {
+      "level": 15,
+      "dps": 94,
+      "upgradeCost": 2400,
+      "townHallLevel": 10
+    },
+    {
+      "level": 16,
+      "dps": 98,
+      "upgradeCost": 2500,
+      "townHallLevel": 12
+    },
+    {
+      "level": 17,
+      "dps": 102,
+      "upgradeCost": 2600,
+      "townHallLevel": 12
+    },
+    {
+      "level": 18,
+      "dps": 106,
+      "upgradeCost": 2700,
+      "townHallLevel": 12
+    },
+    {
+      "level": 19,
+      "dps": 109,
+      "upgradeCost": 2800,
+      "townHallLevel": 14
+    },
+    {
+      "level": 20,
+      "dps": 112,
+      "upgradeCost": 2900,
+      "townHallLevel": 14
+    },
+    {
+      "level": 21,
+      "dps": 116,
+      "upgradeCost": 3000,
+      "townHallLevel": 14
+    },
+    {
+      "level": 22,
+      "dps": 119,
+      "upgradeCost": 3100,
+      "townHallLevel": 15
+    },
+    {
+      "level": 23,
+      "dps": 122,
+      "upgradeCost": 3200,
+      "townHallLevel": 15
+    },
+    {
+      "level": 24,
+      "dps": 125,
+      "upgradeCost": 3300,
+      "townHallLevel": 15
+    },
+    {
+      "level": 25,
+      "dps": 128,
+      "upgradeCost": 3400,
+      "townHallLevel": 16
+    },
+    {
+      "level": 26,
+      "dps": 132,
+      "upgradeCost": 3500,
+      "townHallLevel": 16
+    },
+    {
+      "level": 27,
+      "dps": 135,
+      "upgradeCost": 3600,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/0746",
+  "imgSrc": "Action_Figure_info.png"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "flame-flinger",
+  "name": "Flame Flinger",
+  "nameCn": "攻城烈焰车",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 127,
+      "damagePerHit": 225,
+      "hp": 1700,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "dps": 141,
+      "damagePerHit": 250,
+      "hp": 1800,
+      "upgradeCost": 5500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "dps": 155,
+      "damagePerHit": 275,
+      "hp": 1900,
+      "upgradeCost": 8000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 169,
+      "damagePerHit": 300,
+      "hp": 2000,
+      "upgradeCost": 10000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "dps": 184,
+      "damagePerHit": 325,
+      "hp": 2100,
+      "upgradeCost": 18000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0245",
+  "imgSrc": "Flame_Flinger.png"
+}

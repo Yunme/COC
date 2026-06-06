@@ -1,0 +1,82 @@
+{
+  "id": "super-dragon",
+  "name": "Super Dragon",
+  "nameCn": "超级飞龙",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 3,
+      "平均每秒伤害": 286,
+      "damagePerHit": 108,
+      "hp": 3900,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "平均每秒伤害": 309,
+      "damagePerHit": 117,
+      "hp": 4500,
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "平均每秒伤害": 333,
+      "damagePerHit": 126,
+      "hp": 5100,
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "平均每秒伤害": 357,
+      "damagePerHit": 135,
+      "hp": 5600,
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "平均每秒伤害": 381,
+      "damagePerHit": 144,
+      "hp": 6100,
+      "townHallLevel": 12
+    },
+    {
+      "level": 8,
+      "平均每秒伤害": 405,
+      "damagePerHit": 153,
+      "hp": 6400,
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "平均每秒伤害": 429,
+      "damagePerHit": 162,
+      "hp": 6700,
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "平均每秒伤害": 452,
+      "damagePerHit": 171,
+      "hp": 7200,
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "平均每秒伤害": 471,
+      "damagePerHit": 178.2,
+      "hp": 7600,
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "平均每秒伤害": 490,
+      "damagePerHit": 185.4,
+      "hp": 8000,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/060d",
+  "imgSrc": "Super_Dragon_info.png"
+}

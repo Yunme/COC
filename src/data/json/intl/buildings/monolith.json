@@ -1,0 +1,52 @@
+{
+  "id": "monolith",
+  "name": "Monolith",
+  "nameCn": "巨石碑",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "基础伤害(每秒)": 150,
+      "基础伤害(每次)": 225,
+      "额外伤害": 11,
+      "hp": 4747,
+      "upgradeCost": 200000,
+      "upgradeTime": "7d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 2,
+      "基础伤害(每秒)": 175,
+      "基础伤害(每次)": 262.5,
+      "额外伤害": 12,
+      "hp": 5050,
+      "upgradeCost": 250000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 3,
+      "基础伤害(每秒)": 193,
+      "基础伤害(每次)": 289.5,
+      "额外伤害": 13,
+      "hp": 5353,
+      "upgradeCost": 260000,
+      "upgradeTime": "9d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 4,
+      "基础伤害(每秒)": 209,
+      "基础伤害(每次)": 313.5,
+      "额外伤害": 14,
+      "hp": 5656,
+      "upgradeCost": 300000,
+      "upgradeTime": "12d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_buildings/0312",
+  "imgSrc": "Monolith4_info.png"
+}

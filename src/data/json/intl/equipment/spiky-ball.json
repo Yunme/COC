@@ -1,0 +1,281 @@
+{
+  "id": "spiky-ball",
+  "name": "Spiky Ball",
+  "nameCn": "尖刺足球",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 27,
+  "levels": [
+    {
+      "level": 1,
+      "足球的目标数量": 2,
+      "足球的弹射伤害": 1000,
+      "英雄每秒伤害增加": 35,
+      "英雄生命值增加": 365,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "足球的目标数量": 2,
+      "足球的弹射伤害": 1000,
+      "英雄每秒伤害增加": 38,
+      "英雄生命值增加": 475,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "足球的目标数量": 3,
+      "足球的弹射伤害": 1250,
+      "英雄每秒伤害增加": 42,
+      "英雄生命值增加": 590,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "足球的目标数量": 3,
+      "足球的弹射伤害": 1250,
+      "英雄每秒伤害增加": 45,
+      "英雄生命值增加": 703,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "足球的目标数量": 3,
+      "足球的弹射伤害": 1250,
+      "英雄每秒伤害增加": 49,
+      "英雄生命值增加": 815,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "足球的目标数量": 4,
+      "足球的弹射伤害": 1500,
+      "英雄每秒伤害增加": 52,
+      "英雄生命值增加": 928,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "足球的目标数量": 4,
+      "足球的弹射伤害": 1500,
+      "英雄每秒伤害增加": 55,
+      "英雄生命值增加": 1040,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 8,
+      "足球的目标数量": 4,
+      "足球的弹射伤害": 1500,
+      "英雄每秒伤害增加": 58,
+      "英雄生命值增加": 1153,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 9,
+      "足球的目标数量": 5,
+      "足球的弹射伤害": 1750,
+      "英雄每秒伤害增加": 65,
+      "英雄生命值增加": 1265,
+      "upgradeCost": 10,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 10,
+      "足球的目标数量": 5,
+      "足球的弹射伤害": 1750,
+      "英雄每秒伤害增加": 76,
+      "英雄生命值增加": 1378,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 11,
+      "足球的目标数量": 5,
+      "足球的弹射伤害": 1750,
+      "英雄每秒伤害增加": 88,
+      "英雄生命值增加": 1490,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 12,
+      "足球的目标数量": 6,
+      "足球的弹射伤害": 2000,
+      "英雄每秒伤害增加": 101,
+      "英雄生命值增加": 1603,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 13,
+      "足球的目标数量": 6,
+      "足球的弹射伤害": 2000,
+      "英雄每秒伤害增加": 112,
+      "英雄生命值增加": 1715,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 14,
+      "足球的目标数量": 6,
+      "足球的弹射伤害": 2000,
+      "英雄每秒伤害增加": 124,
+      "英雄生命值增加": 1828,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 15,
+      "足球的目标数量": 6,
+      "足球的弹射伤害": 2250,
+      "英雄每秒伤害增加": 135,
+      "英雄生命值增加": 1940,
+      "upgradeCost": 30,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 16,
+      "足球的目标数量": 6,
+      "足球的弹射伤害": 2250,
+      "英雄每秒伤害增加": 148,
+      "英雄生命值增加": 2053,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 17,
+      "足球的目标数量": 6,
+      "足球的弹射伤害": 2250,
+      "英雄每秒伤害增加": 159,
+      "英雄生命值增加": 2165,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 18,
+      "足球的目标数量": 7,
+      "足球的弹射伤害": 2500,
+      "英雄每秒伤害增加": 171,
+      "英雄生命值增加": 2278,
+      "upgradeCost": 50,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 19,
+      "足球的目标数量": 7,
+      "足球的弹射伤害": 2500,
+      "英雄每秒伤害增加": 176,
+      "英雄生命值增加": 2390,
+      "upgradeCost": 2800,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 20,
+      "足球的目标数量": 7,
+      "足球的弹射伤害": 2500,
+      "英雄每秒伤害增加": 182,
+      "英雄生命值增加": 2503,
+      "upgradeCost": 2900,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 21,
+      "足球的目标数量": 7,
+      "足球的弹射伤害": 2750,
+      "英雄每秒伤害增加": 188,
+      "英雄生命值增加": 2615,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 22,
+      "足球的目标数量": 7,
+      "足球的弹射伤害": 2750,
+      "英雄每秒伤害增加": 194,
+      "英雄生命值增加": 2728,
+      "upgradeCost": 3100,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 23,
+      "足球的目标数量": 7,
+      "足球的弹射伤害": 2750,
+      "英雄每秒伤害增加": 199,
+      "英雄生命值增加": 2840,
+      "upgradeCost": 3200,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 24,
+      "足球的目标数量": 7,
+      "足球的弹射伤害": 3000,
+      "英雄每秒伤害增加": 205,
+      "英雄生命值增加": 2953,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 25,
+      "足球的目标数量": 7,
+      "足球的弹射伤害": 3000,
+      "英雄每秒伤害增加": 211,
+      "英雄生命值增加": 3065,
+      "upgradeCost": 3400,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 26,
+      "足球的目标数量": 7,
+      "足球的弹射伤害": 3000,
+      "英雄每秒伤害增加": 217,
+      "英雄生命值增加": 3178,
+      "upgradeCost": 3500,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 27,
+      "足球的目标数量": 8,
+      "足球的弹射伤害": 3250,
+      "英雄每秒伤害增加": 222,
+      "英雄生命值增加": 3290,
+      "upgradeCost": 150,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/0705",
+  "imgSrc": "Spiky_Ball_info.png"
+}

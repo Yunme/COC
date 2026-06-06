@@ -1,0 +1,42 @@
+{
+  "id": "super-barbarian",
+  "name": "Super Barbarian",
+  "nameCn": "超级野蛮人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 8,
+      "dps": 180,
+      "damagePerHit": 144,
+      "hp": 1000
+    },
+    {
+      "level": 9,
+      "dps": 200,
+      "damagePerHit": 160,
+      "hp": 1100
+    },
+    {
+      "level": 10,
+      "dps": 220,
+      "damagePerHit": 176,
+      "hp": 1200
+    },
+    {
+      "level": 11,
+      "dps": 240,
+      "damagePerHit": 192,
+      "hp": 1300
+    },
+    {
+      "level": 12,
+      "dps": 250,
+      "damagePerHit": 200,
+      "hp": 1350
+    }
+  ],
+  "imgFolder": "home_tech/0600",
+  "imgSrc": "Super_Barbarian_info.png"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ice-block-spell",
+  "name": "Ice Block Spell",
+  "nameCn": "冰障法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "所受伤害减少": 86,
+      "法术持续时间": 7,
+      "requiredLabLevel": 1,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "所受伤害减少": 88,
+      "法术持续时间": 7,
+      "upgradeCost": 140000,
+      "upgradeTime": "10d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "所受伤害减少": 90,
+      "法术持续时间": 7,
+      "upgradeCost": 200000,
+      "upgradeTime": "11d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 4,
+      "所受伤害减少": 92,
+      "法术持续时间": 7,
+      "upgradeCost": 280000,
+      "upgradeTime": "14d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 5,
+      "所受伤害减少": 94,
+      "法术持续时间": 7,
+      "upgradeCost": 320000,
+      "upgradeTime": "16d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0186",
+  "imgSrc": "Ice_Block_Spell_info.png"
+}

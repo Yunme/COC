@@ -1,0 +1,110 @@
+{
+  "id": "lightning-spell",
+  "name": "Lightning Spell",
+  "nameCn": "雷电法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 13,
+  "levels": [
+    {
+      "level": 1,
+      "总伤害": 150,
+      "所需实验室等级<sup>*<Sup>": 1,
+      "townHallLevel": 5
+    },
+    {
+      "level": 2,
+      "总伤害": 180,
+      "upgradeTime": "2h",
+      "所需实验室等级<sup>*<Sup>": 1,
+      "townHallLevel": 5
+    },
+    {
+      "level": 3,
+      "总伤害": 210,
+      "upgradeTime": "4h",
+      "所需实验室等级<sup>*<Sup>": 2,
+      "townHallLevel": 5
+    },
+    {
+      "level": 4,
+      "总伤害": 240,
+      "upgradeTime": "6h",
+      "所需实验室等级<sup>*<Sup>": 3,
+      "townHallLevel": 5
+    },
+    {
+      "level": 5,
+      "总伤害": 270,
+      "upgradeTime": "1d",
+      "所需实验室等级<sup>*<Sup>": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "总伤害": 320,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d12h",
+      "所需实验室等级<sup>*<Sup>": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "总伤害": 400,
+      "upgradeCost": 2500000,
+      "upgradeTime": "3d",
+      "所需实验室等级<sup>*<Sup>": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 8,
+      "总伤害": 480,
+      "upgradeCost": 4200000,
+      "upgradeTime": "3d12h",
+      "所需实验室等级<sup>*<Sup>": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "总伤害": 560,
+      "upgradeCost": 6300000,
+      "upgradeTime": "5d",
+      "所需实验室等级<sup>*<Sup>": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "总伤害": 600,
+      "upgradeCost": 10000000,
+      "upgradeTime": "6d",
+      "所需实验室等级<sup>*<Sup>": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "总伤害": 640,
+      "upgradeCost": 13500000,
+      "upgradeTime": "7d",
+      "所需实验室等级<sup>*<Sup>": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "总伤害": 680,
+      "upgradeCost": 18500000,
+      "upgradeTime": "10d",
+      "所需实验室等级<sup>*<Sup>": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 13,
+      "总伤害": 720,
+      "upgradeCost": 27000000,
+      "upgradeTime": "14d",
+      "所需实验室等级<sup>*<Sup>": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0100",
+  "imgSrc": "Lightning_Spell.png"
+}

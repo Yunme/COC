@@ -1,0 +1,39 @@
+{
+  "id": "multi-gear-tower",
+  "name": "Multi Gear Tower",
+  "nameCn": "复合机械塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 350,
+      "damagePerHit": 350,
+      "hp": 4000,
+      "upgradeCost": 17000000,
+      "upgradeTime": "10d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 2,
+      "dps": 370,
+      "damagePerHit": 370,
+      "hp": 4200,
+      "upgradeCost": 18000000,
+      "upgradeTime": "10d18h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 3,
+      "dps": 390,
+      "damagePerHit": 390,
+      "hp": 4350,
+      "upgradeCost": 28000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0317",
+  "imgSrc": "Multi-Gear_Tower3_LongRange_hd.png"
+}

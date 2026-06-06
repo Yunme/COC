@@ -1,0 +1,137 @@
+{
+  "id": "minion",
+  "name": "Minion",
+  "nameCn": "亡灵",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 38,
+      "damagePerHit": 38,
+      "hp": 58,
+      "requiredLabLevel": 1,
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "dps": 41,
+      "damagePerHit": 41,
+      "hp": 63,
+      "upgradeTime": "6h",
+      "requiredLabLevel": 5,
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "dps": 44,
+      "damagePerHit": 44,
+      "hp": 68,
+      "upgradeTime": "8h",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "dps": 47,
+      "damagePerHit": 47,
+      "hp": 73,
+      "upgradeTime": "12h",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "dps": 50,
+      "damagePerHit": 50,
+      "hp": 78,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 6,
+      "dps": 54,
+      "damagePerHit": 54,
+      "hp": 84,
+      "upgradeTime": "1d12h",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 7,
+      "dps": 58,
+      "damagePerHit": 58,
+      "hp": 90,
+      "upgradeTime": "1d18h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "dps": 62,
+      "damagePerHit": 62,
+      "hp": 96,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "dps": 66,
+      "damagePerHit": 66,
+      "hp": 102,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "dps": 70,
+      "damagePerHit": 70,
+      "hp": 108,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 74,
+      "damagePerHit": 74,
+      "hp": 114,
+      "upgradeTime": "4d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 78,
+      "damagePerHit": 78,
+      "hp": 120,
+      "upgradeTime": "6d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "dps": 84,
+      "damagePerHit": 84,
+      "hp": 130,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "dps": 92,
+      "damagePerHit": 92,
+      "hp": 140,
+      "upgradeTime": "14d",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0080",
+  "imgSrc": "Minion_info.png"
+}

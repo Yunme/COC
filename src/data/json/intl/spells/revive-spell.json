@@ -1,0 +1,50 @@
+{
+  "id": "revive-spell",
+  "name": "Revive Spell",
+  "nameCn": "复苏法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "复苏后回复的血量": 60,
+      "requiredLabLevel": 1,
+      "townHallLevel": 15
+    },
+    {
+      "level": 2,
+      "复苏后回复的血量": 65,
+      "upgradeCost": 18000000,
+      "upgradeTime": "8d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 3,
+      "复苏后回复的血量": 70,
+      "upgradeCost": 19000000,
+      "upgradeTime": "10d12h",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 4,
+      "复苏后回复的血量": 75,
+      "upgradeCost": 20000000,
+      "upgradeTime": "11d12h",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 5,
+      "复苏后回复的血量": 80,
+      "upgradeCost": 29500000,
+      "upgradeTime": "16d",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0108",
+  "imgSrc": "Revive_Spell_info.png"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "bh-crusher",
+  "name": "Crusher",
+  "nameCn": "撼地巨石",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 125,
+      "damagePerHit": 438,
+      "hp": 1000,
+      "upgradeTime": "2h",
+      "所需夜世界大本等级": 3
+    },
+    {
+      "level": 2,
+      "dps": 138,
+      "damagePerHit": 483,
+      "hp": 1100,
+      "upgradeTime": "5h",
+      "所需夜世界大本等级": 3
+    },
+    {
+      "level": 3,
+      "dps": 152,
+      "damagePerHit": 532,
+      "hp": 1250,
+      "upgradeTime": "12h",
+      "所需夜世界大本等级": 3
+    },
+    {
+      "level": 4,
+      "dps": 167,
+      "damagePerHit": 585,
+      "hp": 1400,
+      "upgradeTime": "1d",
+      "所需夜世界大本等级": 4
+    },
+    {
+      "level": 5,
+      "dps": 184,
+      "damagePerHit": 644,
+      "hp": 1600,
+      "upgradeCost": 1200000,
+      "upgradeTime": "2d",
+      "所需夜世界大本等级": 5
+    },
+    {
+      "level": 6,
+      "dps": 202,
+      "damagePerHit": 707,
+      "hp": 1850,
+      "upgradeCost": 1500000,
+      "upgradeTime": "4d",
+      "所需夜世界大本等级": 6
+    },
+    {
+      "level": 7,
+      "dps": 222,
+      "damagePerHit": 777,
+      "hp": 2100,
+      "upgradeCost": 2400000,
+      "upgradeTime": "6d",
+      "所需夜世界大本等级": 7
+    },
+    {
+      "level": 8,
+      "dps": 244,
+      "damagePerHit": 854,
+      "hp": 2350,
+      "upgradeCost": 3400000,
+      "upgradeTime": "8d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 9,
+      "dps": 269,
+      "damagePerHit": 942,
+      "hp": 2600,
+      "upgradeCost": 4400000,
+      "upgradeTime": "10d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 10,
+      "dps": 296,
+      "damagePerHit": 1036,
+      "hp": 2900,
+      "upgradeCost": 5400000,
+      "upgradeTime": "12d",
+      "所需夜世界大本等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1105",
+  "imgSrc": "Crusher10.png"
+}

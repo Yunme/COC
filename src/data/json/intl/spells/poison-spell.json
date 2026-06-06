@@ -1,0 +1,119 @@
+{
+  "id": "poison-spell",
+  "name": "Poison Spell",
+  "nameCn": "毒药法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "每秒最大伤害": 90,
+      "移动速度降低幅度": 26,
+      "攻击速度降低幅度": 35,
+      "requiredLabLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "每秒最大伤害": 115,
+      "移动速度降低幅度": 30,
+      "攻击速度降低幅度": 40,
+      "upgradeTime": "6h",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "每秒最大伤害": 145,
+      "移动速度降低幅度": 34,
+      "攻击速度降低幅度": 45,
+      "upgradeTime": "18h",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "每秒最大伤害": 180,
+      "移动速度降低幅度": 38,
+      "攻击速度降低幅度": 50,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "每秒最大伤害": 220,
+      "移动速度降低幅度": 40,
+      "攻击速度降低幅度": 55,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "每秒最大伤害": 260,
+      "移动速度降低幅度": 42,
+      "攻击速度降低幅度": 60,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "每秒最大伤害": 280,
+      "移动速度降低幅度": 44,
+      "攻击速度降低幅度": 65,
+      "upgradeTime": "5d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "每秒最大伤害": 300,
+      "移动速度降低幅度": 46,
+      "攻击速度降低幅度": 68,
+      "upgradeTime": "6d12h",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "每秒最大伤害": 320,
+      "移动速度降低幅度": 48,
+      "攻击速度降低幅度": 70,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "每秒最大伤害": 340,
+      "移动速度降低幅度": 50,
+      "攻击速度降低幅度": 72,
+      "upgradeTime": "8d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 11,
+      "每秒最大伤害": 360,
+      "移动速度降低幅度": 51,
+      "攻击速度降低幅度": 73,
+      "upgradeTime": "9d16h",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "每秒最大伤害": 380,
+      "移动速度降低幅度": 52,
+      "攻击速度降低幅度": 74,
+      "upgradeTime": "14d12h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0180",
+  "imgSrc": "Poison_Spell.png"
+}

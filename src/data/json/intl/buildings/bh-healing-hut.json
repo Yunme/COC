@@ -1,0 +1,60 @@
+{
+  "id": "bh-healing-hut",
+  "name": "Healing Hut",
+  "nameCn": "治疗小屋",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 1,
+      "血量恢复比例": 4,
+      "hp": 600,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d6h",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 2,
+      "血量恢复比例": 8,
+      "hp": 690,
+      "upgradeCost": 2000000,
+      "upgradeTime": "2d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 3,
+      "血量恢复比例": 12,
+      "hp": 800,
+      "upgradeCost": 2500000,
+      "upgradeTime": "3d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 4,
+      "血量恢复比例": 16,
+      "hp": 910,
+      "upgradeCost": 3250000,
+      "upgradeTime": "4d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 5,
+      "血量恢复比例": 20,
+      "hp": 1050,
+      "upgradeCost": 4000000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 6,
+      "血量恢复比例": 24,
+      "hp": 1250,
+      "upgradeCost": 5000000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1286",
+  "imgSrc": "Healing_Hut6.png"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "ice-golem",
+  "name": "Ice Golem",
+  "nameCn": "戈仑冰人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 9,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 24,
+      "damagePerHit": 48,
+      "hp": 2600,
+      "townHallLevel": 11
+    },
+    {
+      "level": 2,
+      "dps": 28,
+      "damagePerHit": 56,
+      "hp": 2800,
+      "upgradeCost": 27500,
+      "upgradeTime": "2d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 3,
+      "dps": 32,
+      "damagePerHit": 64,
+      "hp": 3000,
+      "upgradeCost": 42500,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 4,
+      "dps": 36,
+      "damagePerHit": 72,
+      "hp": 3200,
+      "upgradeCost": 50000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 5,
+      "dps": 40,
+      "damagePerHit": 80,
+      "hp": 3400,
+      "upgradeCost": 62500,
+      "upgradeTime": "5d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 6,
+      "dps": 44,
+      "damagePerHit": 88,
+      "hp": 3600,
+      "upgradeCost": 110000,
+      "upgradeTime": "9d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "dps": 48,
+      "damagePerHit": 96,
+      "hp": 3900,
+      "upgradeCost": 140000,
+      "upgradeTime": "10d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 8,
+      "dps": 52,
+      "damagePerHit": 104,
+      "hp": 4200,
+      "upgradeCost": 180000,
+      "upgradeTime": "12d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 9,
+      "dps": 56,
+      "damagePerHit": 112,
+      "hp": 4350,
+      "upgradeCost": 300000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0087",
+  "imgSrc": "Ice_Golem_info.png"
+}

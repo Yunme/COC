@@ -1,0 +1,116 @@
+{
+  "id": "army-camp",
+  "name": "Army Camp",
+  "nameCn": "兵营",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 13,
+  "levels": [
+    {
+      "level": 1,
+      "可容纳的部队人口": 20,
+      "hp": 100,
+      "upgradeCost": 200,
+      "upgradeTime": "1m",
+      "townHallLevel": 1
+    },
+    {
+      "level": 2,
+      "可容纳的部队人口": 30,
+      "hp": 150,
+      "upgradeCost": 2000,
+      "upgradeTime": "5m",
+      "townHallLevel": 2
+    },
+    {
+      "level": 3,
+      "可容纳的部队人口": 35,
+      "hp": 200,
+      "upgradeCost": 10000,
+      "upgradeTime": "30m",
+      "townHallLevel": 3
+    },
+    {
+      "level": 4,
+      "可容纳的部队人口": 40,
+      "hp": 250,
+      "upgradeCost": 100000,
+      "upgradeTime": "2h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 5,
+      "可容纳的部队人口": 45,
+      "hp": 300,
+      "upgradeCost": 250000,
+      "upgradeTime": "6h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 6,
+      "可容纳的部队人口": 50,
+      "hp": 330,
+      "upgradeCost": 500000,
+      "upgradeTime": "12h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 7,
+      "可容纳的部队人口": 55,
+      "hp": 400,
+      "upgradeCost": 1500000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 8,
+      "可容纳的部队人口": 60,
+      "hp": 500,
+      "upgradeCost": 2500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 9,
+      "可容纳的部队人口": 65,
+      "hp": 600,
+      "upgradeCost": 4200000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 10,
+      "可容纳的部队人口": 70,
+      "hp": 700,
+      "upgradeCost": 4500000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 11,
+      "可容纳的部队人口": 75,
+      "hp": 800,
+      "upgradeCost": 7500000,
+      "upgradeTime": "5d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 12,
+      "可容纳的部队人口": 80,
+      "hp": 850,
+      "upgradeCost": 10000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 13,
+      "可容纳的部队人口": 85,
+      "hp": 900,
+      "upgradeCost": 17000000,
+      "upgradeTime": "10d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_buildings/0480",
+  "imgSrc": "Army_Camp13_hd.png"
+}

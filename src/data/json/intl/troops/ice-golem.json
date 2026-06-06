@@ -1,0 +1,110 @@
+{
+  "id": "ice-golem",
+  "name": "Ice Golem",
+  "nameCn": "戈仑冰人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 9,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 24,
+      "damagePerHit": 48,
+      "进攻时死亡冰冻时间": 4,
+      "防守时死亡冰冻时间": 2,
+      "hp": 2600,
+      "requiredLabLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 2,
+      "dps": 28,
+      "damagePerHit": 56,
+      "进攻时死亡冰冻时间": 4.75,
+      "防守时死亡冰冻时间": 2.25,
+      "hp": 2800,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 3,
+      "dps": 32,
+      "damagePerHit": 64,
+      "进攻时死亡冰冻时间": 5.5,
+      "防守时死亡冰冻时间": 2.5,
+      "hp": 3000,
+      "upgradeTime": "2d12h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 4,
+      "dps": 36,
+      "damagePerHit": 72,
+      "进攻时死亡冰冻时间": 6.25,
+      "防守时死亡冰冻时间": 2.75,
+      "hp": 3200,
+      "upgradeTime": "3d6h",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 5,
+      "dps": 40,
+      "damagePerHit": 80,
+      "进攻时死亡冰冻时间": 7,
+      "防守时死亡冰冻时间": 3,
+      "hp": 3400,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 6,
+      "dps": 44,
+      "damagePerHit": 88,
+      "进攻时死亡冰冻时间": 7.5,
+      "防守时死亡冰冻时间": 3.25,
+      "hp": 3600,
+      "upgradeTime": "6d12h",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "dps": 48,
+      "damagePerHit": 96,
+      "进攻时死亡冰冻时间": 8,
+      "防守时死亡冰冻时间": 3.25,
+      "hp": 3900,
+      "upgradeTime": "7d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 8,
+      "dps": 52,
+      "damagePerHit": 104,
+      "进攻时死亡冰冻时间": 8.5,
+      "防守时死亡冰冻时间": 3.25,
+      "hp": 4200,
+      "upgradeTime": "8d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 9,
+      "dps": 56,
+      "damagePerHit": 112,
+      "进攻时死亡冰冻时间": 9,
+      "防守时死亡冰冻时间": 3.25,
+      "hp": 4350,
+      "upgradeTime": "10d14h",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0087",
+  "imgSrc": "Ice_Golem_info.png"
+}

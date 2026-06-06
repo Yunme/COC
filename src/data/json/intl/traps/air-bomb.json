@@ -1,0 +1,102 @@
+{
+  "id": "air-bomb",
+  "name": "Air Bomb",
+  "nameCn": "空中炸弹",
+  "category": "traps",
+  "village": "home",
+  "maxLevel": 13,
+  "levels": [
+    {
+      "level": 1,
+      "爆炸伤害": 100,
+      "upgradeCost": 4000,
+      "townHallLevel": 5
+    },
+    {
+      "level": 2,
+      "爆炸伤害": 120,
+      "upgradeCost": 20000,
+      "upgradeTime": "30m",
+      "townHallLevel": 5
+    },
+    {
+      "level": 3,
+      "爆炸伤害": 144,
+      "upgradeCost": 75000,
+      "upgradeTime": "1h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 4,
+      "爆炸伤害": 173,
+      "upgradeCost": 300000,
+      "upgradeTime": "4h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "爆炸伤害": 208,
+      "upgradeCost": 550000,
+      "upgradeTime": "8h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "爆炸伤害": 232,
+      "upgradeCost": 800000,
+      "upgradeTime": "12h",
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "爆炸伤害": 252,
+      "upgradeCost": 1000000,
+      "upgradeTime": "16h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "爆炸伤害": 280,
+      "upgradeCost": 1200000,
+      "upgradeTime": "18h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "爆炸伤害": 325,
+      "upgradeCost": 2000000,
+      "upgradeTime": "1d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "爆炸伤害": 350,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "爆炸伤害": 375,
+      "upgradeCost": 5000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "爆炸伤害": 400,
+      "upgradeCost": 9500000,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 13,
+      "爆炸伤害": 425,
+      "upgradeCost": 15000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0382",
+  "imgSrc": "Air_Bomb_info.png"
+}

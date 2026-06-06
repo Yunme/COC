@@ -1,0 +1,300 @@
+.app {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.app-header {
+  text-align: center;
+  padding: 24px 0 16px;
+}
+
+.app-header h1 {
+  font-size: 26px;
+  color: var(--primary);
+  margin-bottom: 6px;
+}
+
+.subtitle {
+  color: var(--text-dim);
+  font-size: 13px;
+}
+
+/* Main tabs (家乡 / 夜世界) */
+.main-tabs {
+  display: flex;
+  gap: 0;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+.main-tabs button {
+  padding: 10px 40px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-dim);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.main-tabs button:first-child {
+  border-radius: 6px 0 0 6px;
+}
+
+.main-tabs button:last-child {
+  border-radius: 0 6px 6px 0;
+}
+
+.main-tabs button:hover {
+  background: var(--surface-hover);
+  color: var(--text);
+}
+
+.main-tabs .main-tab-active {
+  background: var(--primary);
+  color: #000;
+  border-color: var(--primary);
+}
+
+/* Category tabs */
+.category-tabs {
+  display: flex;
+  gap: 4px;
+  justify-content: center;
+  margin-bottom: 24px;
+  background: var(--surface);
+  border-radius: 8px;
+  padding: 4px;
+}
+
+.category-tabs button {
+  padding: 8px 20px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text-dim);
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.category-tabs button:hover {
+  color: var(--text);
+  background: var(--surface-hover);
+}
+
+.category-tabs .tab-active {
+  background: var(--primary);
+  color: #000;
+  font-weight: 600;
+}
+
+/* Item list grid */
+.item-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 12px;
+}
+
+.item-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 12px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.item-card:hover {
+  background: var(--surface-hover);
+  border-color: var(--primary-dim);
+  transform: translateY(-2px);
+}
+
+.item-card-img {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+}
+
+.item-card-img img {
+  max-height: 60px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.item-card-name {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+/* Item detail page */
+.item-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.gp-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 16px;
+  background: var(--surface);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.gp-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.gp-btns {
+  display: flex;
+  gap: 6px;
+}
+
+.gp-btn {
+  padding: 5px 14px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--text-dim);
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.gp-btn:hover {
+  background: var(--surface-hover);
+  color: var(--text);
+}
+
+.gp-btn-active {
+  background: var(--primary);
+  color: #000;
+  border-color: var(--primary);
+  font-weight: 600;
+}
+
+.back-btn {
+  align-self: flex-start;
+  padding: 8px 16px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text);
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.back-btn:hover {
+  background: var(--surface-hover);
+}
+
+.item-section {
+  background: var(--surface);
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.item-title {
+  font-size: 18px;
+  color: var(--primary);
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.time-summary {
+  display: flex;
+  gap: 20px;
+  padding: 10px 0 14px;
+  font-size: 14px;
+  color: var(--text);
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 12px;
+}
+
+.time-summary span {
+  white-space: nowrap;
+}
+
+.time-summary strong {
+  color: var(--primary);
+}
+
+.diff-same {
+  color: var(--text-dim);
+}
+
+.diff-positive {
+  color: #f44336;
+}
+
+.diff-negative {
+  color: #4caf50;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.table-wrapper {
+  overflow-y: auto;
+  max-height: calc(100vh - 280px);
+}
+
+thead {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+th, td {
+  padding: 8px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+th {
+  background: var(--surface);
+  color: var(--text-dim);
+  font-weight: 500;
+  white-space: pre-line;
+  line-height: 1.4;
+  border-bottom: 1px solid var(--border);
+}
+
+td {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  white-space: nowrap;
+}
+
+.table-body tr:hover {
+  background: var(--surface-hover);
+}
+
+.row-diff {
+  background: var(--diff-bg);
+}
+
+.diff-cell {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+

@@ -1,0 +1,74 @@
+{
+  "id": "haste-spell",
+  "name": "Haste Spell",
+  "nameCn": "急速法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 1,
+      "速度提升<sup>#<Sup>": 28,
+      "持续时间": 10,
+      "作用半径": 4,
+      "requiredLabLevel": 1,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "速度提升<sup>#<Sup>": 34,
+      "持续时间": 15,
+      "作用半径": 4,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "速度提升<sup>#<Sup>": 40,
+      "持续时间": 20,
+      "作用半径": 4,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "速度提升<sup>#<Sup>": 46,
+      "持续时间": 25,
+      "作用半径": 4,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "速度提升<sup>#<Sup>": 52,
+      "持续时间": 30,
+      "作用半径": 4,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "速度提升<sup>#<Sup>": 56,
+      "持续时间": 30,
+      "作用半径": 4,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 7,
+      "速度提升<sup>#<Sup>": 56,
+      "持续时间": 30,
+      "作用半径": 5,
+      "upgradeTime": "12d12h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0182",
+  "imgSrc": "Haste_Spell.png"
+}

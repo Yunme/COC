@@ -1,0 +1,114 @@
+{
+  "id": "healing-spell",
+  "name": "Healing Spell",
+  "nameCn": "疗伤法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "最大总治疗量(部队)<sup>①<Sup>": 615,
+      "最大总治疗量(英雄)": 338.25,
+      "所需实验室等级<sup>②<Sup>": 2,
+      "townHallLevel": 6
+    },
+    {
+      "level": 2,
+      "最大总治疗量(部队)<sup>①<Sup>": 820,
+      "最大总治疗量(英雄)": 451,
+      "upgradeTime": "3h",
+      "所需实验室等级<sup>②<Sup>": 2,
+      "townHallLevel": 6
+    },
+    {
+      "level": 3,
+      "最大总治疗量(部队)<sup>①<Sup>": 1025,
+      "最大总治疗量(英雄)": 563.75,
+      "upgradeTime": "6h",
+      "所需实验室等级<sup>②<Sup>": 4,
+      "townHallLevel": 6
+    },
+    {
+      "level": 4,
+      "最大总治疗量(部队)<sup>①<Sup>": 1230,
+      "最大总治疗量(英雄)": 676.5,
+      "upgradeTime": "12h",
+      "所需实验室等级<sup>②<Sup>": 5,
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "最大总治疗量(部队)<sup>①<Sup>": 1435,
+      "最大总治疗量(英雄)": 789.25,
+      "upgradeTime": "1d",
+      "所需实验室等级<sup>②<Sup>": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "最大总治疗量(部队)<sup>①<Sup>": 1640,
+      "最大总治疗量(英雄)": 902,
+      "upgradeCost": 1800000,
+      "upgradeTime": "1d12h",
+      "所需实验室等级<sup>②<Sup>": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "最大总治疗量(部队)<sup>①<Sup>": 1845,
+      "最大总治疗量(英雄)": 1014.75,
+      "upgradeCost": 3000000,
+      "upgradeTime": "3d",
+      "所需实验室等级<sup>②<Sup>": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 8,
+      "最大总治疗量(部队)<sup>①<Sup>": 2050,
+      "最大总治疗量(英雄)": 1127.5,
+      "upgradeCost": 6000000,
+      "upgradeTime": "5d",
+      "所需实验室等级<sup>②<Sup>": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "最大总治疗量(部队)<sup>①<Sup>": 2255,
+      "最大总治疗量(英雄)": 1240.25,
+      "upgradeCost": 11000000,
+      "upgradeTime": "6d12h",
+      "所需实验室等级<sup>②<Sup>": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "最大总治疗量(部队)<sup>①<Sup>": 2460,
+      "最大总治疗量(英雄)": 1353,
+      "upgradeCost": 14000000,
+      "upgradeTime": "7d",
+      "所需实验室等级<sup>②<Sup>": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 11,
+      "最大总治疗量(部队)<sup>①<Sup>": 2747,
+      "最大总治疗量(英雄)": 1510.85,
+      "upgradeCost": 19000000,
+      "upgradeTime": "10d12h",
+      "所需实验室等级<sup>②<Sup>": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "最大总治疗量(部队)<sup>①<Sup>": 3075,
+      "最大总治疗量(英雄)": 1691.25,
+      "upgradeCost": 29000000,
+      "upgradeTime": "15d",
+      "所需实验室等级<sup>②<Sup>": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0101",
+  "imgSrc": "Healing_Spell.png"
+}

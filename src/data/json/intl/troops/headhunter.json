@@ -1,0 +1,47 @@
+{
+  "id": "headhunter",
+  "name": "Headhunter",
+  "nameCn": "英雄猎手",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 105,
+      "damagePerHit": 63,
+      "每秒伤害(对英雄)": 420,
+      "每次伤害(对英雄)": 252,
+      "毒药法术效果<sup>*<Sup>": 40,
+      "hp": 360,
+      "requiredLabLevel": 1,
+      "townHallLevel": 12
+    },
+    {
+      "level": 2,
+      "dps": 115,
+      "damagePerHit": 69,
+      "每秒伤害(对英雄)": 460,
+      "每次伤害(对英雄)": 276,
+      "毒药法术效果<sup>*<Sup>": 42,
+      "hp": 400,
+      "upgradeTime": "5d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "dps": 125,
+      "damagePerHit": 75,
+      "每秒伤害(对英雄)": 500,
+      "每次伤害(对英雄)": 300,
+      "毒药法术效果<sup>*<Sup>": 44,
+      "hp": 440,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    }
+  ],
+  "imgFolder": "home_tech/0088",
+  "imgSrc": "Headhunter_info.png"
+}

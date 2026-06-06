@@ -1,0 +1,173 @@
+{
+  "id": "electro-fangs",
+  "name": "Electro Fangs",
+  "nameCn": "雷电獠牙",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "damagePerHit": 330,
+      "目标数量": 1,
+      "英雄生命值提升": 400,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 2,
+      "damagePerHit": 330,
+      "目标数量": 1,
+      "英雄生命值提升": 650,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 3,
+      "damagePerHit": 340,
+      "目标数量": 2,
+      "英雄生命值提升": 850,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "damagePerHit": 340,
+      "目标数量": 2,
+      "英雄生命值提升": 1000,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 5,
+      "damagePerHit": 340,
+      "目标数量": 2,
+      "英雄生命值提升": 1150,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 6,
+      "damagePerHit": 350,
+      "目标数量": 2,
+      "英雄生命值提升": 1300,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 7,
+      "damagePerHit": 350,
+      "目标数量": 2,
+      "英雄生命值提升": 1450,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 8,
+      "damagePerHit": 350,
+      "目标数量": 2,
+      "英雄生命值提升": 1600,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 9,
+      "damagePerHit": 360,
+      "目标数量": 3,
+      "英雄生命值提升": 1750,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 10,
+      "damagePerHit": 360,
+      "目标数量": 3,
+      "英雄生命值提升": 1900,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 11,
+      "damagePerHit": 360,
+      "目标数量": 3,
+      "英雄生命值提升": 2000,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "damagePerHit": 370,
+      "目标数量": 3,
+      "英雄生命值提升": 2100,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 13,
+      "damagePerHit": 370,
+      "目标数量": 3,
+      "英雄生命值提升": 2200,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "damagePerHit": 370,
+      "目标数量": 3,
+      "英雄生命值提升": 2275,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 15,
+      "damagePerHit": 380,
+      "目标数量": 4,
+      "英雄生命值提升": 2325,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 16,
+      "damagePerHit": 380,
+      "目标数量": 4,
+      "英雄生命值提升": 2375,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 17,
+      "damagePerHit": 380,
+      "目标数量": 4,
+      "英雄生命值提升": 2400,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    },
+    {
+      "level": 18,
+      "damagePerHit": 400,
+      "目标数量": 4,
+      "英雄生命值提升": 2400,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 10,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_heroes/07e4",
+  "imgSrc": "Electro_Fangs_info.png"
+}

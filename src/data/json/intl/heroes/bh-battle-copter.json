@@ -1,0 +1,200 @@
+{
+  "id": "bh-battle-copter",
+  "name": "Battle Copter",
+  "nameCn": "战斗直升机",
+  "category": "heroes",
+  "village": "builder",
+  "maxLevel": 21,
+  "levels": [
+    {
+      "level": 15,
+      "dps": 112,
+      "damagePerHit": 72.8,
+      "hp": 2857,
+      "upgradeCost": 2500000,
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 16,
+      "dps": 116,
+      "damagePerHit": 75.4,
+      "hp": 2885,
+      "upgradeCost": 2600000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 17,
+      "dps": 119,
+      "damagePerHit": 77.35,
+      "hp": 2915,
+      "upgradeCost": 2700000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 18,
+      "dps": 123,
+      "damagePerHit": 79.95,
+      "hp": 2943,
+      "upgradeCost": 2800000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 19,
+      "dps": 126,
+      "damagePerHit": 81.9,
+      "hp": 2972,
+      "upgradeCost": 2900000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 20,
+      "dps": 130,
+      "damagePerHit": 84.5,
+      "hp": 3003,
+      "upgradeCost": 3000000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 21,
+      "dps": 134,
+      "damagePerHit": 87.1,
+      "hp": 3032,
+      "upgradeCost": 3100000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 22,
+      "dps": 137,
+      "damagePerHit": 89.05,
+      "hp": 3062,
+      "upgradeCost": 3200000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 23,
+      "dps": 141,
+      "damagePerHit": 91.65,
+      "hp": 3094,
+      "upgradeCost": 3300000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 24,
+      "dps": 144,
+      "damagePerHit": 93.6,
+      "hp": 3124,
+      "upgradeCost": 3400000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 25,
+      "dps": 148,
+      "damagePerHit": 96.2,
+      "hp": 3155,
+      "upgradeCost": 3500000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 26,
+      "dps": 153,
+      "damagePerHit": 99.45,
+      "hp": 3187,
+      "upgradeCost": 3600000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 27,
+      "dps": 157,
+      "damagePerHit": 102.05,
+      "hp": 3220,
+      "upgradeCost": 3700000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 28,
+      "dps": 162,
+      "damagePerHit": 105.3,
+      "hp": 3252,
+      "upgradeCost": 3800000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 29,
+      "dps": 166,
+      "damagePerHit": 107.9,
+      "hp": 3285,
+      "upgradeCost": 3900000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 30,
+      "dps": 171,
+      "damagePerHit": 111.15,
+      "hp": 3318,
+      "upgradeCost": 4000000,
+      "upgradeTime": "6d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 31,
+      "dps": 175,
+      "damagePerHit": 113.75,
+      "hp": 3348,
+      "upgradeCost": 4100000,
+      "upgradeTime": "7d",
+      "所需夜世界大本营等级": 10
+    },
+    {
+      "level": 32,
+      "dps": 180,
+      "damagePerHit": 117,
+      "hp": 3375,
+      "upgradeCost": 4200000,
+      "upgradeTime": "7d",
+      "所需夜世界大本营等级": 10
+    },
+    {
+      "level": 33,
+      "dps": 184,
+      "damagePerHit": 119.6,
+      "hp": 3402,
+      "upgradeCost": 4300000,
+      "upgradeTime": "7d",
+      "所需夜世界大本营等级": 10
+    },
+    {
+      "level": 34,
+      "dps": 189,
+      "damagePerHit": 122.85,
+      "hp": 3429,
+      "upgradeCost": 4400000,
+      "upgradeTime": "7d",
+      "所需夜世界大本营等级": 10
+    },
+    {
+      "level": 35,
+      "dps": 193,
+      "damagePerHit": 125.45,
+      "hp": 3456,
+      "upgradeCost": 4500000,
+      "upgradeTime": "7d",
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_tech/10f1",
+  "imgSrc": "Battle_Copter_info.png"
+}

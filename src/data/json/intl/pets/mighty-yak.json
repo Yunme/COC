@@ -1,0 +1,175 @@
+{
+  "id": "mighty-yak",
+  "name": "Mighty Yak",
+  "nameCn": "大牦",
+  "category": "pets",
+  "village": "home",
+  "maxLevel": 15,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 60,
+      "damagePerHit": 126,
+      "对墙每次伤害": 2520,
+      "hp": 3750,
+      "requiredPetHouseLevel": 3,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "dps": 64,
+      "damagePerHit": 134.4,
+      "对墙每次伤害": 2688,
+      "hp": 4000,
+      "upgradeCost": 40000,
+      "upgradeTime": "1d",
+      "requiredPetHouseLevel": 3,
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "dps": 68,
+      "damagePerHit": 142.8,
+      "对墙每次伤害": 2856,
+      "hp": 4250,
+      "upgradeCost": 50000,
+      "upgradeTime": "1d12h",
+      "requiredPetHouseLevel": 3,
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 72,
+      "damagePerHit": 151.2,
+      "对墙每次伤害": 3024,
+      "hp": 4500,
+      "upgradeCost": 60000,
+      "upgradeTime": "2d",
+      "requiredPetHouseLevel": 3,
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "dps": 76,
+      "damagePerHit": 159.6,
+      "对墙每次伤害": 3192,
+      "hp": 4750,
+      "upgradeCost": 70000,
+      "upgradeTime": "2d12h",
+      "requiredPetHouseLevel": 3,
+      "townHallLevel": 14
+    },
+    {
+      "level": 6,
+      "dps": 80,
+      "damagePerHit": 168,
+      "对墙每次伤害": 3360,
+      "hp": 4950,
+      "upgradeCost": 80000,
+      "upgradeTime": "3d",
+      "requiredPetHouseLevel": 3,
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "dps": 84,
+      "damagePerHit": 176.4,
+      "对墙每次伤害": 3528,
+      "hp": 5100,
+      "upgradeCost": 90000,
+      "upgradeTime": "3d12h",
+      "requiredPetHouseLevel": 3,
+      "townHallLevel": 14
+    },
+    {
+      "level": 8,
+      "dps": 88,
+      "damagePerHit": 184.8,
+      "对墙每次伤害": 3696,
+      "hp": 5250,
+      "upgradeCost": 100000,
+      "upgradeTime": "4d",
+      "requiredPetHouseLevel": 3,
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "dps": 92,
+      "damagePerHit": 193.2,
+      "对墙每次伤害": 3864,
+      "hp": 5400,
+      "upgradeCost": 110000,
+      "upgradeTime": "4d12h",
+      "requiredPetHouseLevel": 3,
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "dps": 96,
+      "damagePerHit": 201.6,
+      "对墙每次伤害": 4032,
+      "hp": 5550,
+      "upgradeCost": 120000,
+      "upgradeTime": "5d",
+      "requiredPetHouseLevel": 3,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 100,
+      "damagePerHit": 210,
+      "对墙每次伤害": 4200,
+      "hp": 5700,
+      "upgradeCost": 130000,
+      "upgradeTime": "5d12h",
+      "requiredPetHouseLevel": 7,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 104,
+      "damagePerHit": 218.4,
+      "对墙每次伤害": 4368,
+      "hp": 5850,
+      "upgradeCost": 140000,
+      "upgradeTime": "6d",
+      "requiredPetHouseLevel": 7,
+      "townHallLevel": 15
+    },
+    {
+      "level": 13,
+      "dps": 108,
+      "damagePerHit": 226.8,
+      "对墙每次伤害": 4536,
+      "hp": 6000,
+      "upgradeCost": 150000,
+      "upgradeTime": "6d12h",
+      "requiredPetHouseLevel": 7,
+      "townHallLevel": 15
+    },
+    {
+      "level": 14,
+      "dps": 112,
+      "damagePerHit": 235.2,
+      "对墙每次伤害": 4704,
+      "hp": 6150,
+      "upgradeCost": 160000,
+      "upgradeTime": "7d",
+      "requiredPetHouseLevel": 7,
+      "townHallLevel": 15
+    },
+    {
+      "level": 15,
+      "dps": 116,
+      "damagePerHit": 243.6,
+      "对墙每次伤害": 4872,
+      "hp": 6300,
+      "upgradeCost": 170000,
+      "upgradeTime": "7d12h",
+      "requiredPetHouseLevel": 7,
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_heroes/0282",
+  "imgSrc": "Mighty_Yak_info.png"
+}

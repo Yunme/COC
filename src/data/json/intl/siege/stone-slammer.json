@@ -1,0 +1,76 @@
+{
+  "id": "stone-slammer",
+  "name": "Stone Slammer",
+  "nameCn": "攻城气球",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 1,
+      "一次伤害(每秒)": 400,
+      "一次伤害(每次)": 1000,
+      "二次伤害(每秒)": 100,
+      "hp": 5600,
+      "requiredLabLevel": 1,
+      "townHallLevel": 12
+    },
+    {
+      "level": 2,
+      "一次伤害(每秒)": 500,
+      "一次伤害(每次)": 1250,
+      "二次伤害(每秒)": 150,
+      "hp": 5900,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "一次伤害(每秒)": 600,
+      "一次伤害(每次)": 1500,
+      "二次伤害(每秒)": 200,
+      "hp": 6200,
+      "upgradeCost": 3500000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 4,
+      "一次伤害(每秒)": 700,
+      "一次伤害(每次)": 1750,
+      "二次伤害(每秒)": 250,
+      "hp": 6500,
+      "upgradeCost": 6500000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "一次伤害(每秒)": 750,
+      "一次伤害(每次)": 1875,
+      "二次伤害(每秒)": 300,
+      "hp": 6800,
+      "upgradeCost": 10000000,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "一次伤害(每秒)": 820,
+      "一次伤害(每次)": 2050,
+      "二次伤害(每秒)": 350,
+      "hp": 7200,
+      "upgradeCost": 26000000,
+      "upgradeTime": "13d12h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0242",
+  "imgSrc": "Stone_Slammer.png"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "hog-rider",
+  "name": "Hog Rider",
+  "nameCn": "野猪骑士",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 15,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 60,
+      "damagePerHit": 60,
+      "hp": 270,
+      "requiredLabLevel": 1,
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "dps": 70,
+      "damagePerHit": 70,
+      "hp": 312,
+      "upgradeTime": "10h",
+      "requiredLabLevel": 5,
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "dps": 80,
+      "damagePerHit": 80,
+      "hp": 370,
+      "upgradeTime": "18h",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "dps": 92,
+      "damagePerHit": 92,
+      "hp": 430,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "dps": 105,
+      "damagePerHit": 105,
+      "hp": 500,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 6,
+      "dps": 118,
+      "damagePerHit": 118,
+      "hp": 590,
+      "upgradeTime": "2d6h",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 7,
+      "dps": 140,
+      "damagePerHit": 140,
+      "hp": 700,
+      "upgradeTime": "2d12h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "dps": 155,
+      "damagePerHit": 155,
+      "hp": 810,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "dps": 165,
+      "damagePerHit": 165,
+      "hp": 890,
+      "upgradeTime": "3d12h",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 176,
+      "damagePerHit": 176,
+      "hp": 970,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "dps": 187,
+      "damagePerHit": 187,
+      "hp": 1080,
+      "upgradeTime": "5d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 12,
+      "dps": 200,
+      "damagePerHit": 200,
+      "hp": 1230,
+      "upgradeTime": "5d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 13,
+      "dps": 213,
+      "damagePerHit": 213,
+      "hp": 1380,
+      "upgradeTime": "6d12h",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 14,
+      "dps": 225,
+      "damagePerHit": 225,
+      "hp": 1500,
+      "upgradeTime": "10d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 15,
+      "dps": 250,
+      "damagePerHit": 250,
+      "hp": 1750,
+      "upgradeTime": "14d12h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0081",
+  "imgSrc": "Hog_Rider_info.png"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "jump-spell",
+  "name": "Jump Spell",
+  "nameCn": "弹跳法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "脉冲作用时间": 20,
+      "脉冲次数": 66,
+      "requiredLabLevel": 4,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "脉冲作用时间": 40,
+      "脉冲次数": 133,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 5,
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "脉冲作用时间": 60,
+      "脉冲次数": 199,
+      "upgradeCost": 2000000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "脉冲作用时间": 80,
+      "脉冲次数": 266,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "脉冲作用时间": 100,
+      "脉冲次数": 333,
+      "upgradeCost": 8000000,
+      "upgradeTime": "6d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_tech/0103",
+  "imgSrc": "Jump_Spell.png"
+}

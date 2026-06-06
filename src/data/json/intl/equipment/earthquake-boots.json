@@ -1,0 +1,191 @@
+{
+  "id": "earthquake-boots",
+  "name": "Earthquake Boots",
+  "nameCn": "地震金靴",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "对建筑的伤害": 10,
+      "对部队的伤害": 5,
+      "每秒伤害增加": 13,
+      "生命值增加": 209,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "对建筑的伤害": 10,
+      "对部队的伤害": 5,
+      "每秒伤害增加": 15,
+      "生命值增加": 244,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "对建筑的伤害": 20,
+      "对部队的伤害": 10,
+      "每秒伤害增加": 17,
+      "生命值增加": 278,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "对建筑的伤害": 20,
+      "对部队的伤害": 10,
+      "每秒伤害增加": 19,
+      "生命值增加": 313,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "对建筑的伤害": 20,
+      "对部队的伤害": 10,
+      "每秒伤害增加": 21,
+      "生命值增加": 348,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "对建筑的伤害": 30,
+      "对部队的伤害": 15,
+      "每秒伤害增加": 23,
+      "生命值增加": 383,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "对建筑的伤害": 30,
+      "对部队的伤害": 15,
+      "每秒伤害增加": 26,
+      "生命值增加": 418,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 8,
+      "对建筑的伤害": 30,
+      "对部队的伤害": 15,
+      "每秒伤害增加": 28,
+      "生命值增加": 452,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 9,
+      "对建筑的伤害": 34,
+      "对部队的伤害": 17,
+      "每秒伤害增加": 32,
+      "生命值增加": 522,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 10,
+      "对建筑的伤害": 34,
+      "对部队的伤害": 17,
+      "每秒伤害增加": 40,
+      "生命值增加": 677,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 11,
+      "对建筑的伤害": 34,
+      "对部队的伤害": 17,
+      "每秒伤害增加": 48,
+      "生命值增加": 831,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 12,
+      "对建筑的伤害": 36,
+      "对部队的伤害": 18,
+      "每秒伤害增加": 55,
+      "生命值增加": 986,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 10
+    },
+    {
+      "level": 13,
+      "对建筑的伤害": 36,
+      "对部队的伤害": 18,
+      "每秒伤害增加": 63,
+      "生命值增加": 1200,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 14,
+      "对建筑的伤害": 36,
+      "对部队的伤害": 18,
+      "每秒伤害增加": 71,
+      "生命值增加": 1500,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 15,
+      "对建筑的伤害": 38,
+      "对部队的伤害": 19,
+      "每秒伤害增加": 79,
+      "生命值增加": 1800,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 16,
+      "对建筑的伤害": 38,
+      "对部队的伤害": 19,
+      "每秒伤害增加": 86,
+      "生命值增加": 2100,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "对建筑的伤害": 38,
+      "对部队的伤害": 19,
+      "每秒伤害增加": 94,
+      "生命值增加": 2300,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "对建筑的伤害": 40,
+      "对部队的伤害": 20,
+      "每秒伤害增加": 102,
+      "生命值增加": 2500,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/0702",
+  "imgSrc": "Earthquake_Boots_info.png"
+}

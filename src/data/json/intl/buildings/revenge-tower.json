@@ -1,0 +1,26 @@
+{
+  "id": "revenge-tower",
+  "name": "Revenge Tower",
+  "nameCn": "复仇之塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 2,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 5800,
+      "upgradeCost": 430000,
+      "upgradeTime": "13d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 2,
+      "hp": 6200,
+      "upgradeCost": 460000,
+      "upgradeTime": "14d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0319",
+  "imgSrc": "Revenge_Tower2_Dormant.png"
+}

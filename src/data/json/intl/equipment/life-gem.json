@@ -1,0 +1,191 @@
+{
+  "id": "life-gem",
+  "name": "Life Gem",
+  "nameCn": "生命宝石",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "光环加血百分比": 50,
+      "光环加血上限": 640,
+      "英雄每秒伤害增加": 11,
+      "英雄生命值增加": 170,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 2,
+      "光环加血百分比": 50,
+      "光环加血上限": 640,
+      "英雄每秒伤害增加": 13,
+      "英雄生命值增加": 184,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 3,
+      "光环加血百分比": 60,
+      "光环加血上限": 750,
+      "英雄每秒伤害增加": 16,
+      "英雄生命值增加": 195,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 4,
+      "光环加血百分比": 60,
+      "光环加血上限": 750,
+      "英雄每秒伤害增加": 19,
+      "英雄生命值增加": 205,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "光环加血百分比": 60,
+      "光环加血上限": 750,
+      "英雄每秒伤害增加": 21,
+      "英雄生命值增加": 217,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "光环加血百分比": 75,
+      "光环加血上限": 830,
+      "英雄每秒伤害增加": 23,
+      "英雄生命值增加": 230,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "光环加血百分比": 75,
+      "光环加血上限": 830,
+      "英雄每秒伤害增加": 25,
+      "英雄生命值增加": 255,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "光环加血百分比": 75,
+      "光环加血上限": 830,
+      "英雄每秒伤害增加": 27,
+      "英雄生命值增加": 282,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "光环加血百分比": 90,
+      "光环加血上限": 930,
+      "英雄每秒伤害增加": 32,
+      "英雄生命值增加": 311,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 10,
+      "光环加血百分比": 90,
+      "光环加血上限": 930,
+      "英雄每秒伤害增加": 36,
+      "英雄生命值增加": 344,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 11
+    },
+    {
+      "level": 11,
+      "光环加血百分比": 90,
+      "光环加血上限": 930,
+      "英雄每秒伤害增加": 43,
+      "英雄生命值增加": 381,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 11
+    },
+    {
+      "level": 12,
+      "光环加血百分比": 100,
+      "光环加血上限": 1010,
+      "英雄每秒伤害增加": 47,
+      "英雄生命值增加": 398,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 11
+    },
+    {
+      "level": 13,
+      "光环加血百分比": 100,
+      "光环加血上限": 1010,
+      "英雄每秒伤害增加": 53,
+      "英雄生命值增加": 415,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 14,
+      "光环加血百分比": 100,
+      "光环加血上限": 1010,
+      "英雄每秒伤害增加": 57,
+      "英雄生命值增加": 432,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 15,
+      "光环加血百分比": 110,
+      "光环加血上限": 1120,
+      "英雄每秒伤害增加": 61,
+      "英雄生命值增加": 449,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 16,
+      "光环加血百分比": 110,
+      "光环加血上限": 1120,
+      "英雄每秒伤害增加": 66,
+      "英雄生命值增加": 466,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 17,
+      "光环加血百分比": 110,
+      "光环加血上限": 1120,
+      "英雄每秒伤害增加": 70,
+      "英雄生命值增加": 483,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 18,
+      "光环加血百分比": 120,
+      "光环加血上限": 1200,
+      "英雄每秒伤害增加": 75,
+      "英雄生命值增加": 500,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    }
+  ],
+  "imgFolder": "home_heroes/0781",
+  "imgSrc": "Life_Gem_info.png"
+}

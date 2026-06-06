@@ -1,0 +1,133 @@
+{
+  "id": "dark-elixir-drill",
+  "name": "Dark Elixir Drill",
+  "nameCn": "暗黑重油钻井",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 11,
+  "levels": [
+    {
+      "level": 1,
+      "每小时产量": 20,
+      "采集器容量<sup>*<Sup>": 160,
+      "upgradeTime": "4h",
+      "出现收集标志时的储量": 1,
+      "每个采集器提速所需宝石": 7,
+      "hp": 800,
+      "upgradeCost": 180000,
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "每小时产量": 30,
+      "采集器容量<sup>*<Sup>": 300,
+      "upgradeTime": "6h",
+      "出现收集标志时的储量": 1,
+      "每个采集器提速所需宝石": 10,
+      "hp": 860,
+      "upgradeCost": 270000,
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "每小时产量": 45,
+      "采集器容量<sup>*<Sup>": 540,
+      "upgradeTime": "12h",
+      "出现收集标志时的储量": 1,
+      "每个采集器提速所需宝石": 15,
+      "hp": 920,
+      "upgradeCost": 540000,
+      "townHallLevel": 7
+    },
+    {
+      "level": 4,
+      "每小时产量": 60,
+      "采集器容量<sup>*<Sup>": 840,
+      "upgradeTime": "18h",
+      "出现收集标志时的储量": 2,
+      "每个采集器提速所需宝石": 20,
+      "hp": 980,
+      "upgradeCost": 900000,
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "每小时产量": 80,
+      "采集器容量<sup>*<Sup>": 1280,
+      "upgradeTime": "1d",
+      "出现收集标志时的储量": 2,
+      "每个采集器提速所需宝石": 25,
+      "hp": 1060,
+      "upgradeCost": 1200000,
+      "townHallLevel": 9
+    },
+    {
+      "level": 6,
+      "每小时产量": 100,
+      "采集器容量<sup>*<Sup>": 1800,
+      "upgradeTime": "1d12h",
+      "出现收集标志时的储量": 3,
+      "每个采集器提速所需宝石": 30,
+      "hp": 1160,
+      "upgradeCost": 1800000,
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "每小时产量": 120,
+      "采集器容量<sup>*<Sup>": 2400,
+      "upgradeTime": "1d18h",
+      "出现收集标志时的储量": 4,
+      "每个采集器提速所需宝石": 35,
+      "hp": 1280,
+      "upgradeCost": 2100000,
+      "townHallLevel": 10
+    },
+    {
+      "level": 8,
+      "每小时产量": 140,
+      "采集器容量<sup>*<Sup>": 3000,
+      "upgradeTime": "2d",
+      "出现收集标志时的储量": 5,
+      "每个采集器提速所需宝石": 40,
+      "hp": 1380,
+      "upgradeCost": 2400000,
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "每小时产量": 160,
+      "采集器容量<sup>*<Sup>": 3600,
+      "upgradeTime": "2d12h",
+      "出现收集标志时的储量": 6,
+      "每个采集器提速所需宝石": 45,
+      "hp": 1480,
+      "upgradeCost": 3700000,
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "每小时产量": 180,
+      "采集器容量<sup>*<Sup>": 4200,
+      "upgradeTime": "3d",
+      "出现收集标志时的储量": 7,
+      "每个采集器提速所需宝石": 50,
+      "hp": 1550,
+      "upgradeCost": 5300000,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "每小时产量": 200,
+      "采集器容量<sup>*<Sup>": 4600,
+      "upgradeTime": "6d",
+      "出现收集标志时的储量": 8,
+      "每个采集器提速所需宝石": 55,
+      "hp": 1600,
+      "upgradeCost": 12000000,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_buildings/0403",
+  "imgSrc": "Dark_Elixir_Drill11.png"
+}

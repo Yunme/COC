@@ -1,0 +1,124 @@
+{
+  "id": "laboratory",
+  "name": "Laboratory",
+  "nameCn": "实验室",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 16,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 500,
+      "upgradeCost": 5000,
+      "upgradeTime": "1m",
+      "townHallLevel": 3
+    },
+    {
+      "level": 2,
+      "hp": 550,
+      "upgradeCost": 25000,
+      "upgradeTime": "30m",
+      "townHallLevel": 4
+    },
+    {
+      "level": 3,
+      "hp": 600,
+      "upgradeCost": 50000,
+      "upgradeTime": "2h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 4,
+      "hp": 650,
+      "upgradeCost": 100000,
+      "upgradeTime": "4h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 5,
+      "hp": 700,
+      "upgradeCost": 200000,
+      "upgradeTime": "8h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 6,
+      "hp": 750,
+      "upgradeCost": 400000,
+      "upgradeTime": "16h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "hp": 830,
+      "upgradeCost": 800000,
+      "upgradeTime": "1d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 8,
+      "hp": 950,
+      "upgradeCost": 1300000,
+      "upgradeTime": "1d18h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 9,
+      "hp": 1070,
+      "upgradeCost": 2100000,
+      "upgradeTime": "2d18h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 10,
+      "hp": 1140,
+      "upgradeCost": 3800000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 11,
+      "hp": 1210,
+      "upgradeCost": 5500000,
+      "upgradeTime": "6d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 12,
+      "hp": 1280,
+      "upgradeCost": 8100000,
+      "upgradeTime": "7d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 13,
+      "hp": 1350,
+      "upgradeCost": 10800000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 14,
+      "hp": 1400,
+      "upgradeCost": 13000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 15,
+      "hp": 1450,
+      "upgradeCost": 18000000,
+      "upgradeTime": "10d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 16,
+      "hp": 1500,
+      "upgradeCost": 27000000,
+      "upgradeTime": "16d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0483",
+  "imgSrc": "Laboratory16_hd.png"
+}

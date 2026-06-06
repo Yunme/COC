@@ -1,0 +1,54 @@
+{
+  "id": "super-hog-rider",
+  "name": "Super Hog Rider",
+  "nameCn": "超级野猪骑士",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 10,
+      "dps": 190,
+      "damagePerHit": 190,
+      "hp": 1500,
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "dps": 210,
+      "damagePerHit": 210,
+      "hp": 1600,
+      "townHallLevel": 14
+    },
+    {
+      "level": 12,
+      "dps": 230,
+      "damagePerHit": 230,
+      "hp": 1750,
+      "townHallLevel": 15
+    },
+    {
+      "level": 13,
+      "dps": 250,
+      "damagePerHit": 250,
+      "hp": 1900,
+      "townHallLevel": 16
+    },
+    {
+      "level": 14,
+      "dps": 270,
+      "damagePerHit": 270,
+      "hp": 2100,
+      "townHallLevel": 17
+    },
+    {
+      "level": 15,
+      "dps": 300,
+      "damagePerHit": 300,
+      "hp": 2350,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/060f",
+  "imgSrc": "Super_Hog_Rider_info.png"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "dark-elixir-storage",
+  "name": "Dark Elixir Storage",
+  "nameCn": "暗黑重油罐",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 13,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 2000,
+      "upgradeCost": 250000,
+      "upgradeTime": "8h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "hp": 2200,
+      "upgradeCost": 500000,
+      "upgradeTime": "16h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "hp": 2400,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "hp": 2600,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "hp": 2900,
+      "upgradeCost": 2000000,
+      "upgradeTime": "1d16h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 6,
+      "hp": 3200,
+      "upgradeCost": 2400000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "hp": 3500,
+      "upgradeCost": 3800000,
+      "upgradeTime": "3d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 8,
+      "hp": 3800,
+      "upgradeCost": 5400000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "hp": 4100,
+      "upgradeCost": 6600000,
+      "upgradeTime": "4d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "hp": 4300,
+      "upgradeCost": 8000000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "hp": 4500,
+      "upgradeCost": 10000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "hp": 4700,
+      "upgradeCost": 16000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 13,
+      "hp": 4800,
+      "upgradeCost": 25000000,
+      "upgradeTime": "13d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0406",
+  "imgSrc": "Dark_Elixir_Storage13.png"
+}

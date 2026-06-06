@@ -1,0 +1,100 @@
+{
+  "id": "sneezy",
+  "name": "Sneezy",
+  "nameCn": "阿啾",
+  "category": "pets",
+  "village": "home",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 270,
+      "damagePerHit": 216,
+      "hp": 3300,
+      "townHallLevel": 17
+    },
+    {
+      "level": 2,
+      "dps": 290,
+      "damagePerHit": 232,
+      "hp": 3450,
+      "upgradeCost": 168750,
+      "upgradeTime": "3d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 3,
+      "dps": 310,
+      "damagePerHit": 248,
+      "hp": 3600,
+      "upgradeCost": 176250,
+      "upgradeTime": "4d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "dps": 330,
+      "damagePerHit": 264,
+      "hp": 3750,
+      "upgradeCost": 183750,
+      "upgradeTime": "5d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 5,
+      "dps": 350,
+      "damagePerHit": 280,
+      "hp": 3900,
+      "upgradeCost": 191250,
+      "upgradeTime": "6d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 6,
+      "dps": 370,
+      "damagePerHit": 296,
+      "hp": 4050,
+      "upgradeCost": 198750,
+      "upgradeTime": "7d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 7,
+      "dps": 390,
+      "damagePerHit": 312,
+      "hp": 4200,
+      "upgradeCost": 206250,
+      "upgradeTime": "8d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 8,
+      "dps": 410,
+      "damagePerHit": 328,
+      "hp": 4350,
+      "upgradeCost": 213750,
+      "upgradeTime": "8d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 9,
+      "dps": 430,
+      "damagePerHit": 344,
+      "hp": 4500,
+      "upgradeCost": 221250,
+      "upgradeTime": "8d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 10,
+      "dps": 450,
+      "damagePerHit": 360,
+      "hp": 4650,
+      "upgradeCost": 236250,
+      "upgradeTime": "8d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_heroes/028a",
+  "imgSrc": "Sneezy_info.png"
+}

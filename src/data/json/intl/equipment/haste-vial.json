@@ -1,0 +1,209 @@
+{
+  "id": "haste-vial",
+  "name": "Haste Vial",
+  "nameCn": "急速药水瓶",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "技能持续时间": 7,
+      "技能下移动速度增加": 18,
+      "技能下攻击速度增加": 60,
+      "每秒伤害增加": 20,
+      "攻击速度增加": 5,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 2,
+      "技能持续时间": 7,
+      "技能下移动速度增加": 18,
+      "技能下攻击速度增加": 60,
+      "每秒伤害增加": 24,
+      "攻击速度增加": 6,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 3,
+      "技能持续时间": 7.5,
+      "技能下移动速度增加": 22.3,
+      "技能下攻击速度增加": 60,
+      "每秒伤害增加": 28,
+      "攻击速度增加": 6,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 4,
+      "技能持续时间": 7.5,
+      "技能下移动速度增加": 22.3,
+      "技能下攻击速度增加": 60,
+      "每秒伤害增加": 32,
+      "攻击速度增加": 7,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 5,
+      "技能持续时间": 7.5,
+      "技能下移动速度增加": 22.3,
+      "技能下攻击速度增加": 60,
+      "每秒伤害增加": 36,
+      "攻击速度增加": 8,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "技能持续时间": 8,
+      "技能下移动速度增加": 25.5,
+      "技能下攻击速度增加": 80,
+      "每秒伤害增加": 40,
+      "攻击速度增加": 8,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 7,
+      "技能持续时间": 8,
+      "技能下移动速度增加": 25.5,
+      "技能下攻击速度增加": 80,
+      "每秒伤害增加": 44,
+      "攻击速度增加": 9,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 8,
+      "技能持续时间": 8,
+      "技能下移动速度增加": 25.5,
+      "技能下攻击速度增加": 80,
+      "每秒伤害增加": 48,
+      "攻击速度增加": 10,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 9,
+      "技能持续时间": 8.5,
+      "技能下移动速度增加": 28.7,
+      "技能下攻击速度增加": 80,
+      "每秒伤害增加": 52,
+      "攻击速度增加": 10,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "技能持续时间": 8.5,
+      "技能下移动速度增加": 28.7,
+      "技能下攻击速度增加": 80,
+      "每秒伤害增加": 56,
+      "攻击速度增加": 11,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "技能持续时间": 8.5,
+      "技能下移动速度增加": 28.7,
+      "技能下攻击速度增加": 80,
+      "每秒伤害增加": 60,
+      "攻击速度增加": 12,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "技能持续时间": 9,
+      "技能下移动速度增加": 32,
+      "技能下攻击速度增加": 80,
+      "每秒伤害增加": 64,
+      "攻击速度增加": 12,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 13,
+      "技能持续时间": 9,
+      "技能下移动速度增加": 32,
+      "技能下攻击速度增加": 80,
+      "每秒伤害增加": 68,
+      "攻击速度增加": 13,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 14,
+      "技能持续时间": 9,
+      "技能下移动速度增加": 32,
+      "技能下攻击速度增加": 80,
+      "每秒伤害增加": 72,
+      "攻击速度增加": 14,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 15,
+      "技能持续时间": 9.5,
+      "技能下移动速度增加": 35.1,
+      "技能下攻击速度增加": 100,
+      "每秒伤害增加": 76,
+      "攻击速度增加": 14,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 16,
+      "技能持续时间": 9.5,
+      "技能下移动速度增加": 35.1,
+      "技能下攻击速度增加": 100,
+      "每秒伤害增加": 80,
+      "攻击速度增加": 15,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 17,
+      "技能持续时间": 9.5,
+      "技能下移动速度增加": 35.1,
+      "技能下攻击速度增加": 100,
+      "每秒伤害增加": 84,
+      "攻击速度增加": 16,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 18,
+      "技能持续时间": 10,
+      "技能下移动速度增加": 38.3,
+      "技能下攻击速度增加": 100,
+      "每秒伤害增加": 88,
+      "攻击速度增加": 16,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_heroes/07c3",
+  "imgSrc": "Haste_Vial_info.png"
+}

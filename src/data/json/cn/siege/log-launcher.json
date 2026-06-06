@@ -1,0 +1,55 @@
+{
+  "id": "log-launcher",
+  "name": "Log Launcher",
+  "nameCn": "攻城滚木车",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 140,
+      "damagePerHit": 420,
+      "hp": 4000,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "dps": 160,
+      "damagePerHit": 480,
+      "hp": 4400,
+      "upgradeCost": 3200000,
+      "upgradeTime": "3d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "dps": 180,
+      "damagePerHit": 540,
+      "hp": 4800,
+      "upgradeCost": 4500000,
+      "upgradeTime": "4d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 4,
+      "dps": 200,
+      "damagePerHit": 600,
+      "hp": 5200,
+      "upgradeCost": 7500000,
+      "upgradeTime": "7d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 5,
+      "dps": 220,
+      "damagePerHit": 660,
+      "hp": 5500,
+      "upgradeCost": 18000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0244",
+  "imgSrc": "Log_Launcher.png"
+}

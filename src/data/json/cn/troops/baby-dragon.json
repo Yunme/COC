@@ -1,0 +1,118 @@
+{
+  "id": "baby-dragon",
+  "name": "Baby Dragon",
+  "nameCn": "飞龙宝宝",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 75,
+      "damagePerHit": 75,
+      "hp": 1200,
+      "townHallLevel": 9
+    },
+    {
+      "level": 2,
+      "dps": 85,
+      "damagePerHit": 85,
+      "hp": 1300,
+      "upgradeCost": 2000000,
+      "upgradeTime": "1d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 3,
+      "dps": 95,
+      "damagePerHit": 95,
+      "hp": 1400,
+      "upgradeCost": 2500000,
+      "upgradeTime": "1d18h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "dps": 105,
+      "damagePerHit": 105,
+      "hp": 1500,
+      "upgradeCost": 3400000,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "dps": 115,
+      "damagePerHit": 115,
+      "hp": 1600,
+      "upgradeCost": 3900000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "dps": 125,
+      "damagePerHit": 125,
+      "hp": 1700,
+      "upgradeCost": 5500000,
+      "upgradeTime": "5d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "dps": 135,
+      "damagePerHit": 135,
+      "hp": 1800,
+      "upgradeCost": 7200000,
+      "upgradeTime": "6d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "dps": 145,
+      "damagePerHit": 145,
+      "hp": 1900,
+      "upgradeCost": 9500000,
+      "upgradeTime": "8d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "dps": 155,
+      "damagePerHit": 155,
+      "hp": 2000,
+      "upgradeCost": 14500000,
+      "upgradeTime": "10d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "dps": 165,
+      "damagePerHit": 165,
+      "hp": 2100,
+      "upgradeCost": 16000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 11,
+      "dps": 175,
+      "damagePerHit": 175,
+      "hp": 2200,
+      "upgradeCost": 22500000,
+      "upgradeTime": "15d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "dps": 185,
+      "damagePerHit": 185,
+      "hp": 2350,
+      "upgradeCost": 29000000,
+      "upgradeTime": "15d6h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/000a",
+  "imgSrc": "Baby_Dragon_info.png"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "spell-factory",
+  "name": "Spell Factory",
+  "nameCn": "法术工厂",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 9,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 425,
+      "upgradeCost": 150000,
+      "upgradeTime": "6h",
+      "townHallLevel": 5
+    },
+    {
+      "level": 2,
+      "hp": 470,
+      "upgradeCost": 300000,
+      "upgradeTime": "12h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 3,
+      "hp": 520,
+      "upgradeCost": 600000,
+      "upgradeTime": "1d",
+      "townHallLevel": 7
+    },
+    {
+      "level": 4,
+      "hp": 600,
+      "upgradeCost": 1200000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "hp": 720,
+      "upgradeCost": 2000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "hp": 840,
+      "upgradeCost": 3500000,
+      "upgradeTime": "5d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "hp": 960,
+      "upgradeCost": 9000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "hp": 1080,
+      "upgradeCost": 14000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 9,
+      "hp": 1150,
+      "upgradeCost": 24000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_buildings/0484",
+  "imgSrc": "Spell_Factory9.png"
+}

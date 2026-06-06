@@ -1,0 +1,46 @@
+{
+  "id": "bh-spring-trap",
+  "name": "Spring Trap",
+  "nameCn": "隐形弹簧",
+  "category": "traps",
+  "village": "builder",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "伤害": 100,
+      "upgradeCost": 10000,
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 2,
+      "伤害": 175,
+      "upgradeCost": 30000,
+      "upgradeTime": "1h",
+      "所需夜世界大本营等级": 4
+    },
+    {
+      "level": 3,
+      "伤害": 250,
+      "upgradeCost": 100000,
+      "upgradeTime": "1d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 4,
+      "伤害": 325,
+      "upgradeCost": 300000,
+      "upgradeTime": "2d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 5,
+      "伤害": 400,
+      "upgradeCost": 500000,
+      "upgradeTime": "3d",
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1181",
+  "imgSrc": "Spring_Trap_info.png"
+}

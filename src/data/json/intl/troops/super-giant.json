@@ -1,0 +1,60 @@
+{
+  "id": "super-giant",
+  "name": "Super Giant",
+  "nameCn": "超级巨人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 9,
+      "dps": 130,
+      "damagePerHit": 260,
+      "对墙的每次伤害": 1300,
+      "hp": 4000,
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 140,
+      "damagePerHit": 280,
+      "对墙的每次伤害": 1400,
+      "hp": 4200,
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "dps": 150,
+      "damagePerHit": 300,
+      "对墙的每次伤害": 1500,
+      "hp": 4400,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 160,
+      "damagePerHit": 320,
+      "对墙的每次伤害": 1600,
+      "hp": 4600,
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "dps": 175,
+      "damagePerHit": 350,
+      "对墙的每次伤害": 1750,
+      "hp": 4900,
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "dps": 205,
+      "damagePerHit": 410,
+      "对墙的每次伤害": 2050,
+      "hp": 5600,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0602",
+  "imgSrc": "Super_Giant_info.png"
+}

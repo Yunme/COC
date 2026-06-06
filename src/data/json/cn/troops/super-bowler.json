@@ -1,0 +1,54 @@
+{
+  "id": "super-bowler",
+  "name": "Super Bowler",
+  "nameCn": "超级巨石投手",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 4,
+      "dps": 170,
+      "damagePerHit": 374,
+      "hp": 1600
+    },
+    {
+      "level": 5,
+      "dps": 185,
+      "damagePerHit": 407,
+      "hp": 1800
+    },
+    {
+      "level": 6,
+      "dps": 200,
+      "damagePerHit": 440,
+      "hp": 2000
+    },
+    {
+      "level": 7,
+      "dps": 220,
+      "damagePerHit": 484,
+      "hp": 2300
+    },
+    {
+      "level": 8,
+      "dps": 240,
+      "damagePerHit": 528,
+      "hp": 2600
+    },
+    {
+      "level": 9,
+      "dps": 270,
+      "damagePerHit": 594,
+      "hp": 3000
+    },
+    {
+      "level": 10,
+      "dps": 310,
+      "damagePerHit": 682,
+      "hp": 3700
+    }
+  ],
+  "imgFolder": "home_tech/060c",
+  "imgSrc": "Super_Bowler.png"
+}

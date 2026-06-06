@@ -1,0 +1,230 @@
+{
+  "id": "bh-raged-barbarian",
+  "name": "Raged Barbarian",
+  "nameCn": "狂暴野蛮人",
+  "category": "troops",
+  "village": "builder",
+  "maxLevel": 20,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 45,
+      "damagePerHit": 36,
+      "每个兵营的部队数量": 3,
+      "技能狂暴时间": "无",
+      "hp": 500,
+      "所需实验室和大本营等级": 1
+    },
+    {
+      "level": 2,
+      "dps": 45,
+      "damagePerHit": 36,
+      "每个兵营的部队数量": 3,
+      "技能狂暴时间": 6,
+      "hp": 500,
+      "upgradeCost": 3500,
+      "upgradeTime": "30s",
+      "所需实验室和大本营等级": 1
+    },
+    {
+      "level": 3,
+      "dps": 58,
+      "damagePerHit": 46.4,
+      "每个兵营的部队数量": 3,
+      "技能狂暴时间": 6,
+      "hp": 550,
+      "upgradeCost": 7000,
+      "upgradeTime": "5m",
+      "所需实验室和大本营等级": 2
+    },
+    {
+      "level": 4,
+      "dps": 58,
+      "damagePerHit": 46.4,
+      "每个兵营的部队数量": 3,
+      "技能狂暴时间": 8,
+      "hp": 550,
+      "upgradeCost": 10000,
+      "upgradeTime": "15m",
+      "所需实验室和大本营等级": 2
+    },
+    {
+      "level": 5,
+      "dps": 70,
+      "damagePerHit": 56,
+      "每个兵营的部队数量": 3,
+      "技能狂暴时间": 8,
+      "hp": 605,
+      "upgradeCost": 90000,
+      "upgradeTime": "5h",
+      "所需实验室和大本营等级": 3
+    },
+    {
+      "level": 6,
+      "dps": 70,
+      "damagePerHit": 56,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 8,
+      "hp": 605,
+      "upgradeCost": 180000,
+      "upgradeTime": "10h",
+      "所需实验室和大本营等级": 3
+    },
+    {
+      "level": 7,
+      "dps": 83,
+      "damagePerHit": 66.4,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 8,
+      "hp": 666,
+      "upgradeCost": 300000,
+      "upgradeTime": "15h",
+      "所需实验室和大本营等级": 4
+    },
+    {
+      "level": 8,
+      "dps": 83,
+      "damagePerHit": 66.4,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 10,
+      "hp": 666,
+      "upgradeCost": 330000,
+      "upgradeTime": "20h",
+      "所需实验室和大本营等级": 4
+    },
+    {
+      "level": 9,
+      "dps": 93,
+      "damagePerHit": 74.4,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 10,
+      "hp": 732,
+      "upgradeCost": 700000,
+      "upgradeTime": "1d",
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 10,
+      "dps": 93,
+      "damagePerHit": 74.4,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 12,
+      "hp": 732,
+      "upgradeCost": 900000,
+      "upgradeTime": "1d12h",
+      "所需实验室和大本营等级": 5
+    },
+    {
+      "level": 11,
+      "dps": 103,
+      "damagePerHit": 82.4,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 12,
+      "hp": 805,
+      "upgradeCost": 1000000,
+      "upgradeTime": "2d",
+      "所需实验室和大本营等级": 6
+    },
+    {
+      "level": 12,
+      "dps": 103,
+      "damagePerHit": 82.4,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 14,
+      "hp": 805,
+      "upgradeCost": 1200000,
+      "upgradeTime": "2d12h",
+      "所需实验室和大本营等级": 6
+    },
+    {
+      "level": 13,
+      "dps": 112,
+      "damagePerHit": 89.6,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 14,
+      "hp": 886,
+      "upgradeCost": 2000000,
+      "upgradeTime": "3d12h",
+      "所需实验室和大本营等级": 7
+    },
+    {
+      "level": 14,
+      "dps": 112,
+      "damagePerHit": 89.6,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 16,
+      "hp": 886,
+      "upgradeCost": 2200000,
+      "upgradeTime": "4d12h",
+      "所需实验室和大本营等级": 7
+    },
+    {
+      "level": 15,
+      "dps": 120,
+      "damagePerHit": 96,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 16,
+      "hp": 974,
+      "upgradeCost": 3000000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 16,
+      "dps": 120,
+      "damagePerHit": 96,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 18,
+      "hp": 974,
+      "upgradeCost": 3200000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 17,
+      "dps": 128,
+      "damagePerHit": 102.4,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 18,
+      "hp": 1072,
+      "upgradeCost": 3800000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 18,
+      "dps": 128,
+      "damagePerHit": 102.4,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 20,
+      "hp": 1072,
+      "upgradeCost": 4000000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 19,
+      "dps": 136,
+      "damagePerHit": 108.8,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 20,
+      "hp": 1179,
+      "upgradeCost": 4600000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    },
+    {
+      "level": 20,
+      "dps": 136,
+      "damagePerHit": 108.8,
+      "每个兵营的部队数量": 4,
+      "技能狂暴时间": 22,
+      "hp": 1179,
+      "upgradeCost": 5200000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_tech/1000",
+  "imgSrc": "Raged_Barbarian_info.png"
+}

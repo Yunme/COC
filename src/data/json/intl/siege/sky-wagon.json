@@ -1,0 +1,54 @@
+{
+  "id": "sky-wagon",
+  "name": "Sky Wagon",
+  "nameCn": "空中战车",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "平均每秒伤害<sup>*<Sup>": 1,
+      "每次伤害<sup>*<Sup>": 8,
+      "hp": 3600,
+      "木桶数量": 5,
+      "requiredLabLevel": 1,
+      "townHallLevel": 17
+    },
+    {
+      "level": 2,
+      "平均每秒伤害<sup>*<Sup>": 2,
+      "每次伤害<sup>*<Sup>": 16,
+      "hp": 3800,
+      "木桶数量": 5,
+      "upgradeCost": 22000000,
+      "upgradeTime": "10d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 3,
+      "平均每秒伤害<sup>*<Sup>": 3,
+      "每次伤害<sup>*<Sup>": 24,
+      "hp": 4000,
+      "木桶数量": 6,
+      "upgradeCost": 26000000,
+      "upgradeTime": "13d12h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "平均每秒伤害<sup>*<Sup>": 4,
+      "每次伤害<sup>*<Sup>": 32,
+      "hp": 4200,
+      "木桶数量": 6,
+      "upgradeCost": 29000000,
+      "upgradeTime": "16d",
+      "requiredLabLevel": 16,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0248",
+  "imgSrc": "Sky_Wagon_info.png"
+}

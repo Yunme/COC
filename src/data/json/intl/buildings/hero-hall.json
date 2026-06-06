@@ -1,0 +1,120 @@
+{
+  "id": "hero-hall",
+  "name": "Hero Hall",
+  "nameCn": "英雄殿堂",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "英雄栏位数量": 1,
+      "hp": 2000,
+      "upgradeCost": 800000,
+      "upgradeTime": "1d",
+      "townHallLevel": 7,
+      "解锁英雄": "<a href=\"/upgrade/0200-Barbarian-King\">野蛮人之王</a>"
+    },
+    {
+      "level": 2,
+      "英雄栏位数量": 1,
+      "hp": 2400,
+      "upgradeCost": 1600000,
+      "upgradeTime": "2d",
+      "townHallLevel": 8,
+      "解锁英雄": "<a href=\"/upgrade/0201-Archer-Queen\">弓箭女皇</a>"
+    },
+    {
+      "level": 3,
+      "英雄栏位数量": 2,
+      "hp": 2800,
+      "upgradeCost": 2300000,
+      "upgradeTime": "3d",
+      "townHallLevel": 9,
+      "解锁英雄": "<a href=\"/upgrade/0204-Minion-Prince\">亡灵王子</a>"
+    },
+    {
+      "level": 4,
+      "英雄栏位数量": 2,
+      "hp": 3200,
+      "upgradeCost": 2500000,
+      "upgradeTime": "4d",
+      "townHallLevel": 10,
+      "解锁英雄": "无"
+    },
+    {
+      "level": 5,
+      "英雄栏位数量": 3,
+      "hp": 3600,
+      "upgradeCost": 4500000,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 11,
+      "解锁英雄": "<a href=\"/upgrade/0202-Grand-Warden\">大守护者</a>"
+    },
+    {
+      "level": 6,
+      "英雄栏位数量": 3,
+      "hp": 3800,
+      "upgradeCost": 5500000,
+      "upgradeTime": "5d",
+      "townHallLevel": 12,
+      "解锁英雄": "无"
+    },
+    {
+      "level": 7,
+      "英雄栏位数量": 4,
+      "hp": 4200,
+      "upgradeCost": 8500000,
+      "upgradeTime": "6d",
+      "townHallLevel": 13,
+      "解锁英雄": "<a href=\"/upgrade/0203-Royal-Champion\">飞盾战神</a>"
+    },
+    {
+      "level": 8,
+      "英雄栏位数量": 4,
+      "hp": 4600,
+      "upgradeCost": 9500000,
+      "upgradeTime": "6d12h",
+      "townHallLevel": 14,
+      "解锁英雄": "无"
+    },
+    {
+      "level": 9,
+      "英雄栏位数量": 4,
+      "hp": 5000,
+      "upgradeCost": 11000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 15,
+      "解锁英雄": "<a href=\"/upgrade/0205-Dragon-Duke\">飞龙公爵</a>"
+    },
+    {
+      "level": 10,
+      "英雄栏位数量": 4,
+      "hp": 5400,
+      "upgradeCost": 13000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 16,
+      "解锁英雄": "无"
+    },
+    {
+      "level": 11,
+      "英雄栏位数量": 4,
+      "hp": 5800,
+      "upgradeCost": 17000000,
+      "upgradeTime": "9d12h",
+      "townHallLevel": 17,
+      "解锁英雄": "无"
+    },
+    {
+      "level": 12,
+      "英雄栏位数量": 4,
+      "hp": 6000,
+      "upgradeCost": 26000000,
+      "upgradeTime": "13d12h",
+      "townHallLevel": 18,
+      "解锁英雄": "无"
+    }
+  ],
+  "imgFolder": "home_buildings/0489",
+  "imgSrc": "Hero_Hall12_hd.png"
+}

@@ -1,0 +1,164 @@
+{
+  "id": "wall-breaker",
+  "name": "Wall Breaker",
+  "nameCn": "炸弹人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 1,
+      "面板伤害": 10,
+      "中途死亡(对城墙)": 400,
+      "成功爆破(对城墙)": 640,
+      "hp": 20,
+      "requiredLabLevel": 1,
+      "townHallLevel": 3
+    },
+    {
+      "level": 2,
+      "面板伤害": 20,
+      "中途死亡(对城墙)": 800,
+      "成功爆破(对城墙)": 1160,
+      "hp": 24,
+      "upgradeCost": 80000,
+      "upgradeTime": "3h",
+      "requiredLabLevel": 2,
+      "townHallLevel": 4
+    },
+    {
+      "level": 3,
+      "面板伤害": 25,
+      "中途死亡(对城墙)": 1000,
+      "成功爆破(对城墙)": 1520,
+      "hp": 29,
+      "upgradeCost": 200000,
+      "upgradeTime": "4h",
+      "requiredLabLevel": 4,
+      "townHallLevel": 6
+    },
+    {
+      "level": 4,
+      "面板伤害": 30,
+      "中途死亡(对城墙)": 1200,
+      "成功爆破(对城墙)": 1840,
+      "hp": 35,
+      "upgradeCost": 450000,
+      "upgradeTime": "12h",
+      "requiredLabLevel": 5,
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "面板伤害": 43,
+      "中途死亡(对城墙)": 1720,
+      "成功爆破(对城墙)": 2640,
+      "hp": 53,
+      "upgradeCost": 1000000,
+      "upgradeTime": "16h",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "面板伤害": 55,
+      "中途死亡(对城墙)": 2200,
+      "成功爆破(对城墙)": 3400,
+      "hp": 72,
+      "upgradeCost": 2400000,
+      "upgradeTime": "1d6h",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 7,
+      "面板伤害": 66,
+      "中途死亡(对城墙)": 2640,
+      "成功爆破(对城墙)": 4080,
+      "hp": 82,
+      "upgradeCost": 2800000,
+      "upgradeTime": "1d12h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "面板伤害": 75,
+      "中途死亡(对城墙)": 3000,
+      "成功爆破(对城墙)": 4680,
+      "hp": 92,
+      "upgradeCost": 3800000,
+      "upgradeTime": "2d12h",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "面板伤害": 86,
+      "中途死亡(对城墙)": 3440,
+      "成功爆破(对城墙)": 5360,
+      "hp": 112,
+      "upgradeCost": 5200000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "面板伤害": 94,
+      "中途死亡(对城墙)": 3760,
+      "成功爆破(对城墙)": 5920,
+      "hp": 130,
+      "upgradeCost": 6500000,
+      "upgradeTime": "5d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "面板伤害": 102,
+      "中途死亡(对城墙)": 4080,
+      "成功爆破(对城墙)": 6480,
+      "hp": 140,
+      "upgradeCost": 9500000,
+      "upgradeTime": "5d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "面板伤害": 110,
+      "中途死亡(对城墙)": 4400,
+      "成功爆破(对城墙)": 7040,
+      "hp": 150,
+      "upgradeCost": 11000000,
+      "upgradeTime": "6d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "面板伤害": 118,
+      "中途死亡(对城墙)": 4720,
+      "成功爆破(对城墙)": 7600,
+      "hp": 160,
+      "upgradeCost": 15500000,
+      "upgradeTime": "10d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "面板伤害": 126,
+      "中途死亡(对城墙)": 5040,
+      "成功爆破(对城墙)": 8160,
+      "hp": 170,
+      "upgradeCost": 26000000,
+      "upgradeTime": "14d",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0004",
+  "imgSrc": "Wall_Breaker_info.png"
+}

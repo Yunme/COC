@@ -1,0 +1,60 @@
+{
+  "id": "battle-drill",
+  "name": "Battle Drill",
+  "nameCn": "攻城钻机",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 430,
+      "damagePerHit": 731,
+      "hp": 4600,
+      "requiredLabLevel": 1,
+      "townHallLevel": 15
+    },
+    {
+      "level": 2,
+      "dps": 470,
+      "damagePerHit": 799,
+      "hp": 4900,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 3,
+      "dps": 510,
+      "damagePerHit": 867,
+      "hp": 5200,
+      "upgradeCost": 8500000,
+      "upgradeTime": "5d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 4,
+      "dps": 550,
+      "damagePerHit": 935,
+      "hp": 5500,
+      "upgradeCost": 10000000,
+      "upgradeTime": "8d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 5,
+      "dps": 590,
+      "damagePerHit": 1003,
+      "hp": 5800,
+      "upgradeCost": 17000000,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0246",
+  "imgSrc": "Battle_Drill_info.png"
+}

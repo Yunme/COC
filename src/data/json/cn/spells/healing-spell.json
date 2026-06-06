@@ -1,0 +1,82 @@
+{
+  "id": "healing-spell",
+  "name": "Healing Spell",
+  "nameCn": "疗伤法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "townHallLevel": 4
+    },
+    {
+      "level": 2,
+      "upgradeCost": 75000,
+      "upgradeTime": "5h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 3,
+      "upgradeCost": 150000,
+      "upgradeTime": "10h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 4,
+      "upgradeCost": 300000,
+      "upgradeTime": "20h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "upgradeCost": 900000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "upgradeCost": 1800000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "upgradeCost": 3000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 8,
+      "upgradeCost": 6000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "upgradeCost": 11000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "upgradeCost": 14000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 11,
+      "upgradeCost": 19000000,
+      "upgradeTime": "15d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "upgradeCost": 29000000,
+      "upgradeTime": "15d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0101",
+  "imgSrc": "Healing_Spell.png"
+}

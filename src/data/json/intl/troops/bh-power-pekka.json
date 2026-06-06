@@ -1,0 +1,90 @@
+{
+  "id": "bh-power-pekka",
+  "name": "Power P.E.K.K.A",
+  "nameCn": "雷霆皮卡",
+  "category": "troops",
+  "village": "builder",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 13,
+      "dps": 420,
+      "damagePerHit": 756,
+      "技能爆炸伤害": 920,
+      "hp": 3900,
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 14,
+      "dps": 420,
+      "damagePerHit": 756,
+      "技能爆炸伤害": 1060,
+      "hp": 3900,
+      "upgradeCost": 3600000,
+      "upgradeTime": "4d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 15,
+      "dps": 460,
+      "damagePerHit": 828,
+      "技能爆炸伤害": 1060,
+      "hp": 4290,
+      "upgradeCost": 3800000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 16,
+      "dps": 460,
+      "damagePerHit": 828,
+      "技能爆炸伤害": 1200,
+      "hp": 4290,
+      "upgradeCost": 4000000,
+      "upgradeTime": "5d12h",
+      "所需实验室和大本营等级": 8
+    },
+    {
+      "level": 17,
+      "dps": 500,
+      "damagePerHit": 900,
+      "技能爆炸伤害": 1200,
+      "hp": 4719,
+      "upgradeCost": 4600000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 18,
+      "dps": 500,
+      "damagePerHit": 900,
+      "技能爆炸伤害": 1350,
+      "hp": 4719,
+      "upgradeCost": 4800000,
+      "upgradeTime": "6d",
+      "所需实验室和大本营等级": 9
+    },
+    {
+      "level": 19,
+      "dps": 560,
+      "damagePerHit": 1008,
+      "技能爆炸伤害": 1350,
+      "hp": 5191,
+      "upgradeCost": 5600000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    },
+    {
+      "level": 20,
+      "dps": 560,
+      "damagePerHit": 1008,
+      "技能爆炸伤害": 1500,
+      "hp": 5191,
+      "upgradeCost": 5800000,
+      "upgradeTime": "6d12h",
+      "所需实验室和大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_tech/1009",
+  "imgSrc": "Power_P.E.K.K.A_info.png"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "furnace",
+  "name": "Furnace",
+  "nameCn": "烈焰熔炉",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "最多可生成的小火怪数量": 19,
+      "hp": 1530,
+      "requiredLabLevel": 1,
+      "townHallLevel": 15
+    },
+    {
+      "level": 2,
+      "最多可生成的小火怪数量": 20,
+      "hp": 1620,
+      "upgradeCost": 200000,
+      "upgradeTime": "12d",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 3,
+      "最多可生成的小火怪数量": 21,
+      "hp": 1710,
+      "upgradeTime": "14d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 4,
+      "最多可生成的小火怪数量": 22,
+      "hp": 1800,
+      "upgradeTime": "16d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/008b",
+  "imgSrc": "Furnace_info.png"
+}

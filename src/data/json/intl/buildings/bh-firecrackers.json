@@ -1,0 +1,97 @@
+{
+  "id": "bh-firecrackers",
+  "name": "Firecrackers",
+  "nameCn": "防空火炮",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 55,
+      "damagePerHit": 19,
+      "hp": 400,
+      "upgradeTime": "15m",
+      "所需夜世界大本等级": 3
+    },
+    {
+      "level": 2,
+      "dps": 61,
+      "damagePerHit": 21,
+      "hp": 460,
+      "upgradeTime": "2h",
+      "所需夜世界大本等级": 3
+    },
+    {
+      "level": 3,
+      "dps": 67,
+      "damagePerHit": 23,
+      "hp": 530,
+      "upgradeTime": "4h",
+      "所需夜世界大本等级": 3
+    },
+    {
+      "level": 4,
+      "dps": 73,
+      "damagePerHit": 25,
+      "hp": 610,
+      "upgradeTime": "12h",
+      "所需夜世界大本等级": 4
+    },
+    {
+      "level": 5,
+      "dps": 79,
+      "damagePerHit": 27,
+      "hp": 700,
+      "upgradeTime": "1d",
+      "所需夜世界大本等级": 5
+    },
+    {
+      "level": 6,
+      "dps": 87,
+      "damagePerHit": 30,
+      "hp": 850,
+      "upgradeCost": 1200000,
+      "upgradeTime": "2d",
+      "所需夜世界大本等级": 6
+    },
+    {
+      "level": 7,
+      "dps": 96,
+      "damagePerHit": 33,
+      "hp": 1000,
+      "upgradeCost": 2000000,
+      "upgradeTime": "4d",
+      "所需夜世界大本等级": 7
+    },
+    {
+      "level": 8,
+      "dps": 105,
+      "damagePerHit": 36,
+      "hp": 1150,
+      "upgradeCost": 3000000,
+      "upgradeTime": "6d",
+      "所需夜世界大本等级": 8
+    },
+    {
+      "level": 9,
+      "dps": 117,
+      "damagePerHit": 40,
+      "hp": 1300,
+      "upgradeCost": 4000000,
+      "upgradeTime": "8d",
+      "所需夜世界大本等级": 9
+    },
+    {
+      "level": 10,
+      "dps": 128,
+      "damagePerHit": 44,
+      "hp": 1500,
+      "upgradeCost": 5000000,
+      "upgradeTime": "9d",
+      "所需夜世界大本等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1104",
+  "imgSrc": "Firecrackers10.png"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "dark-elixir-drill",
+  "name": "Dark Elixir Drill",
+  "nameCn": "暗黑重油钻井",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 11,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 800,
+      "upgradeCost": 500000,
+      "upgradeTime": "4h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "hp": 860,
+      "upgradeCost": 700000,
+      "upgradeTime": "6h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "hp": 920,
+      "upgradeCost": 900000,
+      "upgradeTime": "12h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 4,
+      "hp": 980,
+      "upgradeCost": 1200000,
+      "upgradeTime": "18h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "hp": 1060,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 6,
+      "hp": 1160,
+      "upgradeCost": 1800000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "hp": 1280,
+      "upgradeCost": 2400000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 8,
+      "hp": 1380,
+      "upgradeCost": 3000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "hp": 1480,
+      "upgradeCost": 4000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "hp": 1550,
+      "upgradeCost": 6000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "hp": 1600,
+      "upgradeCost": 12000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_buildings/0403",
+  "imgSrc": "Dark_Elixir_Drill11.png"
+}

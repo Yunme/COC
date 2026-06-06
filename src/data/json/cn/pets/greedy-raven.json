@@ -1,0 +1,100 @@
+{
+  "id": "greedy-raven",
+  "name": "Greedy Raven",
+  "nameCn": "贪婪渡鸦",
+  "category": "pets",
+  "village": "home",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 110,
+      "damagePerHit": 46.2,
+      "hp": 2150,
+      "townHallLevel": 18
+    },
+    {
+      "level": 2,
+      "dps": 115,
+      "damagePerHit": 48.3,
+      "hp": 2300,
+      "upgradeCost": 260000,
+      "upgradeTime": "8d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 3,
+      "dps": 120,
+      "damagePerHit": 50.4,
+      "hp": 2450,
+      "upgradeCost": 280000,
+      "upgradeTime": "8d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 4,
+      "dps": 125,
+      "damagePerHit": 52.5,
+      "hp": 2600,
+      "upgradeCost": 300000,
+      "upgradeTime": "8d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 5,
+      "dps": 130,
+      "damagePerHit": 54.6,
+      "hp": 2750,
+      "upgradeCost": 320000,
+      "upgradeTime": "8d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 6,
+      "dps": 135,
+      "damagePerHit": 56.7,
+      "hp": 2900,
+      "upgradeCost": 340000,
+      "upgradeTime": "8d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 7,
+      "dps": 140,
+      "damagePerHit": 58.8,
+      "hp": 3050,
+      "upgradeCost": 360000,
+      "upgradeTime": "8d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 8,
+      "dps": 145,
+      "damagePerHit": 60.9,
+      "hp": 3200,
+      "upgradeCost": 380000,
+      "upgradeTime": "8d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 9,
+      "dps": 150,
+      "damagePerHit": 63,
+      "hp": 3350,
+      "upgradeCost": 400000,
+      "upgradeTime": "8d",
+      "townHallLevel": 18
+    },
+    {
+      "level": 10,
+      "dps": 155,
+      "damagePerHit": 65.1,
+      "hp": 3500,
+      "upgradeCost": 420000,
+      "upgradeTime": "8d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_heroes/028b",
+  "imgSrc": "Greedy_Raven_info.png"
+}

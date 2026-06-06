@@ -1,0 +1,254 @@
+{
+  "id": "fireball",
+  "name": "Fireball",
+  "nameCn": "巨大火球",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 27,
+  "levels": [
+    {
+      "level": 1,
+      "火球的溅射半径": 4,
+      "火球的伤害": 1500,
+      "英雄每秒伤害增加": 21,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 2,
+      "火球的溅射半径": 4,
+      "火球的伤害": 1500,
+      "英雄每秒伤害增加": 24,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 3,
+      "火球的溅射半径": 4,
+      "火球的伤害": 1700,
+      "英雄每秒伤害增加": 27,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 4,
+      "火球的溅射半径": 4,
+      "火球的伤害": 1700,
+      "英雄每秒伤害增加": 30,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "火球的溅射半径": 4,
+      "火球的伤害": 1800,
+      "英雄每秒伤害增加": 33,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "火球的溅射半径": 4,
+      "火球的伤害": 1950,
+      "英雄每秒伤害增加": 36,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "火球的溅射半径": 4,
+      "火球的伤害": 1950,
+      "英雄每秒伤害增加": 40,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "火球的溅射半径": 4,
+      "火球的伤害": 2050,
+      "英雄每秒伤害增加": 44,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "火球的溅射半径": 5,
+      "火球的伤害": 2200,
+      "英雄每秒伤害增加": 47,
+      "upgradeCost": 10,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 10,
+      "火球的溅射半径": 5,
+      "火球的伤害": 2200,
+      "英雄每秒伤害增加": 51,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 11,
+      "火球的溅射半径": 5,
+      "火球的伤害": 2350,
+      "英雄每秒伤害增加": 56,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 12,
+      "火球的溅射半径": 5,
+      "火球的伤害": 2650,
+      "英雄每秒伤害增加": 60,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 11
+    },
+    {
+      "level": 13,
+      "火球的溅射半径": 5,
+      "火球的伤害": 2650,
+      "英雄每秒伤害增加": 63,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 11
+    },
+    {
+      "level": 14,
+      "火球的溅射半径": 5,
+      "火球的伤害": 2750,
+      "英雄每秒伤害增加": 67,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 11
+    },
+    {
+      "level": 15,
+      "火球的溅射半径": 5,
+      "火球的伤害": 3100,
+      "英雄每秒伤害增加": 71,
+      "upgradeCost": 30,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 11
+    },
+    {
+      "level": 16,
+      "火球的溅射半径": 5,
+      "火球的伤害": 3100,
+      "英雄每秒伤害增加": 74,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 17,
+      "火球的溅射半径": 5,
+      "火球的伤害": 3250,
+      "英雄每秒伤害增加": 77,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 18,
+      "火球的溅射半径": 5,
+      "火球的伤害": 3400,
+      "英雄每秒伤害增加": 80,
+      "upgradeCost": 50,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 12
+    },
+    {
+      "level": 19,
+      "火球的溅射半径": 5,
+      "火球的伤害": 3400,
+      "英雄每秒伤害增加": 82,
+      "upgradeCost": 2800,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 20,
+      "火球的溅射半径": 5,
+      "火球的伤害": 3500,
+      "英雄每秒伤害增加": 84,
+      "upgradeCost": 2900,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 21,
+      "火球的溅射半径": 5,
+      "火球的伤害": 3650,
+      "英雄每秒伤害增加": 87,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 14
+    },
+    {
+      "level": 22,
+      "火球的溅射半径": 5,
+      "火球的伤害": 3650,
+      "英雄每秒伤害增加": 89,
+      "upgradeCost": 3100,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 23,
+      "火球的溅射半径": 5,
+      "火球的伤害": 3750,
+      "英雄每秒伤害增加": 92,
+      "upgradeCost": 3200,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 24,
+      "火球的溅射半径": 6,
+      "火球的伤害": 3900,
+      "英雄每秒伤害增加": 94,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 8,
+      "townHallLevel": 15
+    },
+    {
+      "level": 25,
+      "火球的溅射半径": 6,
+      "火球的伤害": 3900,
+      "英雄每秒伤害增加": 96,
+      "upgradeCost": 3400,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 26,
+      "火球的溅射半径": 6,
+      "火球的伤害": 3950,
+      "英雄每秒伤害增加": 99,
+      "upgradeCost": 3500,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    },
+    {
+      "level": 27,
+      "火球的溅射半径": 6,
+      "火球的伤害": 4100,
+      "英雄每秒伤害增加": 101,
+      "upgradeCost": 150,
+      "requiredBlacksmithLevel": 9,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/0784",
+  "imgSrc": "Fireball_info.png"
+}

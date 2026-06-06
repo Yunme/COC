@@ -1,0 +1,118 @@
+{
+  "id": "dragon",
+  "name": "Dragon",
+  "nameCn": "飞龙",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 140,
+      "damagePerHit": 175,
+      "hp": 1900,
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "dps": 160,
+      "damagePerHit": 200,
+      "hp": 2100,
+      "upgradeCost": 1000000,
+      "upgradeTime": "18h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "dps": 180,
+      "damagePerHit": 225,
+      "hp": 2300,
+      "upgradeCost": 2000000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 4,
+      "dps": 210,
+      "damagePerHit": 262.5,
+      "hp": 2700,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "dps": 240,
+      "damagePerHit": 300,
+      "hp": 3100,
+      "upgradeCost": 3800000,
+      "upgradeTime": "3d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "dps": 270,
+      "damagePerHit": 337.5,
+      "hp": 3400,
+      "upgradeCost": 4900000,
+      "upgradeTime": "4d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "dps": 310,
+      "damagePerHit": 387.5,
+      "hp": 3900,
+      "upgradeCost": 5000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 8,
+      "dps": 330,
+      "damagePerHit": 412.5,
+      "hp": 4200,
+      "upgradeCost": 7500000,
+      "upgradeTime": "6d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "dps": 350,
+      "damagePerHit": 437.5,
+      "hp": 4500,
+      "upgradeCost": 10500000,
+      "upgradeTime": "9d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "dps": 370,
+      "damagePerHit": 462.5,
+      "hp": 4900,
+      "upgradeCost": 15000000,
+      "upgradeTime": "10d14h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "dps": 390,
+      "damagePerHit": 487.5,
+      "hp": 5300,
+      "upgradeCost": 17200000,
+      "upgradeTime": "13d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 410,
+      "damagePerHit": 512.5,
+      "hp": 5700,
+      "upgradeCost": 22000000,
+      "upgradeTime": "14d16h",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0008",
+  "imgSrc": "Dragon_info.png"
+}

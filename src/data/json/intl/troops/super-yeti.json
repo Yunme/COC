@@ -1,0 +1,68 @@
+{
+  "id": "super-yeti",
+  "name": "Super Yeti",
+  "nameCn": "超级大雪怪",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 360,
+      "damagePerHit": 360,
+      "分裂的雷电小雪怪数量": 7,
+      "hp": 4600,
+      "townHallLevel": 12
+    },
+    {
+      "level": 2,
+      "dps": 390,
+      "damagePerHit": 390,
+      "分裂的雷电小雪怪数量": 8,
+      "hp": 5000,
+      "townHallLevel": 12
+    },
+    {
+      "level": 3,
+      "dps": 415,
+      "damagePerHit": 415,
+      "分裂的雷电小雪怪数量": 9,
+      "hp": 5400,
+      "townHallLevel": 13
+    },
+    {
+      "level": 4,
+      "dps": 440,
+      "damagePerHit": 440,
+      "分裂的雷电小雪怪数量": 10,
+      "hp": 5800,
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "dps": 465,
+      "damagePerHit": 465,
+      "分裂的雷电小雪怪数量": 11,
+      "hp": 6200,
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "dps": 495,
+      "damagePerHit": 495,
+      "分裂的雷电小雪怪数量": 12,
+      "hp": 6600,
+      "townHallLevel": 16
+    },
+    {
+      "level": 7,
+      "dps": 525,
+      "damagePerHit": 525,
+      "分裂的雷电小雪怪数量": 13,
+      "hp": 7000,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0610",
+  "imgSrc": "Super_Yeti_info.png"
+}

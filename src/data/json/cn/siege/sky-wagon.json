@@ -1,0 +1,42 @@
+{
+  "id": "sky-wagon",
+  "name": "Sky Wagon",
+  "nameCn": "空中战车",
+  "category": "siege",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 1,
+      "hp": 3600,
+      "townHallLevel": 17
+    },
+    {
+      "level": 2,
+      "dps": 2,
+      "hp": 3800,
+      "upgradeCost": 22000000,
+      "upgradeTime": "10d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 3,
+      "dps": 3,
+      "hp": 4000,
+      "upgradeCost": 26000000,
+      "upgradeTime": "13d12h",
+      "townHallLevel": 18
+    },
+    {
+      "level": 4,
+      "dps": 4,
+      "hp": 4200,
+      "upgradeCost": 29000000,
+      "upgradeTime": "16d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0248",
+  "imgSrc": "Sky_Wagon_info.png"
+}

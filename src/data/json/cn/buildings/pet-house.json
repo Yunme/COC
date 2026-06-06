@@ -1,0 +1,96 @@
+{
+  "id": "pet-house",
+  "name": "Pet House",
+  "nameCn": "战宠小屋",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 11,
+      "hp": 1350,
+      "upgradeCost": 22000000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "hp": 1400,
+      "upgradeCost": 25500000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 18
+    },
+    {
+      "level": 1,
+      "hp": 700,
+      "upgradeCost": 8000000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "hp": 800,
+      "upgradeCost": 10000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "hp": 900,
+      "upgradeCost": 12000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "hp": 1000,
+      "upgradeCost": 14000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "hp": 1050,
+      "upgradeCost": 15000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "hp": 1100,
+      "upgradeCost": 15500000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 7,
+      "hp": 1150,
+      "upgradeCost": 16000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 8,
+      "hp": 1200,
+      "upgradeCost": 17000000,
+      "upgradeTime": "10d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 9,
+      "hp": 1250,
+      "upgradeCost": 17500000,
+      "upgradeTime": "11d12h",
+      "townHallLevel": 16
+    },
+    {
+      "level": 10,
+      "hp": 1300,
+      "upgradeCost": 18000000,
+      "upgradeTime": "12d12h",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_buildings/0487",
+  "imgSrc": "Pet_House12_info.png"
+}

@@ -1,0 +1,261 @@
+{
+  "id": "dragon-duke",
+  "name": "Dragon Duke",
+  "nameCn": "飞龙公爵",
+  "category": "heroes",
+  "village": "home",
+  "maxLevel": 25,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 304,
+      "damagePerHit": 364.8,
+      "hp": 9100,
+      "upgradeCost": 0,
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 2,
+      "dps": 308,
+      "damagePerHit": 369.6,
+      "hp": 9175,
+      "upgradeCost": 50000,
+      "upgradeTime": "6h",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 3,
+      "dps": 312,
+      "damagePerHit": 374.4,
+      "hp": 9250,
+      "upgradeCost": 60000,
+      "upgradeTime": "12h",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 4,
+      "dps": 316,
+      "damagePerHit": 379.2,
+      "hp": 9325,
+      "upgradeCost": 70000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 5,
+      "dps": 320,
+      "damagePerHit": 384,
+      "hp": 9400,
+      "upgradeCost": 80000,
+      "upgradeTime": "1d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "dps": 324,
+      "damagePerHit": 388.8,
+      "hp": 9475,
+      "upgradeCost": 90000,
+      "upgradeTime": "2d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 7,
+      "dps": 328,
+      "damagePerHit": 393.6,
+      "hp": 9550,
+      "upgradeCost": 100000,
+      "upgradeTime": "2d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 8,
+      "dps": 332,
+      "damagePerHit": 398.4,
+      "hp": 9625,
+      "upgradeCost": 110000,
+      "upgradeTime": "2d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 9,
+      "dps": 336,
+      "damagePerHit": 403.2,
+      "hp": 9700,
+      "upgradeCost": 120000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "dps": 340,
+      "damagePerHit": 408,
+      "hp": 9775,
+      "upgradeCost": 130000,
+      "upgradeTime": "3d",
+      "requiredHeroHallLevel": 9,
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "dps": 344,
+      "damagePerHit": 412.8,
+      "hp": 9850,
+      "upgradeCost": 150000,
+      "upgradeTime": "4d",
+      "requiredHeroHallLevel": 10,
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 348,
+      "damagePerHit": 417.6,
+      "hp": 9925,
+      "upgradeCost": 175000,
+      "upgradeTime": "5d",
+      "requiredHeroHallLevel": 10,
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "dps": 352,
+      "damagePerHit": 422.4,
+      "hp": 10000,
+      "upgradeCost": 200000,
+      "upgradeTime": "5d",
+      "requiredHeroHallLevel": 10,
+      "townHallLevel": 16
+    },
+    {
+      "level": 14,
+      "dps": 356,
+      "damagePerHit": 427.2,
+      "hp": 10075,
+      "upgradeCost": 225000,
+      "upgradeTime": "6d",
+      "requiredHeroHallLevel": 10,
+      "townHallLevel": 16
+    },
+    {
+      "level": 15,
+      "dps": 360,
+      "damagePerHit": 432,
+      "hp": 10150,
+      "upgradeCost": 250000,
+      "upgradeTime": "6d",
+      "requiredHeroHallLevel": 10,
+      "townHallLevel": 16
+    },
+    {
+      "level": 16,
+      "dps": 364,
+      "damagePerHit": 436.8,
+      "hp": 10225,
+      "upgradeCost": 275000,
+      "upgradeTime": "7d",
+      "requiredHeroHallLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 17,
+      "dps": 368,
+      "damagePerHit": 441.6,
+      "hp": 10300,
+      "upgradeCost": 300000,
+      "upgradeTime": "7d",
+      "requiredHeroHallLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 18,
+      "dps": 372,
+      "damagePerHit": 446.4,
+      "hp": 10375,
+      "upgradeCost": 325000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 19,
+      "dps": 376,
+      "damagePerHit": 451.2,
+      "hp": 10450,
+      "upgradeCost": 350000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 20,
+      "dps": 380,
+      "damagePerHit": 456,
+      "hp": 10525,
+      "upgradeCost": 375000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 21,
+      "dps": 384,
+      "damagePerHit": 460.8,
+      "hp": 10600,
+      "upgradeCost": 400000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 12,
+      "townHallLevel": 18
+    },
+    {
+      "level": 22,
+      "dps": 388,
+      "damagePerHit": 465.6,
+      "hp": 10675,
+      "upgradeCost": 420000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 12,
+      "townHallLevel": 18
+    },
+    {
+      "level": 23,
+      "dps": 392,
+      "damagePerHit": 470.4,
+      "hp": 10750,
+      "upgradeCost": 440000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 12,
+      "townHallLevel": 18
+    },
+    {
+      "level": 24,
+      "dps": 396,
+      "damagePerHit": 475.2,
+      "hp": 10825,
+      "upgradeCost": 460000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 12,
+      "townHallLevel": 18
+    },
+    {
+      "level": 25,
+      "dps": 400,
+      "damagePerHit": 480,
+      "hp": 10900,
+      "upgradeCost": 480000,
+      "upgradeTime": "8d",
+      "requiredHeroHallLevel": 12,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_heroes/0205",
+  "imgSrc": "Dragon_Duke_info.png"
+}

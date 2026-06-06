@@ -1,0 +1,62 @@
+{
+  "id": "rage-spell",
+  "name": "Rage Spell",
+  "nameCn": "狂暴法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 1,
+      "伤害增加<sup>①<Sup>": 130,
+      "速度增加<sup>②<Sup>": 20,
+      "所需实验室等级<sup>③<Sup>": 3,
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "伤害增加<sup>①<Sup>": 140,
+      "速度增加<sup>②<Sup>": 22,
+      "upgradeTime": "6h",
+      "所需实验室等级<sup>③<Sup>": 3,
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "伤害增加<sup>①<Sup>": 150,
+      "速度增加<sup>②<Sup>": 24,
+      "upgradeTime": "12h",
+      "所需实验室等级<sup>③<Sup>": 4,
+      "townHallLevel": 7
+    },
+    {
+      "level": 4,
+      "伤害增加<sup>①<Sup>": 160,
+      "速度增加<sup>②<Sup>": 26,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d",
+      "所需实验室等级<sup>③<Sup>": 5,
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "伤害增加<sup>①<Sup>": 170,
+      "速度增加<sup>②<Sup>": 28,
+      "upgradeCost": 2000000,
+      "upgradeTime": "2d",
+      "所需实验室等级<sup>③<Sup>": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "伤害增加<sup>①<Sup>": 180,
+      "速度增加<sup>②<Sup>": 30,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "所需实验室等级<sup>③<Sup>": 10,
+      "townHallLevel": 12
+    }
+  ],
+  "imgFolder": "home_tech/0102",
+  "imgSrc": "Rage_Spell.png"
+}

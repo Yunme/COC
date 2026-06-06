@@ -1,0 +1,76 @@
+{
+  "id": "dragon-rider",
+  "name": "Dragon Rider",
+  "nameCn": "龙骑士",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 340,
+      "damagePerHit": 408,
+      "死亡伤害": 700,
+      "hp": 4100,
+      "requiredLabLevel": 1,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "dps": 370,
+      "damagePerHit": 444,
+      "死亡伤害": 800,
+      "hp": 4400,
+      "upgradeCost": 7500000,
+      "upgradeTime": "6d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "dps": 400,
+      "damagePerHit": 480,
+      "死亡伤害": 900,
+      "hp": 4700,
+      "upgradeCost": 12000000,
+      "upgradeTime": "8d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 430,
+      "damagePerHit": 516,
+      "死亡伤害": 1000,
+      "hp": 5100,
+      "upgradeCost": 14500000,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 5,
+      "dps": 470,
+      "damagePerHit": 564,
+      "死亡伤害": 1100,
+      "hp": 5600,
+      "upgradeCost": 19000000,
+      "upgradeTime": "10d6h",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 6,
+      "dps": 520,
+      "damagePerHit": 624,
+      "死亡伤害": 1200,
+      "hp": 6200,
+      "upgradeCost": 29500000,
+      "upgradeTime": "15d12h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/000e",
+  "imgSrc": "Dragon_Rider_info.png"
+}

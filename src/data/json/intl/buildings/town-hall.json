@@ -1,0 +1,154 @@
+{
+  "id": "town-hall",
+  "name": "Town Hall",
+  "nameCn": "大本营",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 400,
+      "建筑数量<sup>*<Sup>": 13,
+      "陷阱数量<sup>*<Sup>": 0
+    },
+    {
+      "level": 2,
+      "hp": 800,
+      "upgradeCost": 1000,
+      "upgradeTime": "10s",
+      "建筑数量<sup>*<Sup>": 17,
+      "陷阱数量<sup>*<Sup>": 0
+    },
+    {
+      "level": 3,
+      "hp": 1600,
+      "upgradeCost": 4000,
+      "upgradeTime": "30m",
+      "建筑数量<sup>*<Sup>": 25,
+      "陷阱数量<sup>*<Sup>": 2
+    },
+    {
+      "level": 4,
+      "hp": 2000,
+      "upgradeCost": 25000,
+      "upgradeTime": "3h",
+      "建筑数量<sup>*<Sup>": 29,
+      "陷阱数量<sup>*<Sup>": 4
+    },
+    {
+      "level": 5,
+      "hp": 2400,
+      "upgradeCost": 150000,
+      "upgradeTime": "6h",
+      "建筑数量<sup>*<Sup>": 36,
+      "陷阱数量<sup>*<Sup>": 8
+    },
+    {
+      "level": 6,
+      "hp": 2800,
+      "upgradeCost": 500000,
+      "upgradeTime": "12h",
+      "建筑数量<sup>*<Sup>": 42,
+      "陷阱数量<sup>*<Sup>": 11
+    },
+    {
+      "level": 7,
+      "hp": 3300,
+      "upgradeCost": 1000000,
+      "upgradeTime": "18h",
+      "建筑数量<sup>*<Sup>": 54,
+      "陷阱数量<sup>*<Sup>": 15
+    },
+    {
+      "level": 8,
+      "hp": 3900,
+      "upgradeCost": 2000000,
+      "upgradeTime": "1d",
+      "建筑数量<sup>*<Sup>": 64,
+      "陷阱数量<sup>*<Sup>": 23
+    },
+    {
+      "level": 9,
+      "hp": 4600,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "建筑数量<sup>*<Sup>": 77,
+      "陷阱数量<sup>*<Sup>": 26
+    },
+    {
+      "level": 10,
+      "hp": 5500,
+      "upgradeCost": 3500000,
+      "upgradeTime": "3d",
+      "建筑数量<sup>*<Sup>": 84,
+      "陷阱数量<sup>*<Sup>": 30
+    },
+    {
+      "level": 11,
+      "hp": 6800,
+      "upgradeCost": 4000000,
+      "upgradeTime": "5d",
+      "建筑数量<sup>*<Sup>": 89,
+      "陷阱数量<sup>*<Sup>": 31
+    },
+    {
+      "level": 12,
+      "hp": 7500,
+      "upgradeCost": 6000000,
+      "upgradeTime": "6d",
+      "建筑数量<sup>*<Sup>": 92,
+      "陷阱数量<sup>*<Sup>": 36
+    },
+    {
+      "level": 13,
+      "hp": 8200,
+      "upgradeCost": 9000000,
+      "upgradeTime": "7d",
+      "建筑数量<sup>*<Sup>": 94,
+      "陷阱数量<sup>*<Sup>": 39
+    },
+    {
+      "level": 14,
+      "hp": 8900,
+      "upgradeCost": 12000000,
+      "upgradeTime": "7d12h",
+      "建筑数量<sup>*<Sup>": 95,
+      "陷阱数量<sup>*<Sup>": 44
+    },
+    {
+      "level": 15,
+      "hp": 9600,
+      "upgradeCost": 13000000,
+      "upgradeTime": "8d",
+      "建筑数量<sup>*<Sup>": 98,
+      "陷阱数量<sup>*<Sup>": 44
+    },
+    {
+      "level": 16,
+      "hp": 10000,
+      "upgradeCost": 15000000,
+      "upgradeTime": "9d",
+      "建筑数量<sup>*<Sup>": 94,
+      "陷阱数量<sup>*<Sup>": 44
+    },
+    {
+      "level": 17,
+      "hp": 10400,
+      "upgradeCost": 16000000,
+      "upgradeTime": "10d",
+      "建筑数量<sup>*<Sup>": 93,
+      "陷阱数量<sup>*<Sup>": 47
+    },
+    {
+      "level": 18,
+      "hp": 10800,
+      "upgradeCost": 25000000,
+      "upgradeTime": "14d",
+      "建筑数量<sup>*<Sup>": 94,
+      "陷阱数量<sup>*<Sup>": 47
+    }
+  ],
+  "imgFolder": "home_buildings/0400",
+  "imgSrc": "Town_Hall18_hd.png"
+}

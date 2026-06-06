@@ -1,0 +1,130 @@
+{
+  "id": "miner",
+  "name": "Miner",
+  "nameCn": "掘地矿工",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 80,
+      "damagePerHit": 136,
+      "hp": 550,
+      "requiredLabLevel": 1,
+      "townHallLevel": 10
+    },
+    {
+      "level": 2,
+      "dps": 88,
+      "damagePerHit": 149.6,
+      "hp": 610,
+      "upgradeCost": 1500000,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 3,
+      "dps": 96,
+      "damagePerHit": 163.2,
+      "hp": 670,
+      "upgradeCost": 2600000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "dps": 104,
+      "damagePerHit": 176.8,
+      "hp": 730,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d6h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "dps": 112,
+      "damagePerHit": 190.4,
+      "hp": 800,
+      "upgradeCost": 4000000,
+      "upgradeTime": "2d12h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "dps": 120,
+      "damagePerHit": 204,
+      "hp": 900,
+      "upgradeCost": 4800000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "dps": 128,
+      "damagePerHit": 217.6,
+      "hp": 1000,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "dps": 136,
+      "damagePerHit": 231.2,
+      "hp": 1150,
+      "upgradeCost": 8600000,
+      "upgradeTime": "6d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "dps": 144,
+      "damagePerHit": 244.8,
+      "hp": 1350,
+      "upgradeCost": 10500000,
+      "upgradeTime": "6d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "dps": 160,
+      "damagePerHit": 272,
+      "hp": 1550,
+      "upgradeCost": 12500000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 11,
+      "dps": 175,
+      "damagePerHit": 297.5,
+      "hp": 1750,
+      "upgradeCost": 16500000,
+      "upgradeTime": "9d20h",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "dps": 195,
+      "damagePerHit": 331.5,
+      "hp": 2050,
+      "upgradeCost": 28000000,
+      "upgradeTime": "14d12h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/000b",
+  "imgSrc": "Miner_info.png"
+}

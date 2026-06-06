@@ -1,0 +1,68 @@
+{
+  "id": "inferno-dragon",
+  "name": "Inferno Dragon",
+  "nameCn": "地狱飞龙",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 6,
+      "初始秒伤": 75,
+      "1.7秒后秒伤": 150,
+      "3.2秒后秒伤": 1500,
+      "hp": 1900,
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "初始秒伤": 79,
+      "1.7秒后秒伤": 158,
+      "3.2秒后秒伤": 1580,
+      "hp": 2050,
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "初始秒伤": 83,
+      "1.7秒后秒伤": 166,
+      "3.2秒后秒伤": 1660,
+      "hp": 2200,
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "初始秒伤": 85,
+      "1.7秒后秒伤": 170,
+      "3.2秒后秒伤": 1700,
+      "hp": 2300,
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "初始秒伤": 86,
+      "1.7秒后秒伤": 174,
+      "3.2秒后秒伤": 1740,
+      "hp": 2400,
+      "townHallLevel": 16
+    },
+    {
+      "level": 11,
+      "初始秒伤": 88,
+      "1.7秒后秒伤": 178,
+      "3.2秒后秒伤": 1780,
+      "hp": 2500,
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "初始秒伤": 90,
+      "1.7秒后秒伤": 182,
+      "3.2秒后秒伤": 1820,
+      "hp": 2700,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0604",
+  "imgSrc": "Inferno_Dragon_info.png"
+}

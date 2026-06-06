@@ -1,0 +1,78 @@
+{
+  "id": "earthquake-spell",
+  "name": "Earthquake Spell",
+  "nameCn": "地震法术",
+  "category": "spells",
+  "village": "home",
+  "maxLevel": 8,
+  "levels": [
+    {
+      "level": 1,
+      "基准伤害(对建筑)": 14.5,
+      "作用半径": 3.5,
+      "requiredLabLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "基准伤害(对建筑)": 17,
+      "作用半径": 3.8,
+      "upgradeTime": "12h",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "基准伤害(对建筑)": 21,
+      "作用半径": 4.1,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "基准伤害(对建筑)": 25,
+      "作用半径": 4.4,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 5,
+      "基准伤害(对建筑)": 29,
+      "作用半径": 4.7,
+      "upgradeTime": "3d12h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "基准伤害(对建筑)": 29,
+      "基准伤害(对部队)": 5,
+      "作用半径": 4.7,
+      "upgradeTime": "8d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "基准伤害(对建筑)": 29,
+      "基准伤害(对部队)": 10,
+      "作用半径": 4.7,
+      "upgradeTime": "9d",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "基准伤害(对建筑)": 29,
+      "基准伤害(对部队)": 14.5,
+      "作用半径": 4.7,
+      "upgradeTime": "13d12h",
+      "requiredLabLevel": 16,
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0181",
+  "imgSrc": "Earthquake_Spell.png"
+}

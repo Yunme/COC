@@ -1,0 +1,165 @@
+{
+  "id": "golem",
+  "name": "Golem",
+  "nameCn": "戈仑石人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 35,
+      "damagePerHit": 84,
+      "死亡溅射伤害": 350,
+      "死亡后分裂的小石头人数量": 2,
+      "hp": 5100,
+      "requiredLabLevel": 1,
+      "townHallLevel": 8
+    },
+    {
+      "level": 2,
+      "dps": 40,
+      "damagePerHit": 96,
+      "死亡溅射伤害": 400,
+      "死亡后分裂的小石头人数量": 2,
+      "hp": 5400,
+      "upgradeTime": "16h",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 3,
+      "dps": 45,
+      "damagePerHit": 108,
+      "死亡溅射伤害": 450,
+      "死亡后分裂的小石头人数量": 2,
+      "hp": 5700,
+      "upgradeTime": "1d12h",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 4,
+      "dps": 50,
+      "damagePerHit": 120,
+      "死亡溅射伤害": 500,
+      "死亡后分裂的小石头人数量": 2,
+      "hp": 6000,
+      "upgradeTime": "2d",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 5,
+      "dps": 55,
+      "damagePerHit": 132,
+      "死亡溅射伤害": 550,
+      "死亡后分裂的小石头人数量": 2,
+      "hp": 6300,
+      "upgradeTime": "2d6h",
+      "requiredLabLevel": 8,
+      "townHallLevel": 10
+    },
+    {
+      "level": 6,
+      "dps": 60,
+      "damagePerHit": 144,
+      "死亡溅射伤害": 600,
+      "死亡后分裂的小石头人数量": 2,
+      "hp": 6600,
+      "upgradeTime": "2d12h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 7,
+      "dps": 65,
+      "damagePerHit": 156,
+      "死亡溅射伤害": 650,
+      "死亡后分裂的小石头人数量": 2,
+      "hp": 7000,
+      "upgradeTime": "2d18h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "dps": 70,
+      "damagePerHit": 168,
+      "死亡溅射伤害": 700,
+      "死亡后分裂的小石头人数量": 3,
+      "hp": 7500,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "dps": 75,
+      "damagePerHit": 180,
+      "死亡溅射伤害": 750,
+      "死亡后分裂的小石头人数量": 3,
+      "hp": 7900,
+      "upgradeTime": "3d12h",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 80,
+      "damagePerHit": 192,
+      "死亡溅射伤害": 800,
+      "死亡后分裂的小石头人数量": 3,
+      "hp": 8200,
+      "upgradeTime": "4d",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 11,
+      "dps": 85,
+      "damagePerHit": 204,
+      "死亡溅射伤害": 850,
+      "死亡后分裂的小石头人数量": 3,
+      "hp": 8500,
+      "upgradeTime": "5d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 12,
+      "dps": 90,
+      "damagePerHit": 216,
+      "死亡溅射伤害": 900,
+      "死亡后分裂的小石头人数量": 3,
+      "hp": 8800,
+      "upgradeTime": "5d12h",
+      "requiredLabLevel": 13,
+      "townHallLevel": 15
+    },
+    {
+      "level": 13,
+      "dps": 95,
+      "damagePerHit": 228,
+      "死亡溅射伤害": 950,
+      "死亡后分裂的小石头人数量": 4,
+      "hp": 9200,
+      "upgradeTime": "6d10h",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 14,
+      "dps": 100,
+      "damagePerHit": 240,
+      "死亡溅射伤害": 1000,
+      "死亡后分裂的小石头人数量": 4,
+      "hp": 9600,
+      "upgradeTime": "10d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0083",
+  "imgSrc": "Golem_info.png"
+}

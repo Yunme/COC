@@ -1,0 +1,130 @@
+{
+  "id": "electro-owl",
+  "name": "Electro Owl",
+  "nameCn": "闪枭",
+  "category": "pets",
+  "village": "home",
+  "maxLevel": 15,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 100,
+      "hp": 1600,
+      "townHallLevel": 14
+    },
+    {
+      "level": 2,
+      "dps": 105,
+      "hp": 1700,
+      "upgradeCost": 86250,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 3,
+      "dps": 110,
+      "hp": 1800,
+      "upgradeCost": 97500,
+      "upgradeTime": "2d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 115,
+      "hp": 1900,
+      "upgradeCost": 105000,
+      "upgradeTime": "3d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 5,
+      "dps": 120,
+      "hp": 2000,
+      "upgradeCost": 116250,
+      "upgradeTime": "4d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 6,
+      "dps": 125,
+      "hp": 2100,
+      "upgradeCost": 123750,
+      "upgradeTime": "4d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 7,
+      "dps": 130,
+      "hp": 2200,
+      "upgradeCost": 135000,
+      "upgradeTime": "5d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 8,
+      "dps": 135,
+      "hp": 2300,
+      "upgradeCost": 142500,
+      "upgradeTime": "5d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "dps": 140,
+      "hp": 2400,
+      "upgradeCost": 153750,
+      "upgradeTime": "6d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "dps": 145,
+      "hp": 2500,
+      "upgradeCost": 161250,
+      "upgradeTime": "6d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 150,
+      "hp": 2600,
+      "upgradeCost": 172500,
+      "upgradeTime": "7d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 155,
+      "hp": 2700,
+      "upgradeCost": 187500,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "dps": 160,
+      "hp": 2800,
+      "upgradeCost": 198750,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 14,
+      "dps": 165,
+      "hp": 2900,
+      "upgradeCost": 213750,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 15,
+      "dps": 170,
+      "hp": 3000,
+      "upgradeCost": 225000,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/0281",
+  "imgSrc": "Electro_Owl_info.png"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "furnace",
+  "name": "Furnace",
+  "nameCn": "烈焰熔炉",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 1,
+      "hp": 1530,
+      "townHallLevel": 15
+    },
+    {
+      "level": 2,
+      "dps": 2,
+      "hp": 1620,
+      "upgradeCost": 200000,
+      "upgradeTime": "9d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 3,
+      "dps": 3,
+      "hp": 1710,
+      "upgradeCost": 260000,
+      "upgradeTime": "11d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 4,
+      "dps": 4,
+      "hp": 1800,
+      "upgradeCost": 320000,
+      "upgradeTime": "15d",
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/008b",
+  "imgSrc": "Furnace_info.png"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "super-valkyrie",
+  "name": "Super Valkyrie",
+  "nameCn": "超级瓦基丽武神",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 7,
+      "dps": 250,
+      "damagePerHit": 275,
+      "hp": 2400,
+      "townHallLevel": 12
+    },
+    {
+      "level": 8,
+      "dps": 300,
+      "damagePerHit": 330,
+      "hp": 2700,
+      "townHallLevel": 13
+    },
+    {
+      "level": 9,
+      "dps": 325,
+      "damagePerHit": 357.5,
+      "hp": 2900,
+      "townHallLevel": 14
+    },
+    {
+      "level": 10,
+      "dps": 350,
+      "damagePerHit": 385,
+      "hp": 3400,
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "dps": 375,
+      "damagePerHit": 412.5,
+      "hp": 3900,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0607",
+  "imgSrc": "Super_Valkyrie_info.png"
+}

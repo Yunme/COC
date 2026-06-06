@@ -1,0 +1,34 @@
+{
+  "id": "meteor-golem",
+  "name": "Meteor Golem",
+  "nameCn": "陨石戈仑",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 450,
+      "hp": 13000,
+      "townHallLevel": 17
+    },
+    {
+      "level": 2,
+      "dps": 500,
+      "hp": 14500,
+      "upgradeCost": 28000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 3,
+      "dps": 550,
+      "hp": 16000,
+      "upgradeCost": 30000000,
+      "upgradeTime": "16d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/0012",
+  "imgSrc": "Meteor_Golem_info.png"
+}

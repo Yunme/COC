@@ -1,0 +1,172 @@
+{
+  "id": "flame-blower",
+  "name": "Flame Blower",
+  "nameCn": "助燃器",
+  "category": "equipment",
+  "village": "home",
+  "maxLevel": 18,
+  "levels": [
+    {
+      "level": 1,
+      "技能伤害": 1300,
+      "英雄生命值增加": 500,
+      "开启技能后生命值恢复量增加": 150,
+      "townHallLevel": 15
+    },
+    {
+      "level": 2,
+      "技能伤害": 1300,
+      "英雄生命值增加": 700,
+      "开启技能后生命值恢复量增加": 250,
+      "upgradeCost": 120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 15
+    },
+    {
+      "level": 3,
+      "技能伤害": 1375,
+      "英雄生命值增加": 900,
+      "开启技能后生命值恢复量增加": 350,
+      "upgradeCost": 20,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 15
+    },
+    {
+      "level": 4,
+      "技能伤害": 1375,
+      "英雄生命值增加": 1100,
+      "开启技能后生命值恢复量增加": 450,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 15
+    },
+    {
+      "level": 5,
+      "技能伤害": 1375,
+      "英雄生命值增加": 1300,
+      "开启技能后生命值恢复量增加": 550,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 15
+    },
+    {
+      "level": 6,
+      "技能伤害": 1500,
+      "英雄生命值增加": 1500,
+      "开启技能后生命值恢复量增加": 650,
+      "upgradeCost": 100,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 15
+    },
+    {
+      "level": 7,
+      "技能伤害": 1500,
+      "英雄生命值增加": 1700,
+      "开启技能后生命值恢复量增加": 750,
+      "upgradeCost": 1120,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 15
+    },
+    {
+      "level": 8,
+      "技能伤害": 1500,
+      "英雄生命值增加": 1850,
+      "开启技能后生命值恢复量增加": 850,
+      "upgradeCost": 1440,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 15
+    },
+    {
+      "level": 9,
+      "技能伤害": 1750,
+      "英雄生命值增加": 2000,
+      "开启技能后生命值恢复量增加": 950,
+      "upgradeCost": 200,
+      "requiredBlacksmithLevel": 1,
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "技能伤害": 1750,
+      "英雄生命值增加": 2150,
+      "开启技能后生命值恢复量增加": 1050,
+      "upgradeCost": 1900,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 15
+    },
+    {
+      "level": 11,
+      "技能伤害": 1750,
+      "英雄生命值增加": 2300,
+      "开启技能后生命值恢复量增加": 1150,
+      "upgradeCost": 2000,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "技能伤害": 2000,
+      "英雄生命值增加": 2450,
+      "开启技能后生命值恢复量增加": 1250,
+      "upgradeCost": 400,
+      "requiredBlacksmithLevel": 3,
+      "townHallLevel": 15
+    },
+    {
+      "level": 13,
+      "技能伤害": 2000,
+      "英雄生命值增加": 2600,
+      "开启技能后生命值恢复量增加": 1300,
+      "upgradeCost": 2200,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 15
+    },
+    {
+      "level": 14,
+      "技能伤害": 2000,
+      "英雄生命值增加": 2750,
+      "开启技能后生命值恢复量增加": 1350,
+      "upgradeCost": 2300,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 15
+    },
+    {
+      "level": 15,
+      "技能伤害": 2700,
+      "英雄生命值增加": 2900,
+      "开启技能后生命值恢复量增加": 1400,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 5,
+      "townHallLevel": 15
+    },
+    {
+      "level": 16,
+      "技能伤害": 2250,
+      "英雄生命值增加": 3000,
+      "开启技能后生命值恢复量增加": 1450,
+      "upgradeCost": 2500,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 15
+    },
+    {
+      "level": 17,
+      "技能伤害": 2250,
+      "英雄生命值增加": 3050,
+      "开启技能后生命值恢复量增加": 1500,
+      "upgradeCost": 2600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 15
+    },
+    {
+      "level": 18,
+      "技能伤害": 2500,
+      "英雄生命值增加": 3100,
+      "开启技能后生命值恢复量增加": 1500,
+      "upgradeCost": 600,
+      "requiredBlacksmithLevel": 7,
+      "townHallLevel": 15
+    }
+  ],
+  "imgFolder": "home_heroes/07e1",
+  "imgSrc": "Flame_Blower_info.png"
+}

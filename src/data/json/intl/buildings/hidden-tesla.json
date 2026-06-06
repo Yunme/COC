@@ -1,0 +1,165 @@
+{
+  "id": "hidden-tesla",
+  "name": "Hidden Tesla",
+  "nameCn": "特斯拉电磁塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 17,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 34,
+      "damagePerHit": 20.4,
+      "hp": 600,
+      "upgradeCost": 250000,
+      "upgradeTime": "2h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 2,
+      "dps": 40,
+      "damagePerHit": 24,
+      "hp": 630,
+      "upgradeCost": 350000,
+      "upgradeTime": "3h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 3,
+      "dps": 48,
+      "damagePerHit": 28.8,
+      "hp": 660,
+      "upgradeCost": 500000,
+      "upgradeTime": "4h",
+      "townHallLevel": 7
+    },
+    {
+      "level": 4,
+      "dps": 55,
+      "damagePerHit": 33,
+      "hp": 690,
+      "upgradeCost": 600000,
+      "upgradeTime": "6h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "dps": 64,
+      "damagePerHit": 38.4,
+      "hp": 730,
+      "upgradeCost": 800000,
+      "upgradeTime": "12h",
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 75,
+      "damagePerHit": 45,
+      "hp": 770,
+      "upgradeCost": 1200000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 7,
+      "dps": 87,
+      "damagePerHit": 52.2,
+      "hp": 810,
+      "upgradeCost": 1400000,
+      "upgradeTime": "1d6h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 8,
+      "dps": 99,
+      "damagePerHit": 59.4,
+      "hp": 850,
+      "upgradeCost": 1600000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 9,
+      "dps": 110,
+      "damagePerHit": 66,
+      "hp": 900,
+      "upgradeCost": 2100000,
+      "upgradeTime": "1d18h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 10,
+      "dps": 120,
+      "damagePerHit": 72,
+      "hp": 980,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 11,
+      "dps": 130,
+      "damagePerHit": 78,
+      "hp": 1100,
+      "upgradeCost": 3100000,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 13
+    },
+    {
+      "level": 12,
+      "dps": 140,
+      "damagePerHit": 84,
+      "hp": 1200,
+      "upgradeCost": 3700000,
+      "upgradeTime": "3d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 13,
+      "dps": 150,
+      "damagePerHit": 90,
+      "hp": 1350,
+      "upgradeCost": 5100000,
+      "upgradeTime": "3d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 14,
+      "dps": 160,
+      "damagePerHit": 96,
+      "hp": 1450,
+      "upgradeCost": 6500000,
+      "upgradeTime": "4d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 15,
+      "dps": 170,
+      "damagePerHit": 102,
+      "hp": 1550,
+      "upgradeCost": 8200000,
+      "upgradeTime": "5d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 16,
+      "dps": 180,
+      "damagePerHit": 108,
+      "hp": 1650,
+      "upgradeCost": 15000000,
+      "upgradeTime": "9d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 17,
+      "dps": 190,
+      "damagePerHit": 114,
+      "hp": 1750,
+      "upgradeCost": 25000000,
+      "upgradeTime": "13d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0307",
+  "imgSrc": "Hidden_Tesla17.png"
+}

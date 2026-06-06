@@ -1,0 +1,57 @@
+{
+  "id": "super-barbarian",
+  "name": "Super Barbarian",
+  "nameCn": "超级野蛮人",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 8,
+      "dps": 180,
+      "damagePerHit": 144,
+      "狂暴状态每秒伤害": 306,
+      "狂暴状态每次伤害": 244.8,
+      "hp": 1000,
+      "townHallLevel": 11
+    },
+    {
+      "level": 9,
+      "dps": 200,
+      "damagePerHit": 160,
+      "狂暴状态每秒伤害": 340,
+      "狂暴状态每次伤害": 272,
+      "hp": 1100,
+      "townHallLevel": 12
+    },
+    {
+      "level": 10,
+      "dps": 220,
+      "damagePerHit": 176,
+      "狂暴状态每秒伤害": 374,
+      "狂暴状态每次伤害": 299.2,
+      "hp": 1200,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 240,
+      "damagePerHit": 192,
+      "狂暴状态每秒伤害": 408,
+      "狂暴状态每次伤害": 326.4,
+      "hp": 1300,
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "dps": 250,
+      "damagePerHit": 200,
+      "狂暴状态每秒伤害": 425,
+      "狂暴状态每次伤害": 340,
+      "hp": 1350,
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_tech/0600",
+  "imgSrc": "Super_Barbarian_info.png"
+}

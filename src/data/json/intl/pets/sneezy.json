@@ -1,0 +1,110 @@
+{
+  "id": "sneezy",
+  "name": "Sneezy",
+  "nameCn": "阿啾",
+  "category": "pets",
+  "village": "home",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 270,
+      "damagePerHit": 216,
+      "hp": 3300,
+      "requiredPetHouseLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 2,
+      "dps": 290,
+      "damagePerHit": 232,
+      "hp": 3450,
+      "upgradeCost": 200000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 3,
+      "dps": 310,
+      "damagePerHit": 248,
+      "hp": 3600,
+      "upgradeCost": 220000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 4,
+      "dps": 330,
+      "damagePerHit": 264,
+      "hp": 3750,
+      "upgradeCost": 240000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 5,
+      "dps": 350,
+      "damagePerHit": 280,
+      "hp": 3900,
+      "upgradeCost": 260000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 6,
+      "dps": 370,
+      "damagePerHit": 296,
+      "hp": 4050,
+      "upgradeCost": 280000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 7,
+      "dps": 390,
+      "damagePerHit": 312,
+      "hp": 4200,
+      "upgradeCost": 300000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 8,
+      "dps": 410,
+      "damagePerHit": 328,
+      "hp": 4350,
+      "upgradeCost": 320000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 9,
+      "dps": 430,
+      "damagePerHit": 344,
+      "hp": 4500,
+      "upgradeCost": 340000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 11,
+      "townHallLevel": 17
+    },
+    {
+      "level": 10,
+      "dps": 450,
+      "damagePerHit": 360,
+      "hp": 4650,
+      "upgradeCost": 360000,
+      "upgradeTime": "8d",
+      "requiredPetHouseLevel": 11,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_heroes/028a",
+  "imgSrc": "Sneezy_info.png"
+}

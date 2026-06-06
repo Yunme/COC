@@ -1,0 +1,132 @@
+{
+  "id": "inferno-tower",
+  "name": "Inferno Tower",
+  "nameCn": "地狱之塔",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "初始每秒伤害": 30,
+      "1.25秒后每秒伤害": 80,
+      "5.25秒后每秒伤害": 800,
+      "hp": 1500,
+      "upgradeCost": 1000000,
+      "upgradeTime": "12h",
+      "townHallLevel": 10
+    },
+    {
+      "level": 2,
+      "初始每秒伤害": 35,
+      "1.25秒后每秒伤害": 100,
+      "5.25秒后每秒伤害": 1000,
+      "hp": 1800,
+      "upgradeCost": 1200000,
+      "upgradeTime": "1d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 3,
+      "初始每秒伤害": 40,
+      "1.25秒后每秒伤害": 120,
+      "5.25秒后每秒伤害": 1200,
+      "hp": 2100,
+      "upgradeCost": 2400000,
+      "upgradeTime": "2d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 4,
+      "初始每秒伤害": 45,
+      "1.25秒后每秒伤害": 140,
+      "5.25秒后每秒伤害": 1400,
+      "hp": 2400,
+      "upgradeCost": 3400000,
+      "upgradeTime": "2d12h",
+      "townHallLevel": 11
+    },
+    {
+      "level": 5,
+      "初始每秒伤害": 50,
+      "1.25秒后每秒伤害": 150,
+      "5.25秒后每秒伤害": 1500,
+      "hp": 2700,
+      "upgradeCost": 4000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 6,
+      "初始每秒伤害": 55,
+      "1.25秒后每秒伤害": 160,
+      "5.25秒后每秒伤害": 1600,
+      "hp": 3000,
+      "upgradeCost": 6000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 7,
+      "初始每秒伤害": 65,
+      "1.25秒后每秒伤害": 180,
+      "5.25秒后每秒伤害": 1800,
+      "hp": 3300,
+      "upgradeCost": 8000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 8,
+      "初始每秒伤害": 80,
+      "1.25秒后每秒伤害": 210,
+      "5.25秒后每秒伤害": 2100,
+      "hp": 3700,
+      "upgradeCost": 9500000,
+      "upgradeTime": "6d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 9,
+      "初始每秒伤害": 100,
+      "1.25秒后每秒伤害": 230,
+      "5.25秒后每秒伤害": 2300,
+      "hp": 4000,
+      "upgradeCost": 10000000,
+      "upgradeTime": "6d12h",
+      "townHallLevel": 15
+    },
+    {
+      "level": 10,
+      "初始每秒伤害": 120,
+      "1.25秒后每秒伤害": 260,
+      "5.25秒后每秒伤害": 2600,
+      "hp": 4400,
+      "upgradeCost": 11000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 11,
+      "初始每秒伤害": 140,
+      "1.25秒后每秒伤害": 290,
+      "5.25秒后每秒伤害": 2900,
+      "hp": 4800,
+      "upgradeCost": 16000000,
+      "upgradeTime": "12d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 12,
+      "初始每秒伤害": 155,
+      "1.25秒后每秒伤害": 330,
+      "5.25秒后每秒伤害": 3300,
+      "hp": 5100,
+      "upgradeCost": 26500000,
+      "upgradeTime": "13d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/030a",
+  "imgSrc": "Inferno_Tower12.png"
+}

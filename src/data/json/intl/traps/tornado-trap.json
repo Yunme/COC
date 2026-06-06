@@ -1,0 +1,35 @@
+{
+  "id": "tornado-trap",
+  "name": "Tornado Trap",
+  "nameCn": "飓风陷阱",
+  "category": "traps",
+  "village": "home",
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 1,
+      "总伤害": 39,
+      "陷阱持续时间": 5,
+      "upgradeCost": 1800000,
+      "townHallLevel": 11
+    },
+    {
+      "level": 2,
+      "总伤害": 47,
+      "陷阱持续时间": 6,
+      "upgradeCost": 2000000,
+      "upgradeTime": "1d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 3,
+      "总伤害": 55,
+      "陷阱持续时间": 7,
+      "upgradeCost": 2500000,
+      "upgradeTime": "2d",
+      "townHallLevel": 12
+    }
+  ],
+  "imgFolder": "home_buildings/0386",
+  "imgSrc": "Tornado_Trap_info.png"
+}

@@ -1,0 +1,151 @@
+{
+  "id": "clan-castle",
+  "name": "Clan Castle",
+  "nameCn": "部落城堡",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 14,
+  "levels": [
+    {
+      "level": 1,
+      "可容纳的部队人口": 10,
+      "可容纳的法术空间": 0,
+      "可容纳的攻城机器数量": 0,
+      "hp": 600,
+      "upgradeCost": 10000,
+      "townHallLevel": 2
+    },
+    {
+      "level": 2,
+      "可容纳的部队人口": 15,
+      "可容纳的法术空间": 0,
+      "可容纳的攻城机器数量": 0,
+      "hp": 1200,
+      "upgradeCost": 50000,
+      "upgradeTime": "2h",
+      "townHallLevel": 4
+    },
+    {
+      "level": 3,
+      "可容纳的部队人口": 20,
+      "可容纳的法术空间": 0,
+      "可容纳的攻城机器数量": 0,
+      "hp": 1800,
+      "upgradeCost": 600000,
+      "upgradeTime": "12h",
+      "townHallLevel": 6
+    },
+    {
+      "level": 4,
+      "可容纳的部队人口": 25,
+      "可容纳的法术空间": 1,
+      "可容纳的攻城机器数量": 0,
+      "hp": 2600,
+      "upgradeCost": 1200000,
+      "upgradeTime": "1d",
+      "townHallLevel": 8
+    },
+    {
+      "level": 5,
+      "可容纳的部队人口": 30,
+      "可容纳的法术空间": 1,
+      "可容纳的攻城机器数量": 0,
+      "hp": 3000,
+      "upgradeCost": 2000000,
+      "upgradeTime": "1d12h",
+      "townHallLevel": 9
+    },
+    {
+      "level": 6,
+      "可容纳的部队人口": 35,
+      "可容纳的法术空间": 1,
+      "可容纳的攻城机器数量": 1,
+      "hp": 3400,
+      "upgradeCost": 3000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 10
+    },
+    {
+      "level": 7,
+      "可容纳的部队人口": 35,
+      "可容纳的法术空间": 2,
+      "可容纳的攻城机器数量": 1,
+      "hp": 4000,
+      "upgradeCost": 5000000,
+      "upgradeTime": "3d",
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "可容纳的部队人口": 40,
+      "可容纳的法术空间": 2,
+      "可容纳的攻城机器数量": 1,
+      "hp": 4400,
+      "upgradeCost": 5000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "可容纳的部队人口": 45,
+      "可容纳的法术空间": 2,
+      "可容纳的攻城机器数量": 1,
+      "hp": 4800,
+      "upgradeCost": 8000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "可容纳的部队人口": 45,
+      "可容纳的法术空间": 3,
+      "可容纳的攻城机器数量": 1,
+      "hp": 5200,
+      "upgradeCost": 10000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "可容纳的部队人口": 50,
+      "可容纳的法术空间": 3,
+      "可容纳的攻城机器数量": 1,
+      "hp": 5400,
+      "upgradeCost": 12000000,
+      "upgradeTime": "8d",
+      "townHallLevel": 15
+    },
+    {
+      "level": 12,
+      "可容纳的部队人口": 50,
+      "可容纳的法术空间": 3,
+      "可容纳的攻城机器数量": 2,
+      "hp": 5600,
+      "upgradeCost": 14500000,
+      "upgradeTime": "9d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 13,
+      "可容纳的部队人口": 55,
+      "可容纳的法术空间": 3,
+      "可容纳的攻城机器数量": 2,
+      "hp": 5800,
+      "upgradeCost": 19000000,
+      "upgradeTime": "11d",
+      "townHallLevel": 17
+    },
+    {
+      "level": 14,
+      "可容纳的部队人口": 55,
+      "可容纳的法术空间": 4,
+      "可容纳的攻城机器数量": 2,
+      "hp": 6000,
+      "upgradeCost": 28000000,
+      "upgradeTime": "14d",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_buildings/0407",
+  "imgSrc": "Clan_Castle14_hd.png"
+}

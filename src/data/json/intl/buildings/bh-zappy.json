@@ -1,0 +1,92 @@
+{
+  "id": "bh-zappy",
+  "name": "Zappy",
+  "nameCn": "电击车",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 42,
+      "damagePerHit": 42,
+      "hp": 330,
+      "所需奥仔哨站等级": 1,
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 2,
+      "dps": 46,
+      "damagePerHit": 46,
+      "hp": 350,
+      "所需奥仔哨站等级": 2,
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 3,
+      "dps": 50,
+      "damagePerHit": 50,
+      "hp": 369,
+      "所需奥仔哨站等级": 3,
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 4,
+      "dps": 55,
+      "damagePerHit": 55,
+      "hp": 389,
+      "所需奥仔哨站等级": 4,
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 5,
+      "dps": 59,
+      "damagePerHit": 59,
+      "hp": 408,
+      "所需奥仔哨站等级": 5,
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 6,
+      "dps": 63,
+      "damagePerHit": 63,
+      "hp": 428,
+      "所需奥仔哨站等级": 6,
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 7,
+      "dps": 67,
+      "damagePerHit": 67,
+      "hp": 447,
+      "所需奥仔哨站等级": 7,
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 8,
+      "dps": 71,
+      "damagePerHit": 71,
+      "hp": 467,
+      "所需奥仔哨站等级": 8,
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 9,
+      "dps": 76,
+      "damagePerHit": 76,
+      "hp": 486,
+      "所需奥仔哨站等级": 9,
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 10,
+      "dps": 80,
+      "damagePerHit": 80,
+      "hp": 518,
+      "所需奥仔哨站等级": 10,
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1241",
+  "imgSrc": "Zappy_info.png"
+}

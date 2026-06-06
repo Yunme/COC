@@ -1,0 +1,102 @@
+{
+  "id": "bh-gem-mine",
+  "name": "Gem Mine",
+  "nameCn": "宝石矿井",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "每天产量": 2.16,
+      "矿井容量": 10,
+      "upgradeTime": "1h",
+      "hp": 300,
+      "upgradeCost": 120000,
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 2,
+      "每天产量": 2.4,
+      "矿井容量": 11,
+      "upgradeTime": "2h",
+      "hp": 350,
+      "upgradeCost": 180000,
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 3,
+      "每天产量": 2.64,
+      "矿井容量": 12,
+      "upgradeTime": "6h",
+      "hp": 400,
+      "upgradeCost": 240000,
+      "所需夜世界大本营等级": 3
+    },
+    {
+      "level": 4,
+      "每天产量": 2.88,
+      "矿井容量": 13,
+      "upgradeTime": "8h",
+      "hp": 460,
+      "upgradeCost": 450000,
+      "所需夜世界大本营等级": 4
+    },
+    {
+      "level": 5,
+      "每天产量": 3.12,
+      "矿井容量": 14,
+      "upgradeTime": "12h",
+      "hp": 550,
+      "upgradeCost": 1000000,
+      "所需夜世界大本营等级": 5
+    },
+    {
+      "level": 6,
+      "每天产量": 3.36,
+      "矿井容量": 15,
+      "upgradeTime": "1d",
+      "hp": 650,
+      "upgradeCost": 1500000,
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 7,
+      "每天产量": 3.84,
+      "矿井容量": 16,
+      "upgradeTime": "2d",
+      "hp": 750,
+      "upgradeCost": 2500000,
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 8,
+      "每天产量": 4.32,
+      "矿井容量": 17,
+      "upgradeTime": "4d",
+      "hp": 850,
+      "upgradeCost": 3500000,
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 9,
+      "每天产量": 4.8,
+      "矿井容量": 18,
+      "upgradeTime": "6d",
+      "hp": 1000,
+      "upgradeCost": 4500000,
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 10,
+      "每天产量": 5.04,
+      "矿井容量": 19,
+      "upgradeTime": "8d",
+      "hp": 1150,
+      "upgradeCost": 5500000,
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1205",
+  "imgSrc": "Gem_Mine10.png"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "bh-ottos-outpost",
+  "name": "O.T.T.O's Outpost",
+  "nameCn": "奥仔哨站",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "生成的电击车数量": 2,
+      "hp": 650,
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 2,
+      "生成的电击车数量": 2,
+      "hp": 800,
+      "upgradeCost": 1000000,
+      "upgradeTime": "1d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 3,
+      "生成的电击车数量": 2,
+      "hp": 975,
+      "upgradeCost": 1250000,
+      "upgradeTime": "2d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 4,
+      "生成的电击车数量": 3,
+      "hp": 1150,
+      "upgradeCost": 1500000,
+      "upgradeTime": "3d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 5,
+      "生成的电击车数量": 3,
+      "hp": 1350,
+      "upgradeCost": 1750000,
+      "upgradeTime": "4d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 6,
+      "生成的电击车数量": 3,
+      "hp": 1600,
+      "upgradeCost": 2000000,
+      "upgradeTime": "5d",
+      "所需夜世界大本营等级": 6
+    },
+    {
+      "level": 7,
+      "生成的电击车数量": 4,
+      "hp": 1850,
+      "upgradeCost": 3000000,
+      "upgradeTime": "7d",
+      "所需夜世界大本营等级": 7
+    },
+    {
+      "level": 8,
+      "生成的电击车数量": 4,
+      "hp": 2150,
+      "upgradeCost": 4000000,
+      "upgradeTime": "9d",
+      "所需夜世界大本营等级": 8
+    },
+    {
+      "level": 9,
+      "生成的电击车数量": 4,
+      "hp": 2450,
+      "upgradeCost": 5000000,
+      "upgradeTime": "10d",
+      "所需夜世界大本营等级": 9
+    },
+    {
+      "level": 10,
+      "生成的电击车数量": 5,
+      "hp": 2750,
+      "upgradeCost": 6000000,
+      "upgradeTime": "11d",
+      "所需夜世界大本营等级": 10
+    }
+  ],
+  "imgFolder": "bh_buildings/1240",
+  "imgSrc": "O.T.T.O's_Outpost10.png"
+}

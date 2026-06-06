@@ -1,0 +1,64 @@
+{
+  "id": "dragon-rider",
+  "name": "Dragon Rider",
+  "nameCn": "龙骑士",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 6,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 340,
+      "damagePerHit": 408,
+      "hp": 4100,
+      "townHallLevel": 13
+    },
+    {
+      "level": 2,
+      "dps": 370,
+      "damagePerHit": 444,
+      "hp": 4400,
+      "upgradeCost": 7500000,
+      "upgradeTime": "8d",
+      "townHallLevel": 13
+    },
+    {
+      "level": 3,
+      "dps": 400,
+      "damagePerHit": 480,
+      "hp": 4700,
+      "upgradeCost": 12000000,
+      "upgradeTime": "10d12h",
+      "townHallLevel": 14
+    },
+    {
+      "level": 4,
+      "dps": 430,
+      "damagePerHit": 516,
+      "hp": 5100,
+      "upgradeCost": 17200000,
+      "upgradeTime": "13d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 5,
+      "dps": 470,
+      "damagePerHit": 564,
+      "hp": 5600,
+      "upgradeCost": 22500000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 17
+    },
+    {
+      "level": 6,
+      "dps": 520,
+      "damagePerHit": 624,
+      "hp": 6200,
+      "upgradeCost": 29500000,
+      "upgradeTime": "15d12h",
+      "townHallLevel": 18
+    }
+  ],
+  "imgFolder": "home_tech/000e",
+  "imgSrc": "Dragon_Rider_info.png"
+}

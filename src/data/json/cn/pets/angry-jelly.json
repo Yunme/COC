@@ -1,0 +1,100 @@
+{
+  "id": "angry-jelly",
+  "name": "Angry Jelly",
+  "nameCn": "愤怒水母",
+  "category": "pets",
+  "village": "home",
+  "maxLevel": 10,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 112,
+      "damagePerHit": 84,
+      "hp": 1450,
+      "townHallLevel": 16
+    },
+    {
+      "level": 2,
+      "dps": 121,
+      "damagePerHit": 90.75,
+      "hp": 1525,
+      "upgradeCost": 168750,
+      "upgradeTime": "3d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 3,
+      "dps": 130,
+      "damagePerHit": 97.5,
+      "hp": 1600,
+      "upgradeCost": 176250,
+      "upgradeTime": "4d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 4,
+      "dps": 139,
+      "damagePerHit": 104.25,
+      "hp": 1675,
+      "upgradeCost": 183750,
+      "upgradeTime": "5d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 5,
+      "dps": 148,
+      "damagePerHit": 111,
+      "hp": 1750,
+      "upgradeCost": 191250,
+      "upgradeTime": "6d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 6,
+      "dps": 157,
+      "damagePerHit": 117.75,
+      "hp": 1825,
+      "upgradeCost": 198750,
+      "upgradeTime": "7d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 7,
+      "dps": 166,
+      "damagePerHit": 124.5,
+      "hp": 1900,
+      "upgradeCost": 206250,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 8,
+      "dps": 175,
+      "damagePerHit": 131.25,
+      "hp": 1975,
+      "upgradeCost": 213750,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 9,
+      "dps": 184,
+      "damagePerHit": 138,
+      "hp": 2050,
+      "upgradeCost": 221250,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    },
+    {
+      "level": 10,
+      "dps": 193,
+      "damagePerHit": 144.75,
+      "hp": 2125,
+      "upgradeCost": 236250,
+      "upgradeTime": "8d",
+      "townHallLevel": 16
+    }
+  ],
+  "imgFolder": "home_heroes/0289",
+  "imgSrc": "Angry_Jelly_info.png"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "balloon",
+  "name": "Balloon",
+  "nameCn": "气球兵",
+  "category": "troops",
+  "village": "home",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "dps": 25,
+      "damagePerHit": 75,
+      "死亡溅射伤害": 25,
+      "hp": 150,
+      "requiredLabLevel": 1,
+      "townHallLevel": 4
+    },
+    {
+      "level": 2,
+      "dps": 32,
+      "damagePerHit": 96,
+      "死亡溅射伤害": 32,
+      "hp": 180,
+      "upgradeCost": 100000,
+      "upgradeTime": "4h",
+      "requiredLabLevel": 2,
+      "townHallLevel": 4
+    },
+    {
+      "level": 3,
+      "dps": 48,
+      "damagePerHit": 144,
+      "死亡溅射伤害": 48,
+      "hp": 216,
+      "upgradeCost": 400000,
+      "upgradeTime": "6h",
+      "requiredLabLevel": 4,
+      "townHallLevel": 6
+    },
+    {
+      "level": 4,
+      "dps": 72,
+      "damagePerHit": 216,
+      "死亡溅射伤害": 72,
+      "hp": 280,
+      "upgradeCost": 720000,
+      "upgradeTime": "18h",
+      "requiredLabLevel": 5,
+      "townHallLevel": 7
+    },
+    {
+      "level": 5,
+      "dps": 108,
+      "damagePerHit": 324,
+      "死亡溅射伤害": 108,
+      "hp": 390,
+      "upgradeCost": 1300000,
+      "upgradeTime": "1d",
+      "requiredLabLevel": 6,
+      "townHallLevel": 8
+    },
+    {
+      "level": 6,
+      "dps": 162,
+      "damagePerHit": 486,
+      "死亡溅射伤害": 162,
+      "hp": 545,
+      "upgradeCost": 2750000,
+      "upgradeTime": "3d",
+      "requiredLabLevel": 7,
+      "townHallLevel": 9
+    },
+    {
+      "level": 7,
+      "dps": 198,
+      "damagePerHit": 594,
+      "死亡溅射伤害": 214,
+      "hp": 690,
+      "upgradeCost": 4400000,
+      "upgradeTime": "3d6h",
+      "requiredLabLevel": 9,
+      "townHallLevel": 11
+    },
+    {
+      "level": 8,
+      "dps": 236,
+      "damagePerHit": 708,
+      "死亡溅射伤害": 268,
+      "hp": 840,
+      "upgradeCost": 5000000,
+      "upgradeTime": "3d12h",
+      "requiredLabLevel": 10,
+      "townHallLevel": 12
+    },
+    {
+      "level": 9,
+      "dps": 256,
+      "damagePerHit": 768,
+      "死亡溅射伤害": 322,
+      "hp": 940,
+      "upgradeCost": 7000000,
+      "upgradeTime": "4d12h",
+      "requiredLabLevel": 11,
+      "townHallLevel": 13
+    },
+    {
+      "level": 10,
+      "dps": 276,
+      "damagePerHit": 828,
+      "死亡溅射伤害": 352,
+      "hp": 1040,
+      "upgradeCost": 10000000,
+      "upgradeTime": "7d",
+      "requiredLabLevel": 12,
+      "townHallLevel": 14
+    },
+    {
+      "level": 11,
+      "dps": 290,
+      "damagePerHit": 870,
+      "死亡溅射伤害": 375,
+      "hp": 1140,
+      "upgradeCost": 14000000,
+      "upgradeTime": "8d12h",
+      "requiredLabLevel": 14,
+      "townHallLevel": 16
+    },
+    {
+      "level": 12,
+      "dps": 304,
+      "damagePerHit": 912,
+      "死亡溅射伤害": 398,
+      "hp": 1240,
+      "upgradeCost": 17500000,
+      "upgradeTime": "11d",
+      "requiredLabLevel": 15,
+      "townHallLevel": 17
+    }
+  ],
+  "imgFolder": "home_tech/0005",
+  "imgSrc": "Balloon_info.png"
+}

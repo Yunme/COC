@@ -1,0 +1,75 @@
+{
+  "id": "dark-spell-factory",
+  "name": "Dark Spell Factory",
+  "nameCn": "暗黑法术工厂",
+  "category": "buildings",
+  "village": "home",
+  "maxLevel": 7,
+  "levels": [
+    {
+      "level": 1,
+      "可容纳的法术空间": 1,
+      "hp": 600,
+      "upgradeCost": 130000,
+      "upgradeTime": "6h",
+      "townHallLevel": 8,
+      "解锁的法术": "<a href=\"/upgrade/0180-Poison-Spell\">毒药法术</a>"
+    },
+    {
+      "level": 2,
+      "可容纳的法术空间": 1,
+      "hp": 660,
+      "upgradeCost": 260000,
+      "upgradeTime": "12h",
+      "townHallLevel": 8,
+      "解锁的法术": "<a href=\"/upgrade/0181-Earthquake-Spell\">地震法术</a>"
+    },
+    {
+      "level": 3,
+      "可容纳的法术空间": 1,
+      "hp": 720,
+      "upgradeCost": 600000,
+      "upgradeTime": "2d",
+      "townHallLevel": 9,
+      "解锁的法术": "<a href=\"/upgrade/0182-Haste-Spell\">急速法术</a>"
+    },
+    {
+      "level": 4,
+      "可容纳的法术空间": 1,
+      "hp": 780,
+      "upgradeCost": 1200000,
+      "upgradeTime": "4d",
+      "townHallLevel": 9,
+      "解锁的法术": "<a href=\"/upgrade/0183-Skeleton-Spell\">骷髅法术</a>"
+    },
+    {
+      "level": 5,
+      "可容纳的法术空间": 1,
+      "hp": 840,
+      "upgradeCost": 2500000,
+      "upgradeTime": "5d",
+      "townHallLevel": 10,
+      "解锁的法术": "<a href=\"/upgrade/0184-Bat-Spell\">蝙蝠法术</a>"
+    },
+    {
+      "level": 6,
+      "可容纳的法术空间": 1,
+      "hp": 950,
+      "upgradeCost": 4000000,
+      "upgradeTime": "6d",
+      "townHallLevel": 12,
+      "解锁的法术": "<a href=\"/upgrade/0185-Overgrowth-Spell\">蔓生法术</a>"
+    },
+    {
+      "level": 7,
+      "可容纳的法术空间": 1,
+      "hp": 1010,
+      "upgradeCost": 11000000,
+      "upgradeTime": "7d",
+      "townHallLevel": 14,
+      "解锁的法术": "<a href=\"/upgrade/0186-Ice-Block-Spell\">冰障法术</a>"
+    }
+  ],
+  "imgFolder": "home_buildings/0485",
+  "imgSrc": "Dark_Spell_Factory7_hd.png"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "bh-builder-barracks",
+  "name": "Builder Barracks",
+  "nameCn": "建筑大师训练营",
+  "category": "buildings",
+  "village": "builder",
+  "maxLevel": 12,
+  "levels": [
+    {
+      "level": 1,
+      "hp": 300,
+      "upgradeCost": 1000,
+      "townHallLevel": 2,
+      "解锁的兵种": "<a href=\"/upgrade/1000-Raged-Barbarian\">狂暴野蛮人</a>"
+    },
+    {
+      "level": 2,
+      "hp": 350,
+      "upgradeCost": 4000,
+      "upgradeTime": "1m",
+      "townHallLevel": 2,
+      "解锁的兵种": "<a href=\"/upgrade/1001-Sneaky-Archer\">隐秘弓箭手</a>"
+    },
+    {
+      "level": 3,
+      "hp": 400,
+      "upgradeCost": 10000,
+      "upgradeTime": "10m",
+      "townHallLevel": 3,
+      "解锁的兵种": "<a href=\"/upgrade/1002-Boxer-Giant\">巨人拳击手</a>"
+    },
+    {
+      "level": 4,
+      "hp": 460,
+      "upgradeCost": 25000,
+      "upgradeTime": "30m",
+      "townHallLevel": 3,
+      "解锁的兵种": "<a href=\"/upgrade/1003-Beta-Minion\">异变亡灵</a>"
+    },
+    {
+      "level": 5,
+      "hp": 550,
+      "upgradeCost": 100000,
+      "upgradeTime": "3h",
+      "townHallLevel": 4,
+      "解锁的兵种": "<a href=\"/upgrade/1004-Bomber\">炸弹兵</a>"
+    },
+    {
+      "level": 6,
+      "hp": 650,
+      "upgradeCost": 150000,
+      "upgradeTime": "6h",
+      "townHallLevel": 4,
+      "解锁的兵种": "<a href=\"/upgrade/1005-Baby-Dragon\">飞龙宝宝</a>"
+    },
+    {
+      "level": 7,
+      "hp": 750,
+      "upgradeCost": 300000,
+      "upgradeTime": "9h",
+      "townHallLevel": 5,
+      "解锁的兵种": "<a href=\"/upgrade/1006-Cannon-Cart\">加农炮战车</a>"
+    },
+    {
+      "level": 8,
+      "hp": 850,
+      "upgradeCost": 500000,
+      "upgradeTime": "1d",
+      "townHallLevel": 6,
+      "解锁的兵种": "<a href=\"/upgrade/1007-Night-Witch\">暗夜女巫</a>"
+    },
+    {
+      "level": 9,
+      "hp": 1000,
+      "upgradeCost": 1000000,
+      "upgradeTime": "2d",
+      "townHallLevel": 7,
+      "解锁的兵种": "<a href=\"/upgrade/1008-Drop-Ship\">骷髅气球</a>"
+    },
+    {
+      "level": 10,
+      "hp": 1150,
+      "upgradeCost": 1500000,
+      "upgradeTime": "3d",
+      "townHallLevel": 8,
+      "解锁的兵种": "<a href=\"/upgrade/1009-Power-P.E.K.K.A\">雷霆皮卡</a>"
+    },
+    {
+      "level": 11,
+      "hp": 1300,
+      "upgradeCost": 2000000,
+      "upgradeTime": "4d",
+      "townHallLevel": 9,
+      "解锁的兵种": "<a href=\"/upgrade/100a-Hog-Glider\">野猪飞骑</a>"
+    },
+    {
+      "level": 12,
+      "hp": 1450,
+      "upgradeCost": 3000000,
+      "upgradeTime": "5d",
+      "townHallLevel": 10,
+      "解锁的兵种": "<a href=\"/upgrade/100b-Electrofire-Wizard\">电火法师</a>"
+    }
+  ],
+  "imgFolder": "bh_buildings/1280",
+  "imgSrc": "Builder_Barracks12.png"
+}
