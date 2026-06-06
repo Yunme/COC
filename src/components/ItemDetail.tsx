@@ -67,7 +67,6 @@ function applyTime(time: string | undefined, gp: number): string | undefined {
 
 function formatCost(cost: number | undefined): string {
   if (cost === undefined || cost === null) return '-'
-  if (cost >= 10000000) return (cost / 10000000).toFixed(1) + 'M'
   if (cost >= 10000) return (cost / 10000).toFixed(1) + '万'
   return cost.toLocaleString()
 }
