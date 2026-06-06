@@ -6,11 +6,9 @@ interface Props {
   onSelect: (item: UpgradeItem) => void
 }
 
-const BASE = 'https://static.clashpost.com/upgrade'
-
 function itemImgUrl(item: UpgradeItem): string | null {
   if (!item.imgFolder || !item.imgSrc) return null
-  return `${BASE}/${item.imgFolder}/${item.imgSrc}`
+  return `${import.meta.env.BASE_URL}images/${item.imgFolder}/${item.imgSrc}`
 }
 
 export default function ItemList({ items, onSelect }: Props) {
