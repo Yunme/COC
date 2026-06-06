@@ -31,7 +31,7 @@ function ItemCard({ item, onSelect }: { item: UpgradeItem; onSelect: (item: Upgr
     <div className="item-card" onClick={() => onSelect(item)}>
       {showImg && (
         <div className="item-card-img">
-          <img src={url!} alt={item.name} onError={() => setImgErr(true)} />
+          <img src={url!} alt={item.name} referrerPolicy="no-referrer" onError={() => setImgErr(true)} />
         </div>
       )}
       <div className="item-card-name">{item.nameCn}</div>
