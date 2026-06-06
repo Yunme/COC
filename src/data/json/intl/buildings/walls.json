@@ -2,7 +2,7 @@
   "id": "walls",
   "name": "Walls",
   "nameCn": "城墙",
-  "category": "buildings",
+  "category": "walls",
   "village": "home",
   "maxLevel": 19,
   "levels": [

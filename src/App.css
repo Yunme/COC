@@ -91,6 +91,13 @@
   font-weight: 600;
 }
 
+.empty-state {
+  text-align: center;
+  padding: 48px 16px;
+  color: var(--text-dim);
+  font-size: 16px;
+}
+
 /* Item list grid */
 .item-list {
   display: grid;
@@ -384,8 +391,8 @@ td {
     font-size: 13px;
   }
 
-  table { font-size: 10px; }
-  th, td { padding: 4px 2px; }
+  table { font-size: 12px; }
+  th, td { padding: 6px 3px; }
 }
 
 

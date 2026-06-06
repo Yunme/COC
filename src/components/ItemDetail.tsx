@@ -106,7 +106,7 @@ export default function ItemDetail({ item, onBack }: Props) {
 
   return (
     <div className="item-detail">
-      <button className="back-btn" onClick={onBack}>← 返回列表</button>
+      <button className="back-btn" onClick={onBack} aria-label="返回列表">← 返回列表</button>
 
       <div className="gp-bar">
         <span className="gp-label">月卡减免</span>

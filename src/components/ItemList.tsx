@@ -12,6 +12,9 @@ function itemImgUrl(item: UpgradeItem): string | null {
 }
 
 export default function ItemList({ items, onSelect }: Props) {
+  if (items.length === 0) {
+    return <div className="empty-state">该分类暂无数据</div>
+  }
   return (
     <div className="item-list">
       {items.map(item => (
@@ -29,7 +32,7 @@ function ItemCard({ item, onSelect }: { item: UpgradeItem; onSelect: (item: Upgr
     <div className="item-card" onClick={() => onSelect(item)}>
       {showImg && (
         <div className="item-card-img">
-          <img src={url!} alt={item.name} referrerPolicy="no-referrer" onError={() => setImgErr(true)} />
+          <img src={url!} alt={item.nameCn} loading="lazy" referrerPolicy="no-referrer" onError={() => setImgErr(true)} />
         </div>
       )}
       <div className="item-card-name">{item.nameCn}</div>

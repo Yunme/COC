@@ -17,7 +17,7 @@ export default function App() {
   const villageItems = getItemsByVillage(internationalData, village)
   const categories = village === 'home' ? homeCategories : builderCategories
   const categoryItems = getItemsByCategory(villageItems, category)
-  const selectedItem = selectedItemId ? findItem(internationalData, selectedItemId) : null
+  const selectedItem = selectedItemId ? findItem(internationalData, selectedItemId) ?? null : null
 
   return (
     <div className="app">

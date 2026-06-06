@@ -2,7 +2,7 @@
   "id": "bh-walls",
   "name": "Walls",
   "nameCn": "城墙",
-  "category": "buildings",
+  "category": "walls",
   "village": "builder",
   "maxLevel": 10,
   "levels": [
